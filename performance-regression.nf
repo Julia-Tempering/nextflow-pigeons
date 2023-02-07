@@ -25,25 +25,16 @@ process list_commits {
   unzip repo.zip
   cd repo 
 
-  for commit in `git rev-list --remotes` 
+  for commit in `git rev-list --remotes | head` 
   do
     echo \$commit > commit_\$commit
   done
   """
 }
 
-process temp {
-  echo true 
-  input:
-    
-  """
-  echo Received: $commits
-  """
-}
-
 
 process make_private_julia { // will run one for each commit
-  time '5m'
+  time '20m'
   cpus 1
   input:
     file repo_zip
@@ -59,11 +50,9 @@ process make_private_julia { // will run one for each commit
   unzip repo.zip
   cd repo
   git reset --hard `cat $commit`
-  cd -
   
-  # prep depo
-  cp $depot_zip private_julia/depot.zip
-  cd private_julia
+  # prep depot
+  cp $depot_zip .
   unzip depot.zip
   mv .julia depot
   cd -
