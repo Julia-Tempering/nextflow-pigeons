@@ -5,6 +5,10 @@ channels:
   - defaults
   - r
 dependencies:
+  - julia=1.8.*
+  - r-base=4.*
   - r-ggplot2
   - r-dplyr
+  - r-scales
+  - r-tidyr
   - openjdk=11.0.13

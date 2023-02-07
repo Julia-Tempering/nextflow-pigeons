@@ -1,4 +1,0 @@
-Processing actualTemperedRestarts.csv from exec_1
-Processing actualTemperedRestarts.csv from exec_2
-Processing swapSummaries.csv from exec_1
-Processing swapSummaries.csv from exec_2
