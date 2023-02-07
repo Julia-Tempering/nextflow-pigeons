@@ -14,13 +14,40 @@ process clone { // clone only once
   """
 }
 
-// TODO: list all commits and feed it down to make_private_julia
+process list_commits {
+  echo false
+  input:
+    file repo_zip 
+  output:
+    file 'repo/commit_*' into commit
+
+  """
+  unzip repo.zip
+  cd repo 
+
+  for commit in `git rev-list --remotes` 
+  do
+    echo \$commit > commit_\$commit
+  done
+  """
+}
+
+process temp {
+  echo true 
+  input:
+    
+  """
+  echo Received: $commits
+  """
+}
+
 
 process make_private_julia { // will run one for each commit
   time '5m'
   cpus 1
   input:
     file repo_zip
+    each commit
   output:
     file 'private_julia' into private_julia
   """
@@ -30,9 +57,8 @@ process make_private_julia { // will run one for each commit
   cp $repo_zip private_julia/repo.zip
   cd private_julia
   unzip repo.zip
-  # TODO: switch to given commit
-  # cd repo
-  # git reset --hard COMMIT
+  cd repo
+  git reset --hard `cat $commit`
   cd -
   
   # prep depo
@@ -73,22 +99,3 @@ process run_julia {
   """
 }
 
-/*
-
-- list all commits across all branches
-
-- copy zip file of .julia?
-
-- unzip, 
-
-- move to commit
-
-Pkg.activate(".")
-Pkg.offline()
-Pkg.instantiate()
-
-
-- run julia with provided julia home
-
-
-*/
