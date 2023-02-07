@@ -19,7 +19,7 @@ timed = run_bench()
 time = timed.time
 bytes = timed.bytes 
 commit = readline("commit")
-date = run(`git show -s --format=%ci $commit`)
+date = replace(read(`git show -s --format=%ct $commit`, String), "\n" => "")
 write("../../results/info.tsv", "commit\t$commit")
 write("../../results/stats.csv", 
     """
