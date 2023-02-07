@@ -15,9 +15,15 @@ function run_bench()
 end
 
 timed = run_bench()
+
 time = timed.time
 bytes = timed.bytes 
-
-
-
-# create CVS, order by branch
+commit = readline("commit")
+date = run(`git show -s --format=%ci $commit`)
+write("../../results/info.tsv", "commit\t$commit")
+write("../../results/stats.csv", 
+    """
+    time,bytes,date
+    $time,$bytes,$date
+    """
+)

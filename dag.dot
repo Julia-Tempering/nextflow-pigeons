@@ -1,50 +1,30 @@
 digraph "dag" {
-p0 [shape=point,label="",fixedsize=true,width=0.1];
-p4 [label="buildBlangDemoCode"];
-p0 -> p4 [label="gitRepoName"];
+p0 [label="clone"];
+p1 [label="list_commits"];
+p0 -> p1 [label="repo_zip"];
 
-p1 [shape=point,label="",fixedsize=true,width=0.1];
-p4 [label="buildBlangDemoCode"];
-p1 -> p4 [label="gitUser"];
+p1 [label="list_commits"];
+p2 [shape=point];
+p1 -> p2 [label="commit"];
 
-p2 [shape=point,label="",fixedsize=true,width=0.1];
-p4 [label="buildBlangDemoCode"];
-p2 -> p4 [label="codeRevision"];
+p0 [label="clone"];
+p4 [label="make_private_julia"];
+p0 -> p4 [label="repo_zip"];
 
 p3 [shape=point,label="",fixedsize=true,width=0.1];
-p4 [label="buildBlangDemoCode"];
-p3 -> p4 [label="snapshotPath"];
+p4 [label="make_private_julia"];
+p3 -> p4;
 
-p4 [label="buildBlangDemoCode"];
-p9 [label="runBlang"];
-p4 -> p9 [label="code"];
+p4 [label="make_private_julia"];
+p5 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="toList"];
+p4 -> p5 [label="results"];
 
-p5 [shape=point,label="",fixedsize=true,width=0.1];
-p9 [label="runBlang"];
-p5 -> p9;
+p5 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="toList"];
+p6 [label="aggregate"];
+p5 -> p6;
 
-p6 [shape=point,label="",fixedsize=true,width=0.1];
-p9 [label="runBlang"];
-p6 -> p9;
-
-p7 [shape=point,label="",fixedsize=true,width=0.1];
-p9 [label="runBlang"];
-p7 -> p9;
-
-p8 [shape=point,label="",fixedsize=true,width=0.1];
-p9 [label="runBlang"];
-p8 -> p9 [label="data"];
-
-p9 [label="runBlang"];
-p10 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="toList"];
-p9 -> p10 [label="results"];
-
-p10 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="toList"];
-p11 [label="aggregate"];
-p10 -> p11;
-
-p11 [label="aggregate"];
-p12 [label="plot"];
-p11 -> p12 [label="aggregated"];
+p6 [label="aggregate"];
+p7 [label="plot"];
+p6 -> p7 [label="aggregated"];
 
 }
