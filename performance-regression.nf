@@ -1,6 +1,8 @@
 params.depot_zip
 depot_zip = file(params.depot_zip)
 
+benchmark_script = file("benchmark.jl")
+
 process clone { // clone only once
   executor 'local'
   cache true 
@@ -25,7 +27,7 @@ process list_commits {
   unzip repo.zip
   cd repo 
 
-  for commit in `git rev-list --remotes | head` 
+  for commit in `git rev-list --remotes | head -n 1` 
   do
     echo \$commit > commit_\$commit
   done
@@ -34,57 +36,32 @@ process list_commits {
 
 
 process make_private_julia { // will run one for each commit
-  time '20m'
+  time '1h'
   cpus 1
+  echo false
   input:
     file repo_zip
     each commit
-  output:
-    file 'private_julia' into private_julia
   """
   mkdir private_julia 
 
   # prep repo
   cp $repo_zip private_julia/repo.zip
   cd private_julia
-  unzip repo.zip
+  unzip -q repo.zip
   cd repo
   git reset --hard `cat $commit`
+  cd .. # back to private_julia
   
   # prep depot
   cp $depot_zip .
-  unzip depot.zip
+  unzip -q depot.zip
   mv .julia depot
-  cd -
+  cd .. # back to task root
+
+  export JULIA_DEPOT_PATH=`pwd`/private_julia/depot
+  julia -t 1 $benchmark_script
   """
 }
 
-process run_julia {
-  echo true
-  input:
-    env JULIA_DEPOT_PATH from "private_julia/depot" 
-    file private_julia
-  """
-  #!/usr/bin/env julia
-  
-  cd("private_julia/repo")
-
-  using Pkg
-  Pkg.offline()
-
-  Pkg.activate(".")
-  Pkg.instantiate()
-
-  bench() = pigeons(target = toy_mvn_target(100), checkpoint = false, recorder_builders = [])
-  
-  function run_bench()
-    bench()
-    return @timed bench()
-  end
-
-  t = run_bench()
-
-  # create CVS, order by branch
-  """
-}
 
