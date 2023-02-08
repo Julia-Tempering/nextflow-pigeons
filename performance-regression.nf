@@ -36,10 +36,11 @@ process list_commits {
   """
 }
 
-process make_private_julia { 
+process benchmark { 
   time '1h'
   cpus 1
-  echo false
+  echo false 
+  errorStrategy 'ignore'
   input:
     file repo_zip
     each commit

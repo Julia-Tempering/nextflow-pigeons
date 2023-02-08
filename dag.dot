@@ -8,14 +8,14 @@ p2 [shape=point];
 p1 -> p2 [label="commit"];
 
 p0 [label="clone"];
-p4 [label="make_private_julia"];
+p4 [label="benchmark"];
 p0 -> p4 [label="repo_zip"];
 
 p3 [shape=point,label="",fixedsize=true,width=0.1];
-p4 [label="make_private_julia"];
+p4 [label="benchmark"];
 p3 -> p4;
 
-p4 [label="make_private_julia"];
+p4 [label="benchmark"];
 p5 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="toList"];
 p4 -> p5 [label="results"];
 
