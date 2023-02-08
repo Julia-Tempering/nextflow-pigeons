@@ -29,7 +29,7 @@ process list_commits {
   unzip repo.zip
   cd repo 
 
-  for commit in `git rev-list --remotes` 
+  for commit in `git rev-list --remotes | head -n 2` 
   do
     echo \$commit > commit_\$commit
   done
@@ -37,7 +37,7 @@ process list_commits {
 }
 
 process benchmark { 
-  time '1h'
+  time '10m'
   cpus 1
   echo false 
   errorStrategy 'ignore'
@@ -47,26 +47,25 @@ process benchmark {
   output:
     file 'results' into results
   """
-  mkdir private_julia 
-
   # prep repo
-  cp $repo_zip private_julia/repo.zip
-  cd private_julia
   unzip -q repo.zip
   cd repo
-  mv $commit commit
-  git reset --hard `cat commit`
-  cd .. # back to private_julia
+    mv $commit commit
+    git reset --hard `cat commit`
+  cd .. 
   
   # prep depot
   cp $depot_zip .
   unzip -q depot.zip
   mv .julia depot
-  cd .. # back to task root
 
-  export JULIA_DEPOT_PATH=`pwd`/private_julia/depot
+  export JULIA_DEPOT_PATH=`pwd`/depot
   mkdir results
-  julia -t 1 $benchmark_script
+  cd repo
+    julia -t 1 $benchmark_script
+    cp info.tsv ../results/info.tsv
+    cp stats.csv ../results/stats.csv
+  cd -
   """
 }
 
@@ -85,6 +84,8 @@ process aggregate {
     --dataPathInEachExecFolder stats.csv \
     --keys \
       commit \
+      date \
+      in_master \
            from info.tsv
   mv results/latest results/aggregated
   """
@@ -104,16 +105,41 @@ process plot {
   #!/usr/bin/env Rscript
   require("ggplot2")
   require("dplyr")
+  require("scales")
   
-  data <- read.csv("${aggregated}/stats.csv.gz")
+  data <- read.csv("${aggregated}/stats.csv.gz") %>%
+    mutate(date = as.POSIXct(date, origin="1970-01-01", tz="PT")) %>%
+    mutate(time_per_expl = time / 10 / (2^n_rounds))
+
   data %>%
-    ggplot(aes(x = date, y = time)) +
+    filter(n_rounds == 10) %>%
+    ggplot(aes(x = date, y = time_per_expl, colour = in_master)) +
       scale_y_log10() +
-      ylab("Time (s)") + 
-      xlab("Commit time") +
-      geom_line()  + 
+      scale_x_datetime(labels = date_format("%Y-%m-%d")) +
+      ylab("Time (s) per exploration step") + 
+      xlab("Commit date") +
+      geom_point()  + 
       theme_bw()
   ggsave("times.pdf", width = 5, height = 5)
+
+  data %>%
+    filter(n_rounds == 10) %>%
+    ggplot(aes(x = date, y = bytes, colour = in_master)) +
+      scale_x_datetime(labels = date_format("%Y-%m-%d")) +
+      ylab("Allocations for 10 rounds (bytes)") + 
+      xlab("Commit date") +
+      geom_point()  + 
+      theme_bw()
+  ggsave("allocations-by-commit.pdf", width = 5, height = 5)
+
+  data %>%
+    ggplot(aes(x = n_rounds, y = bytes, colour = date)) +
+      ylab("Allocations (bytes)") + 
+      xlab("Round") +
+      geom_point()  + 
+      theme_bw()
+  ggsave("allocations-by-round.pdf", width = 5, height = 5)
+
   """
   
 }
