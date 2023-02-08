@@ -29,7 +29,7 @@ process list_commits {
   unzip repo.zip
   cd repo 
 
-  for commit in `git rev-list --remotes | head -n 2` 
+  for commit in `git rev-list --remotes` 
   do
     echo \$commit > commit_\$commit
   done
@@ -127,7 +127,7 @@ process plot {
     ggplot(aes(x = date, y = time_per_expl, colour = in_master)) +
       scale_y_log10() +
       scale_x_datetime(labels = date_format("%Y-%m-%d")) +
-      ylab("Time (s) for using Pigeons stmt") + 
+      ylab("Time (s) to load package") + 
       xlab("Commit date") +
       geom_point()  + 
       theme_bw()
