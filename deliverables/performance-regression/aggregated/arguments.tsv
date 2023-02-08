@@ -1,4 +1,4 @@
-keys	commit from info.tsv
+keys	commit date in_master from info.tsv
 dataPathInEachExecFolder	stats.csv
 execFoldersPrefix	exec_
 experimentConfigs.managedExecutionFolder	true

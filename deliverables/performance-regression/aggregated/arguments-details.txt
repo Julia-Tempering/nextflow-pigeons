@@ -30,5 +30,5 @@
 
   --experimentConfigs.tabularWriter.compressed true    # <boolean> (default value: false)
 
-  --keys commit from info.tsv    # <String>
+  --keys commit date in_master from info.tsv    # <String>
 #   description: Command line arguments stored in tab separated values for each exec. Syntax: comma separated list of (<key> [as <transformed-key>] )* from [optional] <tsv-file-in-each-exec>
