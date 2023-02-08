@@ -1,7 +1,7 @@
 task_id	hash	native_id	name	status	exit	submit	duration	realtime	%cpu	rss	vmem	rchar	wchar
 1	89/1e0260	237964	clone	CACHED	0	2023-02-07 13:59:13.447	11.8s	2s	17.7%	7.8 MB	408.9 MB	3.6 MB	26.3 KB
-2	24/ec2c71	4610048.pbsha.ib.sockeye	list_commits	COMPLETED	0	2023-02-07 20:55:43.173	19.4s	168ms	0.0%	1.6 MB	110.8 MB	2.9 MB	3.1 MB
-3	ae/4e743c	4610049.pbsha.ib.sockeye	benchmark (1)	COMPLETED	0	2023-02-07 20:56:02.750	3m	2m 33s	97.5%	1 GB	3.5 GB	2.2 GB	3 GB
-4	49/d10d20	4610050.pbsha.ib.sockeye	benchmark (2)	COMPLETED	0	2023-02-07 20:56:02.866	3m 5s	2m 36s	96.9%	971.7 MB	3.2 GB	2.2 GB	3 GB
-5	37/300c73	4610062.pbsha.ib.sockeye	aggregate	COMPLETED	0	2023-02-07 20:59:07.785	24.9s	1.6s	114.9%	63.8 MB	4.4 GB	9 MB	4.6 KB
-6	4a/7bc2c0	4610066.pbsha.ib.sockeye	plot	COMPLETED	0	2023-02-07 20:59:32.834	24.8s	3.1s	63.4%	60.3 MB	265.7 MB	7.7 MB	442 B
+2	3a/2faf6c	4610081.pbsha.ib.sockeye	list_commits	COMPLETED	0	2023-02-07 21:03:01.600	19.4s	217ms	0.0%	1.6 MB	110.8 MB	2.9 MB	3.1 MB
+4	ab/4ebbd2	4610084.pbsha.ib.sockeye	benchmark (2)	COMPLETED	0	2023-02-07 21:03:21.304	3m 5s	2m 37s	96.9%	972 MB	3.2 GB	2.2 GB	3 GB
+3	c7/7ffb8a	4610083.pbsha.ib.sockeye	benchmark (1)	COMPLETED	0	2023-02-07 21:03:21.182	3m 10s	2m 45s	99.3%	1015.4 MB	3.5 GB	2.2 GB	3 GB
+5	b7/4a304b	4610101.pbsha.ib.sockeye	aggregate	COMPLETED	0	2023-02-07 21:06:31.175	34.9s	1.8s	105.2%	62.8 MB	4.4 GB	8.7 MB	657 B
+6	63/405174	4610102.pbsha.ib.sockeye	plot	COMPLETED	0	2023-02-07 21:07:06.164	24.9s	2.4s	60.9%	62.2 MB	265.7 MB	7.7 MB	442 B
