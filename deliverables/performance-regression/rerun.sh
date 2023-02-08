@@ -9,7 +9,7 @@ data <- read.csv("aggregated/stats.csv.gz") %>%
 
 data %>%
   filter(n_rounds == 10) %>%
-  ggplot(aes(x = date, y = time_per_expl, colour = in_master)) +
+  ggplot(aes(x = date, y = time_per_expl)) +
     scale_y_log10() +
     scale_x_datetime(labels = date_format("%Y-%m-%d")) +
     ylab("Time (s) per exploration step") + 
@@ -20,7 +20,7 @@ ggsave("times.pdf", width = 5, height = 5)
 
 data %>%
   filter(n_rounds == 0) %>%
-  ggplot(aes(x = date, y = time_per_expl, colour = in_master)) +
+  ggplot(aes(x = date, y = time_per_expl)) +
     scale_y_log10() +
     scale_x_datetime(labels = date_format("%Y-%m-%d")) +
     ylab("Time (s) to load package") + 
@@ -31,7 +31,7 @@ ggsave("times-using-stmt.pdf", width = 5, height = 5)
 
 data %>%
   filter(n_rounds == 10) %>%
-  ggplot(aes(x = date, y = bytes, colour = in_master)) +
+  ggplot(aes(x = date, y = bytes)) +
     scale_x_datetime(labels = date_format("%Y-%m-%d")) +
     ylab("Allocations for 10 rounds (bytes)") + 
     xlab("Commit date") +

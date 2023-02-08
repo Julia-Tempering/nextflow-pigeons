@@ -37,7 +37,7 @@ process list_commits {
 }
 
 process benchmark { 
-  time '10m'
+  time '1h'
   cpus 1
   echo false 
   errorStrategy 'ignore'
@@ -113,7 +113,7 @@ process plot {
 
   data %>%
     filter(n_rounds == 10) %>%
-    ggplot(aes(x = date, y = time_per_expl, colour = in_master)) +
+    ggplot(aes(x = date, y = time_per_expl)) +
       scale_y_log10() +
       scale_x_datetime(labels = date_format("%Y-%m-%d")) +
       ylab("Time (s) per exploration step") + 
@@ -124,7 +124,7 @@ process plot {
 
   data %>%
     filter(n_rounds == 0) %>%
-    ggplot(aes(x = date, y = time_per_expl, colour = in_master)) +
+    ggplot(aes(x = date, y = time_per_expl)) +
       scale_y_log10() +
       scale_x_datetime(labels = date_format("%Y-%m-%d")) +
       ylab("Time (s) to load package") + 
@@ -135,7 +135,7 @@ process plot {
 
   data %>%
     filter(n_rounds == 10) %>%
-    ggplot(aes(x = date, y = bytes, colour = in_master)) +
+    ggplot(aes(x = date, y = bytes)) +
       scale_x_datetime(labels = date_format("%Y-%m-%d")) +
       ylab("Allocations for 10 rounds (bytes)") + 
       xlab("Commit date") +

@@ -1,540 +1,540 @@
 task_id	hash	native_id	name	status	exit	submit	duration	realtime	%cpu	rss	vmem	rchar	wchar
 1	89/1e0260	237964	clone	CACHED	0	2023-02-07 13:59:13.447	11.8s	2s	17.7%	7.8 MB	408.9 MB	3.6 MB	26.3 KB
-2	0c/f854eb	4610121.pbsha.ib.sockeye	list_commits	COMPLETED	0	2023-02-07 21:10:50.690	19.4s	251ms	0.0%	1.6 MB	110.8 MB	2.9 MB	3.1 MB
-15	e9/d291ec	4610134.pbsha.ib.sockeye	benchmark (13)	FAILED	1	2023-02-07 21:11:11.357	53.8s	27.8s	100.0%	134.8 MB	659.3 MB	1.8 GB	3 GB
-9	42/63ed87	4610136.pbsha.ib.sockeye	benchmark (7)	FAILED	1	2023-02-07 21:11:11.543	53.6s	27.9s	108.6%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
-21	e5/d9af9a	4610151.pbsha.ib.sockeye	benchmark (19)	FAILED	1	2023-02-07 21:11:15.515	49.7s	27.9s	97.2%	99.7 MB	549.6 MB	1.8 GB	3 GB
-50	20/141a25	4610167.pbsha.ib.sockeye	benchmark (48)	FAILED	1	2023-02-07 21:11:17.229	53.7s	27.1s	96.8%	194.9 MB	677.3 MB	1.8 GB	3 GB
-60	57/1d56a7	4610183.pbsha.ib.sockeye	benchmark (58)	FAILED	1	2023-02-07 21:11:18.794	52.1s	29.3s	91.9%	6.6 MB	233.2 MB	1.8 GB	3 GB
-64	43/4f9c5c	4610193.pbsha.ib.sockeye	benchmark (62)	FAILED	1	2023-02-07 21:11:19.663	51.2s	27.3s	101.5%	6.6 MB	233.2 MB	1.8 GB	3 GB
-68	e4/3e39eb	4610194.pbsha.ib.sockeye	benchmark (66)	FAILED	1	2023-02-07 21:11:19.751	51.1s	24.5s	99.8%	259.5 MB	916.2 MB	1.8 GB	3 GB
-97	2e/84bfc3	4610214.pbsha.ib.sockeye	benchmark (95)	FAILED	1	2023-02-07 21:11:21.531	49.4s	26.9s	97.9%	6.7 MB	233.2 MB	1.8 GB	3.1 GB
-98	80/bf492c	4610219.pbsha.ib.sockeye	benchmark (96)	FAILED	1	2023-02-07 21:11:21.999	48.9s	25.4s	94.7%	211.7 MB	681.5 MB	1.8 GB	3.1 GB
-95	34/278278	4610220.pbsha.ib.sockeye	benchmark (93)	FAILED	1	2023-02-07 21:11:22.079	48.8s	26.2s	109.6%	177.6 MB	673.4 MB	1.8 GB	3.1 GB
-52	ae/248f36	4610174.pbsha.ib.sockeye	benchmark (50)	FAILED	1	2023-02-07 21:11:17.911	57.2s	32.8s	87.2%	226.8 MB	746.3 MB	1.8 GB	3 GB
-61	68/e61ad2	4610187.pbsha.ib.sockeye	benchmark (59)	FAILED	1	2023-02-07 21:11:19.149	56s	33.4s	104.0%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
-58	47/573d91	4610188.pbsha.ib.sockeye	benchmark (56)	FAILED	1	2023-02-07 21:11:19.239	55.9s	33.2s	100.6%	222.2 MB	682.5 MB	1.8 GB	3 GB
-100	63/cd0e3e	4610218.pbsha.ib.sockeye	benchmark (98)	FAILED	1	2023-02-07 21:11:21.916	53.3s	33.3s	91.9%	6.7 MB	233.2 MB	1.8 GB	3 GB
-36	44/ce4aff	4610155.pbsha.ib.sockeye	benchmark (34)	FAILED	1	2023-02-07 21:11:15.892	1m 4s	41.2s	97.7%	173.8 MB	674.4 MB	1.8 GB	3 GB
-35	df/996f06	4610156.pbsha.ib.sockeye	benchmark (33)	FAILED	1	2023-02-07 21:11:15.976	1m 4s	42.3s	90.2%	254 MB	949 MB	1.8 GB	3 GB
-46	20/03d266	4610172.pbsha.ib.sockeye	benchmark (44)	FAILED	1	2023-02-07 21:11:17.660	1m 3s	32.9s	90.9%	251 MB	915.2 MB	1.8 GB	3.1 GB
-80	a1/c6532a	4610199.pbsha.ib.sockeye	benchmark (78)	FAILED	1	2023-02-07 21:11:20.173	60s	39.4s	96.8%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
-76	d9/65dc37	4610201.pbsha.ib.sockeye	benchmark (74)	FAILED	1	2023-02-07 21:11:20.333	59.8s	34.6s	102.7%	270.4 MB	994.1 MB	1.8 GB	3 GB
-94	f3/e221d9	4610211.pbsha.ib.sockeye	benchmark (92)	FAILED	1	2023-02-07 21:11:21.245	58.9s	35s	87.7%	6.7 MB	233.2 MB	1.8 GB	3 GB
-40	a7/894fdb	4610157.pbsha.ib.sockeye	benchmark (38)	FAILED	1	2023-02-07 21:11:16.060	1m 9s	47.5s	103.0%	6.6 MB	222.8 MB	1.8 GB	3 GB
-39	94/2fa674	4610161.pbsha.ib.sockeye	benchmark (37)	FAILED	1	2023-02-07 21:11:16.680	1m 8s	39.4s	100.3%	255.2 MB	909.9 MB	1.8 GB	3 GB
-69	ea/75c770	4610180.pbsha.ib.sockeye	benchmark (67)	FAILED	1	2023-02-07 21:11:18.490	1m 7s	40.9s	95.3%	6.7 MB	233.2 MB	1.8 GB	3 GB
-104	ea/ccc423	4610223.pbsha.ib.sockeye	benchmark (102)	FAILED	1	2023-02-07 21:11:22.354	1m 3s	39.5s	95.7%	249.3 MB	908.5 MB	1.8 GB	3 GB
-55	a8/1f3a13	4610178.pbsha.ib.sockeye	benchmark (53)	FAILED	1	2023-02-07 21:11:18.298	1m 32s	1m 3s	88.2%	471.9 MB	1.5 GB	1.9 GB	3 GB
-111	4d/d8dbb4	4610230.pbsha.ib.sockeye	benchmark (109)	FAILED	1	2023-02-07 21:12:11.063	44.1s	25.9s	97.0%	204.1 MB	681.4 MB	1.8 GB	3.1 GB
-10	3b/495ff0	4610125.pbsha.ib.sockeye	benchmark (8)	FAILED	1	2023-02-07 21:11:10.476	1m 50s	1m 28s	94.8%	877.3 MB	2.9 GB	2 GB	3 GB
-12	f8/35aa20	4610126.pbsha.ib.sockeye	benchmark (10)	FAILED	1	2023-02-07 21:11:10.634	1m 50s	1m 24s	103.1%	849.7 MB	2.9 GB	2 GB	3 GB
-31	17/d25661	4610139.pbsha.ib.sockeye	benchmark (29)	FAILED	1	2023-02-07 21:11:11.814	1m 48s	1m 17s	100.3%	196.2 MB	677.4 MB	1.8 GB	3 GB
-81	a3/c374d1	4610205.pbsha.ib.sockeye	benchmark (79)	FAILED	1	2023-02-07 21:11:20.669	1m 44s	1m 26s	100.0%	925.7 MB	2.9 GB	2 GB	3 GB
-6	1d/42cc6e	4610148.pbsha.ib.sockeye	benchmark (4)	FAILED	1	2023-02-07 21:11:15.231	1m 56s	1m 31s	100.9%	1.1 GB	3.5 GB	2 GB	3 GB
-122	70/56f94e	4610248.pbsha.ib.sockeye	benchmark (120)	FAILED	1	2023-02-07 21:12:25.270	45.6s	25.5s	97.0%	196.2 MB	677.5 MB	1.8 GB	3 GB
-13	75/8313da	4610132.pbsha.ib.sockeye	benchmark (11)	FAILED	1	2023-02-07 21:11:11.194	2m 4s	1m 34s	102.8%	1 GB	3.5 GB	2 GB	3 GB
-22	03/873757	4610142.pbsha.ib.sockeye	benchmark (20)	FAILED	1	2023-02-07 21:11:12.058	2m 3s	1m 32s	78.6%	194.9 MB	677.3 MB	1.8 GB	3.1 GB
-20	94/7f7193	4610145.pbsha.ib.sockeye	benchmark (18)	FAILED	1	2023-02-07 21:11:14.918	2m	1m 32s	110.4%	194.9 MB	677.3 MB	1.8 GB	3 GB
-90	4d/161793	4610215.pbsha.ib.sockeye	benchmark (88)	FAILED	1	2023-02-07 21:11:21.618	1m 54s	1m 31s	102.1%	925.7 MB	2.9 GB	2 GB	3 GB
-106	9f/6c7a3f	4610226.pbsha.ib.sockeye	benchmark (104)	FAILED	1	2023-02-07 21:12:05.458	1m 10s	37.4s	93.8%	6.7 MB	233.2 MB	1.8 GB	3.1 GB
-123	d0/23ece8	4610243.pbsha.ib.sockeye	benchmark (121)	FAILED	1	2023-02-07 21:12:20.439	54.8s	31.8s	116.1%	196.4 MB	677.5 MB	1.8 GB	3 GB
-116	57/9f8830	4610244.pbsha.ib.sockeye	benchmark (114)	FAILED	1	2023-02-07 21:12:20.549	54.6s	32.4s	94.3%	6.7 MB	233.2 MB	1.8 GB	3.1 GB
-25	9d/45a850	4610154.pbsha.ib.sockeye	benchmark (23)	FAILED	1	2023-02-07 21:11:15.802	2m 4s	1m 40s	108.4%	889.1 MB	2.9 GB	2 GB	3 GB
-48	cf/7792bd	4610164.pbsha.ib.sockeye	benchmark (46)	FAILED	1	2023-02-07 21:11:16.959	2m 3s	1m 41s	104.3%	968.9 MB	3 GB	2 GB	3 GB
-70	3f/f97f36	4610195.pbsha.ib.sockeye	benchmark (68)	FAILED	1	2023-02-07 21:11:19.834	2m	1m 34s	101.1%	1013.5 MB	2.9 GB	2 GB	3 GB
-117	ce/d2c30a	4610242.pbsha.ib.sockeye	benchmark (115)	FAILED	1	2023-02-07 21:12:20.361	59.8s	24.9s	93.8%	6.7 MB	233.2 MB	1.8 GB	2.9 GB
-17	02/a29388	4610129.pbsha.ib.sockeye	benchmark (14)	FAILED	1	2023-02-07 21:11:10.907	2m 14s	1m 48s	105.1%	869.1 MB	2.9 GB	2 GB	3 GB
-11	7a/8cc991	4610131.pbsha.ib.sockeye	benchmark (9)	FAILED	1	2023-02-07 21:11:11.086	2m 14s	1m 45s	96.7%	993.7 MB	3.2 GB	2 GB	3 GB
-3	5b/a892dc	4610128.pbsha.ib.sockeye	benchmark (1)	FAILED	1	2023-02-07 21:11:10.818	2m 19s	1m 56s	108.3%	956.9 MB	3.5 GB	2 GB	3 GB
-42	2f/78da2d	4610162.pbsha.ib.sockeye	benchmark (40)	FAILED	1	2023-02-07 21:11:16.768	2m 18s	1m 53s	102.4%	1.1 GB	3.5 GB	2 GB	3 GB
-32	62/ca4d5e	4610153.pbsha.ib.sockeye	benchmark (30)	FAILED	1	2023-02-07 21:11:15.710	2m 24s	2m	106.9%	945.7 MB	3 GB	2 GB	3 GB
-59	2b/432a93	4610179.pbsha.ib.sockeye	benchmark (57)	FAILED	1	2023-02-07 21:11:18.378	2m 22s	1m 52s	94.9%	872.9 MB	2.9 GB	3 GB	3 GB
-135	5b/75f60f	4610254.pbsha.ib.sockeye	benchmark (133)	FAILED	1	2023-02-07 21:12:50.274	50s	28.6s	87.7%	194.9 MB	677.3 MB	1.8 GB	3.1 GB
-87	1b/a78183	4610208.pbsha.ib.sockeye	benchmark (85)	FAILED	1	2023-02-07 21:11:20.954	2m 24s	2m 2s	100.3%	1.1 GB	3.5 GB	2 GB	3 GB
-93	62/b865b6	4610212.pbsha.ib.sockeye	benchmark (91)	FAILED	1	2023-02-07 21:11:21.327	2m 24s	2m	93.2%	1.1 GB	3.5 GB	2.1 GB	3 GB
-136	ea/2159ab	4610255.pbsha.ib.sockeye	benchmark (134)	FAILED	1	2023-02-07 21:12:55.266	49.9s	25.2s	101.2%	257.8 MB	912.4 MB	1.8 GB	3 GB
-127	43/8a5b1c	4610257.pbsha.ib.sockeye	benchmark (125)	FAILED	1	2023-02-07 21:13:00.234	44.9s	27.3s	98.6%	6.6 MB	233.2 MB	1.8 GB	3 GB
-92	59/716c55	4610224.pbsha.ib.sockeye	benchmark (90)	FAILED	1	2023-02-07 21:11:22.432	2m 38s	2m 11s	96.0%	1.1 GB	3.5 GB	2.1 GB	3 GB
-103	35/56d550	4610227.pbsha.ib.sockeye	benchmark (101)	FAILED	1	2023-02-07 21:12:05.565	2m	1m 24s	103.6%	1.1 GB	3.2 GB	2 GB	3 GB
-133	6d/3bb9c8	4610251.pbsha.ib.sockeye	benchmark (131)	FAILED	1	2023-02-07 21:12:25.596	1m 40s	1m 25s	94.6%	1 GB	3.5 GB	2 GB	3 GB
-4	d9/30bf8d	4610133.pbsha.ib.sockeye	benchmark (2)	COMPLETED	0	2023-02-07 21:11:11.281	3m	2m 34s	99.8%	1.1 GB	3.5 GB	2.2 GB	3 GB
-114	26/82a8ca	4610232.pbsha.ib.sockeye	benchmark (112)	FAILED	1	2023-02-07 21:12:11.231	2m	1m 39s	108.4%	1 GB	3 GB	2.1 GB	3 GB
-129	78/8aacb9	4610272.pbsha.ib.sockeye	benchmark (127)	FAILED	1	2023-02-07 21:13:20.381	50.6s	27.4s	94.0%	6.6 MB	233.2 MB	1.8 GB	3 GB
-53	49/5c055b	4610171.pbsha.ib.sockeye	benchmark (51)	COMPLETED	0	2023-02-07 21:11:17.587	3m 8s	2m 41s	107.4%	946.1 MB	3.2 GB	2.3 GB	3 GB
-146	09/408443	4610281.pbsha.ib.sockeye	benchmark (144)	FAILED	1	2023-02-07 21:13:40.370	49.8s	24.9s	102.3%	252 MB	916.2 MB	1.8 GB	3 GB
-126	a4/142df0	4610246.pbsha.ib.sockeye	benchmark (124)	FAILED	1	2023-02-07 21:12:23.604	2m 22s	1m 59s	111.4%	956.6 MB	3 GB	2 GB	3 GB
-125	c2/b87e49	4610266.pbsha.ib.sockeye	benchmark (123)	FAILED	1	2023-02-07 21:13:15.582	1m 35s	41.3s	97.7%	6.7 MB	233.2 MB	1.8 GB	3 GB
-105	2b/f3b94c	4610234.pbsha.ib.sockeye	benchmark (103)	COMPLETED	0	2023-02-07 21:12:11.409	2m 49s	2m 29s	97.7%	1 GB	3.5 GB	2.3 GB	3 GB
-128	74/8669ba	4610283.pbsha.ib.sockeye	benchmark (126)	FAILED	1	2023-02-07 21:13:45.258	1m 20s	56s	97.8%	259.7 MB	916.2 MB	1.8 GB	3.1 GB
-140	23/d59d15	4610265.pbsha.ib.sockeye	benchmark (138)	FAILED	1	2023-02-07 21:13:15.374	1m 56s	1m 29s	106.6%	922.8 MB	2.9 GB	2 GB	3 GB
-147	be/1e1603	4610291.pbsha.ib.sockeye	benchmark (145)	FAILED	1	2023-02-07 21:14:05.282	1m 6s	24.1s	97.0%	6.6 MB	233.2 MB	1.8 GB	3 GB
-137	3a/c6cefa	4610260.pbsha.ib.sockeye	benchmark (135)	FAILED	1	2023-02-07 21:13:05.264	2m 10s	1m 46s	96.3%	922.1 MB	3 GB	2 GB	3 GB
-57	43/6b2b6c	4610177.pbsha.ib.sockeye	benchmark (55)	FAILED	1	2023-02-07 21:11:18.215	4m 2s	3m 35s	100.8%	1.6 GB	5.1 GB	2.5 GB	3 GB
-118	f7/e39a85	4610239.pbsha.ib.sockeye	benchmark (116)	COMPLETED	0	2023-02-07 21:12:15.475	3m 5s	2m 33s	105.8%	1.1 GB	3.5 GB	2.2 GB	3 GB
-134	7c/a32aae	4610274.pbsha.ib.sockeye	benchmark (132)	FAILED	1	2023-02-07 21:13:20.560	2m	1m 41s	108.7%	969.8 MB	3.2 GB	2 GB	3 GB
-163	65/5975eb	4610301.pbsha.ib.sockeye	benchmark (161)	FAILED	1	2023-02-07 21:14:30.260	49.9s	23.9s	101.5%	6.6 MB	233.2 MB	1.8 GB	2.8 GB
-43	36/ed7ef1	4610165.pbsha.ib.sockeye	benchmark (42)	FAILED	1	2023-02-07 21:11:17.044	4m 13s	3m 47s	106.1%	2 GB	6.7 GB	2.7 GB	3.1 GB
-66	eb/9c4399	4610186.pbsha.ib.sockeye	benchmark (64)	FAILED	1	2023-02-07 21:11:19.054	4m 16s	3m 51s	104.8%	2 GB	6.7 GB	2.9 GB	3.1 GB
-91	30/e37b70	4610222.pbsha.ib.sockeye	benchmark (89)	FAILED	1	2023-02-07 21:11:22.275	4m 13s	3m 49s	114.6%	1.6 GB	5.2 GB	2.9 GB	3.1 GB
-168	a5/84a50d	4610303.pbsha.ib.sockeye	benchmark (166)	FAILED	1	2023-02-07 21:14:50.857	44.4s	26.3s	98.7%	211.5 MB	681.4 MB	1.8 GB	3.1 GB
-18	25/2f25db	4610152.pbsha.ib.sockeye	benchmark (16)	FAILED	1	2023-02-07 21:11:15.626	4m 25s	4m 2s	99.4%	1.7 GB	5.2 GB	2.9 GB	3.1 GB
-74	75/eb0b12	4610189.pbsha.ib.sockeye	benchmark (72)	FAILED	1	2023-02-07 21:11:19.324	4m 21s	3m 57s	97.2%	1.6 GB	5.2 GB	2.9 GB	3.1 GB
-78	bc/a9f8a0	4610197.pbsha.ib.sockeye	benchmark (76)	FAILED	1	2023-02-07 21:11:20.003	4m 20s	3m 54s	99.8%	1.7 GB	5.7 GB	2.7 GB	3.1 GB
-89	5a/d17dd7	4610216.pbsha.ib.sockeye	benchmark (87)	FAILED	1	2023-02-07 21:11:21.704	4m 18s	3m 57s	108.3%	1.7 GB	5.7 GB	2.9 GB	3.1 GB
-165	19/50bd2e	4610300.pbsha.ib.sockeye	benchmark (163)	FAILED	1	2023-02-07 21:14:25.468	1m 15s	45.1s	86.8%	246.2 MB	906.8 MB	1.8 GB	3.1 GB
-72	d6/b66b07	4610196.pbsha.ib.sockeye	benchmark (70)	FAILED	1	2023-02-07 21:11:19.923	4m 25s	4m 4s	100.3%	1.7 GB	5.6 GB	2.9 GB	3.1 GB
-154	a1/35f438	4610293.pbsha.ib.sockeye	benchmark (152)	FAILED	1	2023-02-07 21:14:11.074	1m 39s	1m 15s	88.3%	185.9 MB	674 MB	1.8 GB	3.1 GB
-28	f4/11221b	4610144.pbsha.ib.sockeye	benchmark (26)	FAILED	1	2023-02-07 21:11:12.237	4m 43s	4m 18s	123.6%	994.6 MB	3.5 GB	2 GB	3 GB
-37	9b/8137ce	4610166.pbsha.ib.sockeye	benchmark (35)	FAILED	1	2023-02-07 21:11:17.134	4m 38s	4m 11s	100.7%	1.9 GB	6.7 GB	2.9 GB	3.1 GB
-41	47/21f243	4610163.pbsha.ib.sockeye	benchmark (39)	FAILED	1	2023-02-07 21:11:16.876	4m 43s	4m 15s	98.2%	2 GB	6.7 GB	2.9 GB	3.1 GB
-38	f6/000393	4610158.pbsha.ib.sockeye	benchmark (36)	FAILED	1	2023-02-07 21:11:16.145	4m 59s	4m 36s	113.8%	1.6 GB	5.6 GB	2.9 GB	3.1 GB
-14	73/2d8918	4610130.pbsha.ib.sockeye	benchmark (12)	FAILED	1	2023-02-07 21:11:11.004	5m 9s	4m 43s	101.3%	2 GB	6.7 GB	2.9 GB	3.1 GB
-33	25/dab67c	4610160.pbsha.ib.sockeye	benchmark (31)	FAILED	1	2023-02-07 21:11:16.299	5m 4s	4m 40s	101.7%	2.3 GB	7.4 GB	2.9 GB	3.1 GB
-86	ba/bf1e76	4610206.pbsha.ib.sockeye	benchmark (84)	COMPLETED	0	2023-02-07 21:11:20.764	4m 59s	4m 40s	97.9%	1.6 GB	5.1 GB	3 GB	3.1 GB
-82	02/979f27	4610203.pbsha.ib.sockeye	benchmark (80)	FAILED	1	2023-02-07 21:11:20.501	5m 5s	4m 41s	105.3%	2 GB	6.7 GB	2.9 GB	3.1 GB
-181	01/6996ba	4610319.pbsha.ib.sockeye	benchmark (179)	FAILED	1	2023-02-07 21:15:35.503	49.7s	28.2s	105.2%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
-121	55/c0efba	4610249.pbsha.ib.sockeye	benchmark (119)	FAILED	1	2023-02-07 21:12:25.353	4m 6s	3m 50s	102.9%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
-24	7d/ad778b	4610150.pbsha.ib.sockeye	benchmark (22)	COMPLETED	0	2023-02-07 21:11:15.428	5m 20s	4m 57s	101.8%	2 GB	6.7 GB	3 GB	3.1 GB
-108	b4/9531e3	4610229.pbsha.ib.sockeye	benchmark (106)	FAILED	1	2023-02-07 21:12:10.978	4m 24s	4m 5s	105.8%	1.9 GB	6.3 GB	2.7 GB	3.1 GB
-175	6e/150cc9	4610313.pbsha.ib.sockeye	benchmark (173)	FAILED	1	2023-02-07 21:15:20.568	1m 25s	55s	80.9%	211.5 MB	681.4 MB	1.8 GB	3.1 GB
-65	89/a1141c	4610176.pbsha.ib.sockeye	benchmark (63)	COMPLETED	0	2023-02-07 21:11:18.085	5m 32s	5m 6s	101.1%	1.7 GB	5.7 GB	3 GB	3.1 GB
-62	9e/675e73	4610182.pbsha.ib.sockeye	benchmark (60)	COMPLETED	0	2023-02-07 21:11:18.657	5m 32s	5m 9s	102.4%	1.6 GB	5.1 GB	3 GB	3.1 GB
-73	9f/9af16e	4610191.pbsha.ib.sockeye	benchmark (71)	COMPLETED	0	2023-02-07 21:11:19.490	5m 31s	5m 3s	98.2%	1.6 GB	5.1 GB	3 GB	3.1 GB
-75	9e/9bb546	4610192.pbsha.ib.sockeye	benchmark (73)	COMPLETED	0	2023-02-07 21:11:19.573	5m 31s	5m 4s	97.0%	1.9 GB	6.2 GB	3 GB	3.1 GB
-99	cd/03c1f9	4610217.pbsha.ib.sockeye	benchmark (97)	COMPLETED	0	2023-02-07 21:11:21.832	5m 28s	5m 6s	98.3%	1.6 GB	5.2 GB	3 GB	3.1 GB
-8	63/7be086	4610137.pbsha.ib.sockeye	benchmark (6)	COMPLETED	0	2023-02-07 21:11:11.629	5m 44s	5m 16s	113.2%	2 GB	6.8 GB	3 GB	3.1 GB
-49	88/e5c276	4610168.pbsha.ib.sockeye	benchmark (47)	COMPLETED	0	2023-02-07 21:11:17.313	5m 38s	5m 8s	98.1%	1.6 GB	5.1 GB	3 GB	3.1 GB
-47	88/c6c137	4610169.pbsha.ib.sockeye	benchmark (45)	COMPLETED	0	2023-02-07 21:11:17.393	5m 38s	5m 9s	102.4%	1.6 GB	5.1 GB	3 GB	3.1 GB
-44	d7/850614	4610181.pbsha.ib.sockeye	benchmark (43)	COMPLETED	0	2023-02-07 21:11:18.572	5m 37s	5m 12s	99.0%	1.6 GB	5.1 GB	3 GB	3.1 GB
-63	70/95bfa2	4610190.pbsha.ib.sockeye	benchmark (61)	COMPLETED	0	2023-02-07 21:11:19.410	5m 36s	5m 10s	102.0%	1.6 GB	5.1 GB	3 GB	3.1 GB
-71	d7/6b695a	4610200.pbsha.ib.sockeye	benchmark (69)	FAILED	1	2023-02-07 21:11:20.250	5m 40s	5m 11s	96.9%	1.7 GB	5.6 GB	2.9 GB	3.1 GB
-54	5b/701256	4610173.pbsha.ib.sockeye	benchmark (52)	COMPLETED	0	2023-02-07 21:11:17.733	5m 53s	5m 24s	98.2%	1.5 GB	5.2 GB	3 GB	3.1 GB
-101	34/e41117	4610221.pbsha.ib.sockeye	benchmark (99)	FAILED	1	2023-02-07 21:11:22.197	5m 53s	5m 30s	114.9%	2 GB	6.7 GB	3.4 GB	3.1 GB
-130	4d/ab3afd	4610275.pbsha.ib.sockeye	benchmark (128)	FAILED	1	2023-02-07 21:13:25.233	3m 50s	3m 34s	103.2%	1.8 GB	6.2 GB	2.9 GB	3.1 GB
-144	ae/1d62b4	4610276.pbsha.ib.sockeye	benchmark (142)	FAILED	1	2023-02-07 21:13:25.320	3m 55s	3m 37s	107.7%	1.9 GB	6.3 GB	2.7 GB	3.1 GB
-188	4b/1faf9a	4610327.pbsha.ib.sockeye	benchmark (186)	FAILED	1	2023-02-07 21:15:55.294	1m 30s	48.6s	92.5%	6.7 MB	222.8 MB	1.8 GB	3 GB
-195	18/11a42d	4610339.pbsha.ib.sockeye	benchmark (193)	FAILED	1	2023-02-07 21:16:25.452	59.7s	39s	99.2%	208.5 MB	679.1 MB	1.8 GB	3 GB
-112	03/ad162e	4610237.pbsha.ib.sockeye	benchmark (110)	FAILED	1	2023-02-07 21:12:15.327	5m 15s	4m 31s	104.4%	1.5 GB	5.1 GB	2.8 GB	3.1 GB
-124	c2/e52a35	4610250.pbsha.ib.sockeye	benchmark (122)	COMPLETED	0	2023-02-07 21:12:25.427	5m 5s	4m 45s	109.0%	1.6 GB	5.2 GB	3 GB	3.1 GB
-164	49/a8bf43	4610306.pbsha.ib.sockeye	benchmark (162)	FAILED	1	2023-02-07 21:15:11.004	2m 19s	1m 56s	101.5%	1.1 GB	3.5 GB	2 GB	3 GB
-205	d1/40233a	4610349.pbsha.ib.sockeye	benchmark (203)	FAILED	1	2023-02-07 21:16:52.469	37.7s	25.3s	99.7%	6.6 MB	233.2 MB	1.8 GB	2.8 GB
-142	fb/77d81c	4610264.pbsha.ib.sockeye	benchmark (140)	FAILED	1	2023-02-07 21:13:15.291	4m 20s	3m 54s	102.9%	2 GB	6.7 GB	2.9 GB	3.1 GB
-79	cf/1d5cd9	4610202.pbsha.ib.sockeye	benchmark (77)	COMPLETED	0	2023-02-07 21:11:20.421	6m 25s	6m 2s	111.3%	1.9 GB	6.2 GB	3 GB	3.1 GB
-120	4e/5aff2e	4610245.pbsha.ib.sockeye	benchmark (118)	FAILED	1	2023-02-07 21:12:23.491	5m 22s	5m 2s	131.4%	1.8 GB	6.2 GB	2.9 GB	3.1 GB
-131	bf/dc00ec	4610259.pbsha.ib.sockeye	benchmark (129)	FAILED	1	2023-02-07 21:13:00.404	4m 45s	4m 22s	99.4%	1.6 GB	5.1 GB	2.7 GB	3.1 GB
-206	19/243b27	4610350.pbsha.ib.sockeye	benchmark (204)	FAILED	1	2023-02-07 21:16:55.282	49.9s	23.3s	105.6%	6.6 MB	233.2 MB	1.7 GB	2.7 GB
-171	ac/8c295d	4610309.pbsha.ib.sockeye	benchmark (169)	FAILED	1	2023-02-07 21:15:15.284	2m 40s	2m 19s	100.8%	1.1 GB	3.5 GB	2 GB	3 GB
-208	24/2391d2	4610353.pbsha.ib.sockeye	benchmark (206)	FAILED	1	2023-02-07 21:16:55.510	59.7s	33.9s	80.7%	6.7 MB	233.2 MB	1.8 GB	3.1 GB
-145	08/4420e0	4610268.pbsha.ib.sockeye	benchmark (143)	FAILED	1	2023-02-07 21:13:15.758	4m 44s	4m 3s	102.6%	1.7 GB	5.2 GB	2.9 GB	3.1 GB
-210	0b/689acd	4610354.pbsha.ib.sockeye	benchmark (208)	FAILED	1	2023-02-07 21:16:55.579	1m 5s	39.7s	99.5%	6.6 MB	233.2 MB	1.8 GB	3 GB
-211	76/44de3c	4610359.pbsha.ib.sockeye	benchmark (209)	FAILED	1	2023-02-07 21:17:11.078	49.1s	27s	106.2%	150.7 MB	663 MB	1.8 GB	3 GB
-214	a6/a0f544	4610362.pbsha.ib.sockeye	benchmark (212)	FAILED	1	2023-02-07 21:17:15.360	44.8s	27.4s	105.9%	6.6 MB	233.2 MB	1.8 GB	3 GB
-96	2b/b097b2	4610213.pbsha.ib.sockeye	benchmark (94)	COMPLETED	0	2023-02-07 21:11:21.408	6m 44s	6m 19s	111.1%	1.8 GB	5.1 GB	3.7 GB	3.1 GB
-115	6c/77cf1c	4610238.pbsha.ib.sockeye	benchmark (113)	COMPLETED	0	2023-02-07 21:12:15.402	5m 50s	5m 13s	102.2%	1.6 GB	5.1 GB	3 GB	3.1 GB
-148	3e/68ea29	4610270.pbsha.ib.sockeye	benchmark (146)	FAILED	1	2023-02-07 21:13:15.924	4m 55s	4m 23s	97.0%	1.6 GB	5.2 GB	2.9 GB	3.1 GB
-161	9e/c57334	4610289.pbsha.ib.sockeye	benchmark (159)	COMPLETED	0	2023-02-07 21:14:00.273	4m 11s	3m 44s	102.3%	1 GB	3.7 GB	2.2 GB	3 GB
-226	69/bd7254	4610369.pbsha.ib.sockeye	benchmark (224)	FAILED	1	2023-02-07 21:17:30.501	40.5s	22.2s	152.5%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
-190	2c/e5d354	4610332.pbsha.ib.sockeye	benchmark (188)	FAILED	1	2023-02-07 21:16:15.264	2m	1m 37s	103.2%	887.5 MB	2.9 GB	2 GB	3 GB
-16	bb/ef41d0	4610149.pbsha.ib.sockeye	benchmark (15)	COMPLETED	0	2023-02-07 21:11:15.341	7m 5s	6m 42s	105.7%	2 GB	6.8 GB	3.7 GB	3.1 GB
-85	fe/0c4fdf	4610210.pbsha.ib.sockeye	benchmark (83)	COMPLETED	0	2023-02-07 21:11:21.161	6m 59s	6m 36s	102.3%	1.5 GB	6.2 GB	3 GB	3.1 GB
-197	53/25b63a	4610342.pbsha.ib.sockeye	benchmark (195)	FAILED	1	2023-02-07 21:16:35.329	1m 45s	1m 10s	102.5%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
-213	9b/92aa35	4610363.pbsha.ib.sockeye	benchmark (211)	FAILED	1	2023-02-07 21:17:20.271	59.9s	28.8s	85.1%	122.9 MB	565.3 MB	1.8 GB	3 GB
-186	77/cfe42c	4610326.pbsha.ib.sockeye	benchmark (184)	FAILED	1	2023-02-07 21:15:50.290	2m 35s	2m 2s	89.1%	858.3 MB	2.9 GB	2 GB	3 GB
-7	44/8ec89d	4610135.pbsha.ib.sockeye	benchmark (5)	COMPLETED	0	2023-02-07 21:11:11.464	7m 19s	6m 49s	104.6%	1.8 GB	5.1 GB	3.7 GB	3.1 GB
-34	88/ebd176	4610175.pbsha.ib.sockeye	benchmark (32)	COMPLETED	0	2023-02-07 21:11:17.995	7m 12s	6m 45s	96.9%	1.6 GB	5.1 GB	3.7 GB	3.1 GB
-56	e4/1fed7c	4610184.pbsha.ib.sockeye	benchmark (54)	COMPLETED	0	2023-02-07 21:11:18.870	7m 11s	6m 44s	102.8%	1.9 GB	5.7 GB	3.7 GB	3.1 GB
-77	6b/9371fc	4610198.pbsha.ib.sockeye	benchmark (75)	COMPLETED	0	2023-02-07 21:11:20.096	7m 10s	6m 49s	104.3%	1.9 GB	6.7 GB	3.7 GB	3.1 GB
-113	69/321c04	4610235.pbsha.ib.sockeye	benchmark (111)	COMPLETED	0	2023-02-07 21:12:11.501	6m 19s	5m 59s	98.3%	2 GB	6.8 GB	3 GB	3.1 GB
-180	6a/3475e1	4610320.pbsha.ib.sockeye	benchmark (178)	COMPLETED	0	2023-02-07 21:15:40.239	2m 55s	2m 34s	100.4%	1 GB	3.2 GB	2.2 GB	3 GB
-51	82/118fa1	4610170.pbsha.ib.sockeye	benchmark (49)	COMPLETED	0	2023-02-07 21:11:17.475	7m 28s	6m 55s	107.8%	1.6 GB	5.1 GB	3.7 GB	3.1 GB
-67	67/902c10	4610185.pbsha.ib.sockeye	benchmark (65)	COMPLETED	0	2023-02-07 21:11:18.953	7m 26s	7m 5s	105.7%	1.9 GB	5.1 GB	3.7 GB	3.1 GB
-83	7a/545e98	4610204.pbsha.ib.sockeye	benchmark (81)	FAILED	1	2023-02-07 21:11:20.588	7m 25s	7m 1s	98.1%	1.9 GB	5.2 GB	3.4 GB	3.1 GB
-110	bd/05b2a3	4610236.pbsha.ib.sockeye	benchmark (108)	COMPLETED	0	2023-02-07 21:12:15.248	6m 30s	5m 41s	102.2%	1.7 GB	5.7 GB	3 GB	3.1 GB
-150	a3/6ab258	4610269.pbsha.ib.sockeye	benchmark (148)	COMPLETED	0	2023-02-07 21:13:15.844	5m 29s	5m 7s	104.9%	1.6 GB	5.1 GB	3 GB	3.1 GB
-220	2d/45709a	4610371.pbsha.ib.sockeye	benchmark (218)	FAILED	1	2023-02-07 21:17:45.311	59.9s	25.2s	99.0%	241.4 MB	896.4 MB	1.8 GB	3 GB
-224	e3/a55c44	4610377.pbsha.ib.sockeye	benchmark (222)	FAILED	1	2023-02-07 21:17:55.340	49.9s	28.8s	120.3%	6.6 MB	233.2 MB	1.7 GB	2.7 GB
-107	90/536acb	4610233.pbsha.ib.sockeye	benchmark (105)	COMPLETED	0	2023-02-07 21:12:11.308	6m 39s	6m 20s	103.4%	1.9 GB	6.3 GB	3.7 GB	3.1 GB
-152	00/05cabc	4610273.pbsha.ib.sockeye	benchmark (150)	COMPLETED	0	2023-02-07 21:13:20.481	5m 30s	5m 8s	105.7%	1.5 GB	5.1 GB	3 GB	3.1 GB
-189	87/1def9e	4610329.pbsha.ib.sockeye	benchmark (187)	FAILED	1	2023-02-07 21:16:00.279	2m 50s	2m 12s	96.2%	926.7 MB	3 GB	2 GB	3 GB
-227	84/5b267f	4610370.pbsha.ib.sockeye	benchmark (225)	FAILED	1	2023-02-07 21:17:35.423	1m 15s	39.4s	96.0%	6.7 MB	233.2 MB	1.8 GB	2.9 GB
-109	ab/43fb5f	4610231.pbsha.ib.sockeye	benchmark (107)	COMPLETED	0	2023-02-07 21:12:11.146	6m 44s	6m 28s	106.1%	1.6 GB	5.2 GB	3.7 GB	3.1 GB
-132	c3/8e60e9	4610258.pbsha.ib.sockeye	benchmark (130)	FAILED	1	2023-02-07 21:13:00.324	5m 55s	5m 35s	108.8%	2 GB	6.8 GB	2.9 GB	3.1 GB
-235	f1/69d7dd	4610385.pbsha.ib.sockeye	benchmark (233)	FAILED	1	2023-02-07 21:18:11.160	44s	27.4s	108.6%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
-201	a9/e350d9	4610347.pbsha.ib.sockeye	benchmark (199)	FAILED	1	2023-02-07 21:16:52.305	2m 8s	1m 47s	105.7%	938.9 MB	2.9 GB	2 GB	3 GB
-209	23/830ec0	4610352.pbsha.ib.sockeye	benchmark (207)	FAILED	1	2023-02-07 21:16:55.439	2m 5s	1m 38s	95.8%	938.7 MB	2.9 GB	2 GB	3 GB
-19	85/8f079a	4610140.pbsha.ib.sockeye	benchmark (17)	FAILED	1	2023-02-07 21:11:11.897	7m 59s	7m 31s	107.1%	2 GB	6.8 GB	2.9 GB	3.1 GB
-102	27/709ad1	4610228.pbsha.ib.sockeye	benchmark (100)	COMPLETED	0	2023-02-07 21:12:05.690	7m 5s	6m 40s	105.3%	2 GB	6.8 GB	3.7 GB	3.1 GB
-149	3b/abaea9	4610280.pbsha.ib.sockeye	benchmark (147)	COMPLETED	0	2023-02-07 21:13:40.290	5m 35s	5m 8s	101.9%	2 GB	6.8 GB	3 GB	3.1 GB
-244	58/70301f	4610392.pbsha.ib.sockeye	benchmark (242)	FAILED	1	2023-02-07 21:18:20.499	55.2s	33.9s	96.0%	6.7 MB	233.2 MB	1.8 GB	3.1 GB
-26	67/ace430	4610138.pbsha.ib.sockeye	benchmark (24)	FAILED	1	2023-02-07 21:11:11.709	8m 23s	7m 47s	97.2%	2 GB	6.7 GB	2.9 GB	3.1 GB
-84	63/b50740	4610207.pbsha.ib.sockeye	benchmark (82)	COMPLETED	0	2023-02-07 21:11:20.867	8m 14s	7m 50s	103.6%	1.9 GB	6.3 GB	3.7 GB	3.1 GB
-162	1e/9325d9	4610294.pbsha.ib.sockeye	benchmark (160)	COMPLETED	0	2023-02-07 21:14:11.151	5m 24s	5m 5s	110.1%	2 GB	6.7 GB	3 GB	3.1 GB
-231	15/1577f0	4610390.pbsha.ib.sockeye	benchmark (229)	FAILED	1	2023-02-07 21:18:20.335	1m 15s	46.7s	101.6%	6.7 MB	233.2 MB	3 GB	2.8 GB
-5	29/5321b6	4610127.pbsha.ib.sockeye	benchmark (3)	COMPLETED	0	2023-02-07 21:11:10.728	8m 34s	8m 4s	98.0%	1.8 GB	5.1 GB	3.7 GB	3.1 GB
-173	1f/e9055a	4610316.pbsha.ib.sockeye	benchmark (171)	FAILED	1	2023-02-07 21:15:30.246	4m 15s	3m 52s	104.8%	2 GB	6.7 GB	2.7 GB	3.1 GB
-193	c3/27bd51	4610334.pbsha.ib.sockeye	benchmark (191)	FAILED	1	2023-02-07 21:16:20.247	3m 25s	2m 44s	97.1%	1 GB	3.5 GB	2 GB	3 GB
-219	b8/e81c8e	4610372.pbsha.ib.sockeye	benchmark (217)	FAILED	1	2023-02-07 21:17:45.386	2m	1m 28s	105.1%	1.1 GB	3.5 GB	2 GB	3 GB
-253	eb/046708	4610406.pbsha.ib.sockeye	benchmark (251)	FAILED	1	2023-02-07 21:18:45.631	59.6s	32.2s	102.3%	229.4 MB	688.9 MB	1.8 GB	3 GB
-250	33/a589b4	4610409.pbsha.ib.sockeye	benchmark (248)	FAILED	1	2023-02-07 21:18:50.267	55s	35.2s	102.8%	6.6 MB	233.2 MB	1.8 GB	3 GB
-29	2f/0de011	4610147.pbsha.ib.sockeye	benchmark (27)	FAILED	1	2023-02-07 21:11:15.146	8m 35s	8m 12s	99.3%	2 GB	6.8 GB	2.8 GB	3.1 GB
-261	61/101138	4610411.pbsha.ib.sockeye	benchmark (259)	FAILED	1	2023-02-07 21:18:50.416	59.8s	35s	102.9%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
-265	94/23d017	4610416.pbsha.ib.sockeye	benchmark (263)	FAILED	1	2023-02-07 21:19:00.285	49.9s	33.8s	106.2%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
-267	40/a19157	4610417.pbsha.ib.sockeye	benchmark (265)	FAILED	1	2023-02-07 21:19:00.362	49.8s	27.4s	101.1%	6.7 MB	233.2 MB	1.8 GB	3 GB
-88	90/88f896	4610209.pbsha.ib.sockeye	benchmark (86)	COMPLETED	0	2023-02-07 21:11:21.039	8m 39s	8m 11s	113.2%	2 GB	6.8 GB	3.7 GB	3.1 GB
-141	b4/f1acb5	4610271.pbsha.ib.sockeye	benchmark (139)	COMPLETED	0	2023-02-07 21:13:20.274	6m 40s	6m 18s	104.2%	2 GB	6.8 GB	3.7 GB	3.1 GB
-151	e8/5509ef	4610284.pbsha.ib.sockeye	benchmark (149)	FAILED	1	2023-02-07 21:13:45.424	6m 16s	5m 51s	104.0%	1.7 GB	5.6 GB	2.9 GB	3.1 GB
-178	5f/c0ecea	4610318.pbsha.ib.sockeye	benchmark (176)	FAILED	1	2023-02-07 21:15:35.421	4m 26s	4m	108.4%	2 GB	6.7 GB	2.9 GB	3.1 GB
-266	59/029e26	4610419.pbsha.ib.sockeye	benchmark (264)	FAILED	1	2023-02-07 21:19:11.094	49.9s	24s	104.1%	6.6 MB	233.2 MB	1.7 GB	2.7 GB
-269	1a/2c46c2	4610421.pbsha.ib.sockeye	benchmark (267)	FAILED	1	2023-02-07 21:19:15.661	49.5s	31.4s	105.7%	231.3 MB	744.9 MB	1.8 GB	3 GB
-260	da/901ff5	4610422.pbsha.ib.sockeye	benchmark (258)	FAILED	1	2023-02-07 21:19:15.751	49.5s	31.4s	102.8%	211.3 MB	681.4 MB	1.8 GB	3 GB
-27	23/a9c32c	4610146.pbsha.ib.sockeye	benchmark (25)	FAILED	1	2023-02-07 21:11:15.031	8m 56s	8m 29s	99.6%	1.8 GB	6.8 GB	2.8 GB	3.1 GB
-239	ef/3e35ae	4610391.pbsha.ib.sockeye	benchmark (237)	FAILED	1	2023-02-07 21:18:20.411	1m 51s	1m 26s	105.9%	983 MB	2.9 GB	2 GB	3 GB
-155	f2/10255b	4610292.pbsha.ib.sockeye	benchmark (153)	FAILED	1	2023-02-07 21:14:05.404	6m 10s	5m 38s	96.6%	1.7 GB	5.6 GB	2.7 GB	3.1 GB
-170	c8/0ad0a7	4610305.pbsha.ib.sockeye	benchmark (168)	FAILED	1	2023-02-07 21:15:05.258	5m 15s	5m 2s	101.0%	1.6 GB	5.2 GB	2.9 GB	3.1 GB
-45	80/b16e5c	4610159.pbsha.ib.sockeye	benchmark (41)	COMPLETED	0	2023-02-07 21:11:16.219	9m 9s	8m 45s	111.0%	2 GB	6.8 GB	3.7 GB	3.1 GB
-272	d2/dfccb6	4610427.pbsha.ib.sockeye	benchmark (270)	FAILED	1	2023-02-07 21:19:42.419	42.8s	27.6s	103.5%	6.7 MB	233.2 MB	1.8 GB	3 GB
-143	7c/a2f67b	4610263.pbsha.ib.sockeye	benchmark (141)	COMPLETED	0	2023-02-07 21:13:11.072	7m 19s	6m 59s	103.7%	1.8 GB	5.1 GB	3.7 GB	3.1 GB
-138	3a/4a1a57	4610267.pbsha.ib.sockeye	benchmark (136)	COMPLETED	0	2023-02-07 21:13:15.661	7m 15s	6m 50s	105.0%	1.8 GB	5.2 GB	3.7 GB	3.1 GB
-222	8e/efb10d	4610374.pbsha.ib.sockeye	benchmark (220)	FAILED	1	2023-02-07 21:17:45.550	2m 50s	2m 10s	92.6%	884.8 MB	2.9 GB	2.1 GB	3 GB
-158	83/d5f4ac	4610295.pbsha.ib.sockeye	benchmark (156)	FAILED	1	2023-02-07 21:14:11.267	6m 29s	5m 55s	100.7%	1.6 GB	5.2 GB	2.9 GB	3.1 GB
-228	69/0ce6ae	4610376.pbsha.ib.sockeye	benchmark (226)	FAILED	1	2023-02-07 21:17:55.260	2m 45s	2m 7s	107.3%	1 GB	2.9 GB	2 GB	3 GB
-268	ae/23e693	4610415.pbsha.ib.sockeye	benchmark (266)	FAILED	1	2023-02-07 21:18:55.870	1m 44s	1m 20s	106.1%	953.6 MB	2.6 GB	2 GB	3 GB
-139	31/b002bb	4610262.pbsha.ib.sockeye	benchmark (137)	COMPLETED	0	2023-02-07 21:13:10.970	7m 34s	7m 11s	102.6%	1.7 GB	5.1 GB	3.7 GB	3.1 GB
-157	4d/adcd06	4610279.pbsha.ib.sockeye	benchmark (155)	COMPLETED	0	2023-02-07 21:13:35.258	7m 10s	6m 52s	102.1%	1.8 GB	6.3 GB	3.7 GB	3.1 GB
-273	f4/e3aac0	4610429.pbsha.ib.sockeye	benchmark (271)	FAILED	1	2023-02-07 21:19:46.377	58.8s	25.9s	103.9%	278.9 MB	974.5 MB	1.8 GB	3 GB
-255	e1/41839b	4610407.pbsha.ib.sockeye	benchmark (253)	FAILED	1	2023-02-07 21:18:45.702	2m 4s	1m 44s	102.7%	945.6 MB	3 GB	2 GB	3 GB
-198	a5/614c9f	4610343.pbsha.ib.sockeye	benchmark (196)	FAILED	1	2023-02-07 21:16:35.474	4m 20s	4m 1s	99.4%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
-263	33/b52d15	4610431.pbsha.ib.sockeye	benchmark (261)	FAILED	1	2023-02-07 21:19:46.559	1m 14s	47.6s	105.8%	6.6 MB	233.2 MB	1.8 GB	3 GB
-119	51/01f06c	4610241.pbsha.ib.sockeye	benchmark (117)	COMPLETED	0	2023-02-07 21:12:20.271	8m 45s	8m 21s	97.8%	1.9 GB	6.3 GB	3.7 GB	3.1 GB
-153	85/5a3a22	4610277.pbsha.ib.sockeye	benchmark (151)	COMPLETED	0	2023-02-07 21:13:30.240	7m 41s	7m 15s	105.3%	1.9 GB	5.1 GB	3.7 GB	3.1 GB
-166	4e/54a3d2	4610310.pbsha.ib.sockeye	benchmark (164)	COMPLETED	0	2023-02-07 21:15:20.299	5m 53s	5m 21s	104.6%	1.5 GB	5.7 GB	3 GB	3.1 GB
-167	f1/735e2c	4610302.pbsha.ib.sockeye	benchmark (165)	FAILED	1	2023-02-07 21:14:45.309	6m 30s	5m 43s	102.6%	2 GB	6.8 GB	2.7 GB	3.1 GB
-174	c6/2e6391	4610312.pbsha.ib.sockeye	benchmark (172)	FAILED	1	2023-02-07 21:15:20.470	6m 5s	5m 38s	100.9%	2.3 GB	7.8 GB	2.9 GB	3.1 GB
-177	42/633acd	4610317.pbsha.ib.sockeye	benchmark (175)	FAILED	1	2023-02-07 21:15:35.319	5m 50s	5m 19s	107.8%	1.8 GB	6.1 GB	2.9 GB	3.1 GB
-156	5f/f2cc56	4610282.pbsha.ib.sockeye	benchmark (154)	COMPLETED	0	2023-02-07 21:13:40.459	7m 50s	7m 25s	103.3%	1.8 GB	6.3 GB	3.7 GB	3.1 GB
-276	7c/44dcec	4610425.pbsha.ib.sockeye	benchmark (274)	FAILED	1	2023-02-07 21:19:42.223	1m 48s	1m 30s	106.5%	982.8 MB	2.9 GB	2 GB	3 GB
-308	ae/2ad08c	4610458.pbsha.ib.sockeye	benchmark (306)	FAILED	1	2023-02-07 21:20:40.317	49.9s	27.5s	97.2%	226.1 MB	747.2 MB	1.8 GB	3 GB
-176	ff/dee42b	4610311.pbsha.ib.sockeye	benchmark (174)	FAILED	1	2023-02-07 21:15:20.383	6m 15s	5m 45s	102.5%	2 GB	6.8 GB	2.9 GB	3.1 GB
-279	92/fdcd77	4610432.pbsha.ib.sockeye	benchmark (277)	FAILED	1	2023-02-07 21:19:46.646	1m 49s	1m	97.4%	271.6 MB	993 MB	1.8 GB	3 GB
-277	82/c817f5	4610436.pbsha.ib.sockeye	benchmark (275)	FAILED	1	2023-02-07 21:19:50.457	1m 55s	1m 30s	106.7%	949.2 MB	3 GB	2 GB	3 GB
-169	4c/e082e0	4610304.pbsha.ib.sockeye	benchmark (167)	FAILED	1	2023-02-07 21:15:00.256	6m 50s	6m 29s	101.0%	2 GB	6.8 GB	2.8 GB	3.1 GB
-216	a2/7cc7bb	4610366.pbsha.ib.sockeye	benchmark (214)	FAILED	1	2023-02-07 21:17:30.249	4m 20s	4m 6s	100.1%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
-215	bc/98b2b3	4610368.pbsha.ib.sockeye	benchmark (213)	FAILED	1	2023-02-07 21:17:30.417	4m 20s	4m 3s	98.8%	2 GB	6.8 GB	2.9 GB	3.1 GB
-278	c6/cdd008	4610433.pbsha.ib.sockeye	benchmark (276)	FAILED	1	2023-02-07 21:19:46.744	2m 8s	1m 34s	104.6%	922.5 MB	2.9 GB	2 GB	3 GB
-23	cc/1f717e	4610141.pbsha.ib.sockeye	benchmark (21)	FAILED	143	2023-02-07 21:11:11.973	10m 48s	10m 30s	101.0%	2 GB	6.8 GB	3.3 GB	3.1 GB
-30	0e/6d6050	4610143.pbsha.ib.sockeye	benchmark (28)	FAILED	143	2023-02-07 21:11:12.162	10m 48s	10m 30s	97.9%	2 GB	6.8 GB	3.2 GB	3.1 GB
-314	25/1c8da4	4610470.pbsha.ib.sockeye	benchmark (312)	FAILED	1	2023-02-07 21:21:13.379	51.8s	26.6s	94.0%	186.6 MB	677.3 MB	1.8 GB	3 GB
-299	d3/9b9ac1	4610453.pbsha.ib.sockeye	benchmark (297)	FAILED	1	2023-02-07 21:20:30.289	1m 45s	1m 4s	105.6%	194.9 MB	677.3 MB	1.8 GB	3 GB
-179	e0/6bc590	4610323.pbsha.ib.sockeye	benchmark (177)	FAILED	1	2023-02-07 21:15:40.493	6m 40s	6m 3s	109.1%	1.5 GB	5.2 GB	2.7 GB	3.1 GB
-319	4e/6a7b27	4610481.pbsha.ib.sockeye	benchmark (317)	FAILED	1	2023-02-07 21:21:35.376	44.8s	30.8s	96.4%	6.6 MB	233.2 MB	1.8 GB	3 GB
-191	3d/15bf68	4610336.pbsha.ib.sockeye	benchmark (189)	COMPLETED	0	2023-02-07 21:16:20.420	6m 5s	5m 35s	97.6%	1.4 GB	4.1 GB	2.9 GB	3 GB
-204	d0/47d43f	4610348.pbsha.ib.sockeye	benchmark (202)	COMPLETED	0	2023-02-07 21:16:52.379	5m 43s	5m 29s	101.0%	1.9 GB	6.3 GB	3 GB	3.1 GB
-221	67/047878	4610365.pbsha.ib.sockeye	benchmark (219)	COMPLETED	0	2023-02-07 21:17:25.353	5m 15s	4m 54s	100.4%	1.7 GB	5.7 GB	3 GB	3.1 GB
-243	a3/897da0	4610383.pbsha.ib.sockeye	benchmark (241)	FAILED	1	2023-02-07 21:18:05.417	4m 35s	4m 10s	103.4%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
-234	ba/24e9e4	4610399.pbsha.ib.sockeye	benchmark (232)	FAILED	1	2023-02-07 21:18:30.792	4m 14s	3m 54s	101.6%	2 GB	6.7 GB	2.9 GB	3.1 GB
-322	be/e01059	4610483.pbsha.ib.sockeye	benchmark (320)	FAILED	1	2023-02-07 21:21:50.301	55.1s	27.5s	109.1%	242 MB	908.4 MB	1.8 GB	3 GB
-282	9e/c4ea31	4610439.pbsha.ib.sockeye	benchmark (280)	FAILED	1	2023-02-07 21:20:00.361	2m 50s	2m 15s	67.9%	931.3 MB	2.9 GB	2 GB	3 GB
-318	82/51fa97	4610473.pbsha.ib.sockeye	benchmark (316)	FAILED	1	2023-02-07 21:21:25.311	1m 25s	50.8s	98.4%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
-295	bb/fdde70	4610451.pbsha.ib.sockeye	benchmark (293)	FAILED	1	2023-02-07 21:20:25.285	2m 30s	1m 53s	92.6%	983.3 MB	2.9 GB	2 GB	3 GB
-212	cd/8c9687	4610361.pbsha.ib.sockeye	benchmark (210)	COMPLETED	0	2023-02-07 21:17:15.285	5m 50s	5m 31s	100.9%	2 GB	6.8 GB	3 GB	3.1 GB
-218	fb/e68614	4610364.pbsha.ib.sockeye	benchmark (216)	COMPLETED	0	2023-02-07 21:17:25.280	5m 40s	5m 18s	97.1%	1.9 GB	6.3 GB	3 GB	3.1 GB
-301	a7/c7043d	4610468.pbsha.ib.sockeye	benchmark (299)	FAILED	1	2023-02-07 21:21:05.275	2m	1m 25s	103.4%	1 GB	3.5 GB	2 GB	3 GB
-313	49/4a1573	4610471.pbsha.ib.sockeye	benchmark (311)	FAILED	1	2023-02-07 21:21:15.271	1m 50s	1m 24s	100.0%	846.5 MB	2.9 GB	2 GB	3 GB
-271	dc/a7e22a	4610426.pbsha.ib.sockeye	benchmark (269)	FAILED	1	2023-02-07 21:19:42.345	3m 33s	2m 59s	82.1%	1.1 GB	3.5 GB	3 GB	3 GB
-160	e5/fd5631	4610286.pbsha.ib.sockeye	benchmark (158)	COMPLETED	0	2023-02-07 21:13:45.640	9m 35s	9m 12s	101.5%	1.9 GB	6.3 GB	3.7 GB	3.1 GB
-182	8b/5ab063	4610321.pbsha.ib.sockeye	benchmark (180)	COMPLETED	0	2023-02-07 21:15:40.317	7m 45s	7m 5s	110.6%	1.7 GB	5.6 GB	2.9 GB	3.1 GB
-310	95/82a14c	4610464.pbsha.ib.sockeye	benchmark (308)	FAILED	1	2023-02-07 21:20:50.297	2m 35s	1m 56s	101.6%	897.4 MB	2.9 GB	2 GB	3 GB
-200	30/0876f7	4610345.pbsha.ib.sockeye	benchmark (198)	COMPLETED	0	2023-02-07 21:16:52.149	6m 38s	6m 24s	98.2%	1.8 GB	5.1 GB	3.7 GB	3.1 GB
-264	24/5ea8b3	4610418.pbsha.ib.sockeye	benchmark (262)	FAILED	1	2023-02-07 21:19:11.024	4m 19s	4m 1s	98.1%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
-286	a1/47c51c	4610444.pbsha.ib.sockeye	benchmark (284)	FAILED	1	2023-02-07 21:20:05.318	3m 25s	2m 57s	111.4%	1 GB	3.5 GB	2 GB	3 GB
-331	2c/8d9a4b	4610488.pbsha.ib.sockeye	benchmark (329)	FAILED	1	2023-02-07 21:22:00.421	1m 35s	55.3s	102.4%	277.4 MB	979.2 MB	1.8 GB	3 GB
-336	f7/1b72e2	4610501.pbsha.ib.sockeye	benchmark (334)	FAILED	1	2023-02-07 21:22:45.693	50.4s	26.7s	92.1%	6.7 MB	233.2 MB	1.8 GB	3.1 GB
-338	f3/7b978e	4610502.pbsha.ib.sockeye	benchmark (336)	FAILED	1	2023-02-07 21:22:46.221	49.8s	24.1s	100.9%	279.7 MB	979.7 MB	1.8 GB	3 GB
-159	70/77edfd	4610285.pbsha.ib.sockeye	benchmark (157)	COMPLETED	0	2023-02-07 21:13:45.548	9m 55s	9m 33s	105.0%	2 GB	6.8 GB	3.7 GB	3.1 GB
-289	58/707d21	4610442.pbsha.ib.sockeye	benchmark (287)	FAILED	1	2023-02-07 21:20:01.200	3m 39s	3m 5s	104.1%	294.1 MB	981 MB	1.8 GB	3 GB
-288	4c/ff42f2	4610443.pbsha.ib.sockeye	benchmark (286)	FAILED	1	2023-02-07 21:20:01.291	3m 39s	3m 5s	98.8%	264.7 MB	917.3 MB	1.8 GB	3 GB
-317	8e/3366c9	4610484.pbsha.ib.sockeye	benchmark (315)	FAILED	1	2023-02-07 21:21:50.403	1m 50s	1m 28s	100.5%	1.1 GB	3.5 GB	2 GB	3 GB
-187	5b/6371df	4610328.pbsha.ib.sockeye	benchmark (185)	COMPLETED	0	2023-02-07 21:15:55.372	7m 55s	7m 35s	103.1%	2 GB	6.8 GB	3.7 GB	3.1 GB
-196	37/9e0197	4610341.pbsha.ib.sockeye	benchmark (194)	COMPLETED	0	2023-02-07 21:16:31.494	7m 19s	6m 57s	103.4%	2 GB	6.8 GB	3.7 GB	3.1 GB
-240	17/f213a7	4610384.pbsha.ib.sockeye	benchmark (238)	COMPLETED	0	2023-02-07 21:18:11.072	5m 39s	5m 23s	104.8%	1.6 GB	5.1 GB	3 GB	3.1 GB
-203	0c/baa6d0	4610351.pbsha.ib.sockeye	benchmark (201)	COMPLETED	0	2023-02-07 21:16:55.356	7m 1s	6m 33s	102.8%	2 GB	6.7 GB	3.7 GB	3.1 GB
-207	fc/463b5a	4610357.pbsha.ib.sockeye	benchmark (205)	FAILED	1	2023-02-07 21:17:00.264	6m 56s	6m 32s	104.1%	2 GB	6.8 GB	3.4 GB	3.1 GB
-303	88/5b3ddc	4610457.pbsha.ib.sockeye	benchmark (301)	FAILED	1	2023-02-07 21:20:35.285	3m 21s	2m 38s	100.5%	1.1 GB	3.2 GB	2 GB	3 GB
-281	d1/e966bd	4610437.pbsha.ib.sockeye	benchmark (279)	FAILED	1	2023-02-07 21:19:50.541	4m 11s	3m 39s	107.3%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
-202	9a/6aca65	4610346.pbsha.ib.sockeye	benchmark (200)	COMPLETED	0	2023-02-07 21:16:52.222	7m 13s	6m 59s	108.4%	2 GB	6.8 GB	3.7 GB	3.1 GB
-280	55/8b1441	4610434.pbsha.ib.sockeye	benchmark (278)	FAILED	1	2023-02-07 21:19:50.278	4m 15s	3m 50s	103.8%	1.6 GB	5.2 GB	2.7 GB	3.1 GB
-185	2f/e4ae1d	4610325.pbsha.ib.sockeye	benchmark (183)	COMPLETED	0	2023-02-07 21:15:45.286	8m 26s	8m 4s	97.5%	1.7 GB	5.7 GB	3 GB	3.1 GB
-199	79/d21dd3	4610344.pbsha.ib.sockeye	benchmark (197)	COMPLETED	0	2023-02-07 21:16:46.293	7m 29s	6m 56s	101.3%	2 GB	6.8 GB	3 GB	3.1 GB
-283	a5/59e73c	4610435.pbsha.ib.sockeye	benchmark (281)	FAILED	1	2023-02-07 21:19:50.373	4m 25s	4m 5s	104.3%	1.7 GB	5.6 GB	2.9 GB	3.1 GB
-172	d0/082c84	4610307.pbsha.ib.sockeye	benchmark (170)	COMPLETED	0	2023-02-07 21:15:11.081	9m 9s	8m 42s	104.6%	2 GB	6.8 GB	3.7 GB	3.1 GB
-217	49/979fc4	4610367.pbsha.ib.sockeye	benchmark (215)	COMPLETED	0	2023-02-07 21:17:30.333	6m 50s	6m 34s	104.6%	1.9 GB	6.2 GB	3.7 GB	3.1 GB
-262	6f/0f50d1	4610413.pbsha.ib.sockeye	benchmark (260)	FAILED	1	2023-02-07 21:18:55.671	5m 25s	4m 48s	102.6%	2 GB	6.8 GB	2.9 GB	3.1 GB
-351	ce/472ef9	4610518.pbsha.ib.sockeye	benchmark (349)	FAILED	1	2023-02-07 21:23:35.387	44.8s	28.6s	104.1%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
-355	fb/9115b5	4610519.pbsha.ib.sockeye	benchmark (353)	FAILED	1	2023-02-07 21:23:36.167	49.2s	29.1s	95.2%	6.6 MB	233.2 MB	1.8 GB	3.1 GB
-258	4c/901260	4610412.pbsha.ib.sockeye	benchmark (256)	COMPLETED	0	2023-02-07 21:18:50.509	5m 40s	5m 17s	102.2%	1.6 GB	5.1 GB	3 GB	3.1 GB
-343	ba/9e1563	4610503.pbsha.ib.sockeye	benchmark (341)	FAILED	1	2023-02-07 21:22:50.299	1m 40s	1m 1s	90.1%	6.7 MB	233.2 MB	1.8 GB	3 GB
-306	2c/b38e95	4610459.pbsha.ib.sockeye	benchmark (304)	FAILED	1	2023-02-07 21:20:40.391	4m 15s	3m 52s	102.3%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
-363	9d/45f59a	4610530.pbsha.ib.sockeye	benchmark (361)	FAILED	1	2023-02-07 21:23:57.406	1m 3s	32.4s	104.6%	6.6 MB	233.2 MB	1.7 GB	2.5 GB
-291	97/213ce7	4610448.pbsha.ib.sockeye	benchmark (289)	FAILED	1	2023-02-07 21:20:15.836	4m 49s	4m 22s	99.2%	2 GB	6.8 GB	2.9 GB	3.1 GB
-345	50/fef6c6	4610516.pbsha.ib.sockeye	benchmark (343)	FAILED	1	2023-02-07 21:23:30.567	1m 35s	52.7s	99.6%	6.7 MB	233.2 MB	1.8 GB	3 GB
-369	2f/cf1d5d	4610537.pbsha.ib.sockeye	benchmark (367)	FAILED	1	2023-02-07 21:24:16.368	48.9s	27.6s	99.5%	6.7 MB	233.2 MB	1.8 GB	3 GB
-371	ea/c195c6	4610539.pbsha.ib.sockeye	benchmark (369)	FAILED	1	2023-02-07 21:24:20.317	44.9s	26.4s	96.6%	211.5 MB	681.4 MB	1.8 GB	3 GB
-225	02/13bd57	4610382.pbsha.ib.sockeye	benchmark (223)	COMPLETED	0	2023-02-07 21:18:05.293	7m 6s	6m 39s	102.5%	1.8 GB	6.2 GB	3.7 GB	3.1 GB
-241	99/756a47	4610386.pbsha.ib.sockeye	benchmark (239)	COMPLETED	0	2023-02-07 21:18:11.274	7m	6m 42s	106.9%	1.9 GB	6.3 GB	3.7 GB	3.1 GB
-274	74/935df0	4610428.pbsha.ib.sockeye	benchmark (272)	FAILED	1	2023-02-07 21:19:46.243	5m 25s	4m 46s	103.5%	2.1 GB	7.3 GB	2.9 GB	3.1 GB
-302	57/1a86d4	4610461.pbsha.ib.sockeye	benchmark (300)	FAILED	1	2023-02-07 21:20:45.313	4m 26s	4m 5s	110.9%	1.9 GB	6.3 GB	2.9 GB	3.1 GB
-344	19/9e1347	4610523.pbsha.ib.sockeye	benchmark (342)	FAILED	1	2023-02-07 21:23:40.475	1m 31s	55s	79.3%	6.7 MB	233.2 MB	1.8 GB	3 GB
-230	cc/63360e	4610380.pbsha.ib.sockeye	benchmark (228)	FAILED	1	2023-02-07 21:18:00.496	7m 15s	6m 50s	101.7%	1.8 GB	5.1 GB	3.7 GB	3.1 GB
-270	34/efc2fa	4610424.pbsha.ib.sockeye	benchmark (268)	COMPLETED	0	2023-02-07 21:19:35.961	5m 39s	5m 15s	103.9%	1.8 GB	6.2 GB	3 GB	3.1 GB
-340	e4/f17043	4610499.pbsha.ib.sockeye	benchmark (338)	FAILED	1	2023-02-07 21:22:40.303	2m 35s	1m 52s	101.8%	931.8 MB	3 GB	2 GB	3 GB
-194	8d/8b5d47	4610340.pbsha.ib.sockeye	benchmark (192)	COMPLETED	0	2023-02-07 21:16:25.534	8m 55s	8m 28s	99.8%	1.7 GB	5.7 GB	3.7 GB	3.1 GB
-347	94/40afdc	4610521.pbsha.ib.sockeye	benchmark (345)	FAILED	1	2023-02-07 21:23:40.304	1m 40s	58.9s	95.3%	277.1 MB	979.1 MB	1.8 GB	3 GB
-232	6d/cc2669	4610379.pbsha.ib.sockeye	benchmark (230)	COMPLETED	0	2023-02-07 21:18:00.401	7m 25s	7m	101.9%	1.6 GB	5.1 GB	3.7 GB	3.1 GB
-284	ed/78f40c	4610440.pbsha.ib.sockeye	benchmark (282)	COMPLETED	0	2023-02-07 21:20:00.530	5m 25s	5m 2s	106.7%	1.9 GB	6.3 GB	3 GB	3.1 GB
-298	71/67d559	4610469.pbsha.ib.sockeye	benchmark (296)	FAILED	1	2023-02-07 21:21:11.043	4m 14s	3m 55s	104.0%	2.3 GB	7.8 GB	2.9 GB	3.1 GB
-247	9e/534bf5	4610398.pbsha.ib.sockeye	benchmark (245)	COMPLETED	0	2023-02-07 21:18:30.624	7m	6m 34s	109.7%	1.9 GB	5.2 GB	3.7 GB	3.1 GB
-361	b9/2fcd86	4610527.pbsha.ib.sockeye	benchmark (359)	FAILED	1	2023-02-07 21:23:50.483	1m 40s	1m 23s	107.1%	966.6 MB	2.6 GB	2 GB	3 GB
-294	9f/d2e681	4610449.pbsha.ib.sockeye	benchmark (292)	FAILED	1	2023-02-07 21:20:20.306	5m 15s	4m 55s	96.8%	1.7 GB	5.6 GB	2.9 GB	3.1 GB
-233	8b/a26319	4610381.pbsha.ib.sockeye	benchmark (231)	COMPLETED	0	2023-02-07 21:18:00.600	7m 40s	7m 11s	101.5%	1.8 GB	5.2 GB	3.7 GB	3.1 GB
-236	32/97fba2	4610395.pbsha.ib.sockeye	benchmark (234)	COMPLETED	0	2023-02-07 21:18:30.319	7m 10s	6m 48s	106.9%	1.7 GB	5.1 GB	3.7 GB	3.1 GB
-256	53/05e469	4610405.pbsha.ib.sockeye	benchmark (254)	FAILED	1	2023-02-07 21:18:45.543	6m 56s	6m 35s	99.4%	2 GB	6.8 GB	3.7 GB	3.1 GB
-376	5e/7beb28	4610550.pbsha.ib.sockeye	benchmark (374)	FAILED	1	2023-02-07 21:24:55.311	45.8s	24.7s	103.4%	259.4 MB	916.2 MB	1.8 GB	3 GB
-237	a6/1f8772	4610389.pbsha.ib.sockeye	benchmark (235)	COMPLETED	0	2023-02-07 21:18:20.261	7m 30s	6m 49s	101.0%	2.2 GB	7.3 GB	3 GB	3.1 GB
-248	2d/ce5d3a	4610397.pbsha.ib.sockeye	benchmark (246)	COMPLETED	0	2023-02-07 21:18:30.545	7m 20s	6m 45s	104.0%	1.8 GB	5.1 GB	3.7 GB	3.1 GB
-254	bd/88a3d9	4610404.pbsha.ib.sockeye	benchmark (252)	FAILED	1	2023-02-07 21:18:45.446	7m 10s	6m 43s	100.3%	1.9 GB	5.7 GB	3.4 GB	3.1 GB
-380	31/18b1c5	4610553.pbsha.ib.sockeye	benchmark (378)	FAILED	1	2023-02-07 21:25:05.521	49.7s	29s	104.4%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
-242	08/8ea52d	4610387.pbsha.ib.sockeye	benchmark (240)	COMPLETED	0	2023-02-07 21:18:15.323	7m 45s	7m 19s	102.9%	1.8 GB	6.2 GB	3.7 GB	3.1 GB
-251	53/80a8f0	4610400.pbsha.ib.sockeye	benchmark (249)	COMPLETED	0	2023-02-07 21:18:41.029	7m 19s	6m 51s	102.2%	1.6 GB	5.2 GB	3.7 GB	3.1 GB
-352	69/e9a339	4610512.pbsha.ib.sockeye	benchmark (350)	FAILED	1	2023-02-07 21:23:25.312	2m 35s	2m	71.2%	1004.6 MB	3.5 GB	2 GB	3 GB
-257	14/ca77f0	4610408.pbsha.ib.sockeye	benchmark (255)	COMPLETED	0	2023-02-07 21:18:45.778	7m 19s	6m 50s	105.3%	1.9 GB	5.7 GB	3.7 GB	3.1 GB
-245	fd/88d675	4610410.pbsha.ib.sockeye	benchmark (243)	COMPLETED	0	2023-02-07 21:18:50.343	7m 15s	6m 57s	103.5%	1.7 GB	5.7 GB	3.7 GB	3.1 GB
-324	3a/b79005	4610477.pbsha.ib.sockeye	benchmark (322)	FAILED	1	2023-02-07 21:21:30.423	4m 35s	4m 13s	102.6%	1.9 GB	6.3 GB	2.9 GB	3.1 GB
-377	50/04cf80	4610557.pbsha.ib.sockeye	benchmark (375)	FAILED	1	2023-02-07 21:25:11.111	54.1s	37.1s	102.0%	6.7 MB	233.2 MB	1.8 GB	3.1 GB
-296	0a/a9ae0e	4610452.pbsha.ib.sockeye	benchmark (294)	FAILED	1	2023-02-07 21:20:25.358	5m 50s	5m 14s	101.3%	1.9 GB	6.2 GB	2.9 GB	3.1 GB
-394	99/75673c	4610563.pbsha.ib.sockeye	benchmark (392)	FAILED	1	2023-02-07 21:25:15.465	59.8s	33.9s	87.1%	211 MB	681.4 MB	1.8 GB	3 GB
-388	59/df2b55	4610569.pbsha.ib.sockeye	benchmark (386)	FAILED	1	2023-02-07 21:25:25.503	49.7s	24.3s	104.4%	6.6 MB	233.2 MB	1.8 GB	2.8 GB
-252	23/6ce49c	4610402.pbsha.ib.sockeye	benchmark (250)	FAILED	1	2023-02-07 21:18:45.286	7m 35s	6m 51s	107.0%	1.9 GB	6.2 GB	2.9 GB	3.1 GB
-359	22/e49d67	4610528.pbsha.ib.sockeye	benchmark (357)	FAILED	1	2023-02-07 21:23:56.014	2m 24s	1m 49s	84.0%	983 MB	2.9 GB	2 GB	3 GB
-183	66/bc5422	4610322.pbsha.ib.sockeye	benchmark (181)	FAILED	143	2023-02-07 21:15:40.392	10m 45s	10m 30s	113.0%	1.9 GB	5.7 GB	3.4 GB	3.1 GB
-184	30/5c83c4	4610324.pbsha.ib.sockeye	benchmark (182)	FAILED	143	2023-02-07 21:15:40.574	10m 45s	10m 30s	96.2%	1.7 GB	5.2 GB	3.4 GB	3.1 GB
-246	3f/b46338	4610403.pbsha.ib.sockeye	benchmark (244)	COMPLETED	0	2023-02-07 21:18:45.360	7m 40s	7m 21s	102.3%	2 GB	6.8 GB	3.7 GB	3.1 GB
-350	0a/56961b	4610515.pbsha.ib.sockeye	benchmark (348)	FAILED	1	2023-02-07 21:23:30.390	2m 55s	2m 13s	87.3%	1 GB	3.1 GB	2 GB	3 GB
-356	20/7b20de	4610524.pbsha.ib.sockeye	benchmark (354)	FAILED	1	2023-02-07 21:23:40.556	2m 50s	2m 12s	88.3%	918.3 MB	2.9 GB	2 GB	3 GB
-398	9b/b151fe	4610570.pbsha.ib.sockeye	benchmark (396)	FAILED	1	2023-02-07 21:25:31.468	58.8s	34.7s	102.4%	6.7 MB	233.2 MB	1.8 GB	3 GB
-292	c8/189e05	4610447.pbsha.ib.sockeye	benchmark (290)	FAILED	1	2023-02-07 21:20:11.235	6m 29s	6m 12s	120.2%	2.1 GB	7.3 GB	2.9 GB	3.1 GB
-192	60/ff89e6	4610335.pbsha.ib.sockeye	benchmark (190)	COMPLETED	0	2023-02-07 21:16:20.324	10m 25s	9m 46s	107.2%	2 GB	6.8 GB	3.7 GB	3.1 GB
-383	c8/f06fce	4610554.pbsha.ib.sockeye	benchmark (381)	FAILED	1	2023-02-07 21:25:05.608	1m 40s	1m 15s	103.4%	848.4 MB	2.9 GB	2 GB	3 GB
-238	2e/13bf36	4610394.pbsha.ib.sockeye	benchmark (236)	COMPLETED	0	2023-02-07 21:18:25.272	8m 25s	8m 8s	101.8%	1.6 GB	5.2 GB	3.7 GB	3.1 GB
-323	6a/de226c	4610495.pbsha.ib.sockeye	benchmark (321)	FAILED	1	2023-02-07 21:22:20.517	4m 35s	4m 12s	98.4%	1.8 GB	6.2 GB	2.9 GB	3.1 GB
-312	b3/98e391	4610475.pbsha.ib.sockeye	benchmark (310)	FAILED	1	2023-02-07 21:21:30.270	5m 30s	5m	98.0%	1.6 GB	5.2 GB	2.9 GB	3.1 GB
-320	44/186a92	4610476.pbsha.ib.sockeye	benchmark (318)	COMPLETED	0	2023-02-07 21:21:30.346	5m 30s	5m 11s	111.8%	2 GB	6.7 GB	3 GB	3.1 GB
-333	38/202c94	4610498.pbsha.ib.sockeye	benchmark (331)	FAILED	1	2023-02-07 21:22:35.279	4m 25s	4m 1s	103.9%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
-366	51/ef6d47	4610534.pbsha.ib.sockeye	benchmark (364)	FAILED	1	2023-02-07 21:24:05.328	2m 55s	2m 13s	101.0%	1.2 GB	4.5 GB	2 GB	3 GB
-381	12/b9fe71	4610556.pbsha.ib.sockeye	benchmark (379)	FAILED	1	2023-02-07 21:25:11.032	1m 49s	1m 28s	112.5%	945.9 MB	3 GB	2 GB	3 GB
-223	9e/efd84a	4610373.pbsha.ib.sockeye	benchmark (221)	COMPLETED	0	2023-02-07 21:17:45.473	9m 20s	8m 29s	110.0%	1.9 GB	6.3 GB	3 GB	3.1 GB
-386	a3/e48341	4610560.pbsha.ib.sockeye	benchmark (384)	FAILED	1	2023-02-07 21:25:11.382	1m 54s	1m 39s	100.8%	1.1 GB	3.5 GB	2 GB	3 GB
-403	56/b6aa19	4610579.pbsha.ib.sockeye	benchmark (401)	FAILED	1	2023-02-07 21:25:55.399	1m 10s	34s	107.9%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
-375	8e/496626	4610542.pbsha.ib.sockeye	benchmark (373)	COMPLETED	0	2023-02-07 21:24:20.597	2m 50s	2m 28s	98.6%	1 GB	3.7 GB	2.2 GB	3 GB
-419	f1/059ebc	4610597.pbsha.ib.sockeye	benchmark (417)	FAILED	1	2023-02-07 21:26:26.483	44.5s	25.3s	92.6%	258.3 MB	914.7 MB	1.8 GB	3 GB
-297	7d/374362	4610462.pbsha.ib.sockeye	benchmark (295)	FAILED	1	2023-02-07 21:20:45.432	6m 35s	6m 13s	103.2%	1.9 GB	5.7 GB	3.4 GB	3.1 GB
-339	5a/02db6b	4610509.pbsha.ib.sockeye	benchmark (337)	FAILED	1	2023-02-07 21:23:05.537	4m 15s	3m 45s	105.9%	1.6 GB	5.2 GB	2.7 GB	3.1 GB
-285	1a/df43fd	4610441.pbsha.ib.sockeye	benchmark (283)	FAILED	1	2023-02-07 21:20:01.080	7m 24s	6m 55s	116.5%	2.1 GB	7.3 GB	2.8 GB	3.1 GB
-335	4c/25caf8	4610510.pbsha.ib.sockeye	benchmark (333)	FAILED	1	2023-02-07 21:23:15.336	4m 15s	3m 54s	105.5%	1.7 GB	5.6 GB	2.9 GB	3.1 GB
-423	5d/7671d0	4610606.pbsha.ib.sockeye	benchmark (421)	FAILED	1	2023-02-07 21:26:55.767	39.5s	23.4s	104.0%	6.6 MB	233.2 MB	1.8 GB	2.8 GB
-354	99/902336	4610517.pbsha.ib.sockeye	benchmark (352)	FAILED	1	2023-02-07 21:23:30.650	4m 10s	3m 46s	101.0%	2 GB	6.7 GB	2.9 GB	3.1 GB
-399	3c/314e4f	4610576.pbsha.ib.sockeye	benchmark (397)	FAILED	1	2023-02-07 21:25:41.286	1m 59s	1m 35s	100.1%	901.1 MB	3 GB	2 GB	3 GB
-309	c1/a9cf65	4610465.pbsha.ib.sockeye	benchmark (307)	COMPLETED	0	2023-02-07 21:20:55.279	6m 50s	6m 30s	111.1%	1.9 GB	6.2 GB	3.7 GB	3.1 GB
-397	a1/429d99	4610573.pbsha.ib.sockeye	benchmark (395)	FAILED	1	2023-02-07 21:25:40.296	2m 5s	1m 37s	90.4%	1.2 GB	4.1 GB	2.1 GB	3 GB
-411	98/441997	4610583.pbsha.ib.sockeye	benchmark (409)	FAILED	1	2023-02-07 21:26:00.646	1m 45s	1m 26s	105.3%	1008.9 MB	2.9 GB	2 GB	3 GB
-229	d2/cb92f6	4610378.pbsha.ib.sockeye	benchmark (227)	COMPLETED	0	2023-02-07 21:18:00.305	10m	9m 15s	101.4%	2 GB	6.3 GB	3.7 GB	3.1 GB
-307	6a/30f04c	4610467.pbsha.ib.sockeye	benchmark (305)	COMPLETED	0	2023-02-07 21:21:00.288	7m	6m 47s	105.2%	1.9 GB	5.1 GB	3.7 GB	3.1 GB
-332	7a/a4578f	4610496.pbsha.ib.sockeye	benchmark (330)	FAILED	1	2023-02-07 21:22:25.290	5m 35s	5m 19s	95.5%	2 GB	6.8 GB	2.8 GB	3.1 GB
-382	3d/6cc1cb	4610555.pbsha.ib.sockeye	benchmark (380)	FAILED	1	2023-02-07 21:25:05.718	3m 5s	2m 22s	98.9%	827.4 MB	2.9 GB	2.1 GB	3 GB
-396	c8/20da6f	4610567.pbsha.ib.sockeye	benchmark (394)	FAILED	1	2023-02-07 21:25:25.304	2m 46s	2m 14s	102.4%	1.1 GB	3.5 GB	2 GB	3 GB
-407	00/fb7825	4610587.pbsha.ib.sockeye	benchmark (406)	FAILED	1	2023-02-07 21:26:12.173	1m 59s	1m 13s	118.3%	265.4 MB	979.4 MB	1.8 GB	3 GB
-444	e4/ec0d68	4610616.pbsha.ib.sockeye	benchmark (442)	FAILED	1	2023-02-07 21:27:05.594	1m 5s	28.1s	96.6%	194.9 MB	677.3 MB	1.8 GB	3.1 GB
-433	e6/45abc3	4610607.pbsha.ib.sockeye	benchmark (431)	FAILED	1	2023-02-07 21:27:00.317	1m 20s	47.3s	96.9%	211.2 MB	680.6 MB	1.8 GB	3 GB
-406	b6/97f1c6	4610582.pbsha.ib.sockeye	benchmark (404)	FAILED	1	2023-02-07 21:26:00.444	2m 25s	1m 46s	93.0%	994.4 MB	2.9 GB	2 GB	3 GB
-426	22/091234	4610605.pbsha.ib.sockeye	benchmark (424)	FAILED	1	2023-02-07 21:26:50.341	1m 40s	58.7s	94.2%	211.5 MB	681.4 MB	1.8 GB	3.1 GB
-442	29/7d09d8	4610625.pbsha.ib.sockeye	benchmark (440)	FAILED	1	2023-02-07 21:27:40.358	49.9s	30.5s	105.2%	6.6 MB	233.2 MB	1.8 GB	2.8 GB
-328	c5/cee863	4610492.pbsha.ib.sockeye	benchmark (326)	FAILED	1	2023-02-07 21:22:15.298	6m 20s	5m 47s	101.6%	1.9 GB	6.2 GB	2.9 GB	3.1 GB
-410	91/46856a	4610586.pbsha.ib.sockeye	benchmark (408)	FAILED	1	2023-02-07 21:26:12.086	2m 23s	1m 43s	99.4%	252.1 MB	916.2 MB	1.8 GB	3 GB
-316	76/31744f	4610480.pbsha.ib.sockeye	benchmark (314)	COMPLETED	0	2023-02-07 21:21:35.278	7m 5s	6m 52s	104.0%	2 GB	6.8 GB	3.7 GB	3.1 GB
-425	3f/a48506	4610603.pbsha.ib.sockeye	benchmark (423)	FAILED	1	2023-02-07 21:26:45.375	2m	1m 40s	103.7%	1.1 GB	3.5 GB	2 GB	3 GB
-405	19/ffa306	4610580.pbsha.ib.sockeye	benchmark (403)	FAILED	1	2023-02-07 21:25:55.569	2m 55s	2m 15s	104.5%	1.2 GB	4.1 GB	2 GB	3 GB
-353	9e/afd309	4610513.pbsha.ib.sockeye	benchmark (351)	COMPLETED	0	2023-02-07 21:23:25.398	5m 30s	5m 9s	106.8%	1.7 GB	5.6 GB	3 GB	3.1 GB
-259	cd/f43558	4610414.pbsha.ib.sockeye	benchmark (257)	COMPLETED	0	2023-02-07 21:18:55.756	10m 4s	9m 26s	98.1%	2 GB	6.8 GB	3.7 GB	3.1 GB
-337	f0/a8b214	4610507.pbsha.ib.sockeye	benchmark (335)	COMPLETED	0	2023-02-07 21:23:05.396	5m 55s	5m 22s	97.3%	2 GB	6.8 GB	3 GB	3.1 GB
-249	97/c5800a	4610396.pbsha.ib.sockeye	benchmark (247)	COMPLETED	0	2023-02-07 21:18:30.469	10m 35s	9m 55s	99.3%	2 GB	6.7 GB	3.7 GB	3.1 GB
-305	0d/99c5e5	4610463.pbsha.ib.sockeye	benchmark (303)	COMPLETED	0	2023-02-07 21:20:45.513	8m 20s	8m	102.4%	1.8 GB	5.2 GB	3.7 GB	3.1 GB
-439	9e/36f2c9	4610610.pbsha.ib.sockeye	benchmark (437)	FAILED	1	2023-02-07 21:27:00.544	2m 10s	1m 42s	82.2%	1007.3 MB	3.4 GB	2 GB	3 GB
-428	7e/c8751a	4610617.pbsha.ib.sockeye	benchmark (426)	FAILED	1	2023-02-07 21:27:13.453	1m 58s	1m 35s	102.3%	1 GB	2.9 GB	2 GB	3 GB
-348	42/80dec6	4610511.pbsha.ib.sockeye	benchmark (346)	FAILED	1	2023-02-07 21:23:20.328	5m 55s	5m 17s	118.1%	2.2 GB	7.3 GB	2.9 GB	3.1 GB
-275	07/ce83d3	4610430.pbsha.ib.sockeye	benchmark (273)	COMPLETED	0	2023-02-07 21:19:46.477	9m 34s	8m 58s	97.5%	1.8 GB	6.2 GB	3.7 GB	3.1 GB
-330	93/1d8639	4610486.pbsha.ib.sockeye	benchmark (328)	FAILED	1	2023-02-07 21:21:55.307	7m 25s	6m 42s	109.5%	1.8 GB	6.2 GB	2.8 GB	3.1 GB
-326	46/3021d7	4610487.pbsha.ib.sockeye	benchmark (324)	COMPLETED	0	2023-02-07 21:22:00.314	7m 20s	6m 49s	107.5%	1.7 GB	5.6 GB	3.7 GB	3.1 GB
-421	68/202c4b	4610596.pbsha.ib.sockeye	benchmark (419)	COMPLETED	0	2023-02-07 21:26:26.374	2m 54s	2m 41s	105.8%	1 GB	3.2 GB	2.2 GB	3 GB
-334	11/ea058c	4610500.pbsha.ib.sockeye	benchmark (332)	FAILED	1	2023-02-07 21:22:40.384	6m 50s	6m 23s	104.9%	1.8 GB	5.7 GB	3.4 GB	3.1 GB
-341	56/7e0c24	4610504.pbsha.ib.sockeye	benchmark (339)	FAILED	1	2023-02-07 21:22:50.383	6m 40s	5m 57s	105.6%	1.6 GB	5.6 GB	2.9 GB	3.1 GB
-346	27/6e72e9	4610522.pbsha.ib.sockeye	benchmark (344)	FAILED	1	2023-02-07 21:23:40.391	5m 55s	5m 6s	105.9%	1.9 GB	6.2 GB	2.7 GB	3.1 GB
-372	60/061316	4610551.pbsha.ib.sockeye	benchmark (370)	FAILED	1	2023-02-07 21:25:00.303	4m 35s	4m 19s	103.0%	2 GB	6.8 GB	2.9 GB	3.1 GB
-409	0a/104453	4610581.pbsha.ib.sockeye	benchmark (407)	COMPLETED	0	2023-02-07 21:26:00.346	3m 35s	3m 1s	97.4%	1.2 GB	3.7 GB	2.2 GB	3 GB
-461	c7/2493d3	4610646.pbsha.ib.sockeye	benchmark (459)	FAILED	1	2023-02-07 21:28:38.054	57.4s	26.9s	98.7%	6.6 MB	233.2 MB	1.8 GB	3 GB
-387	ef/4f4f06	4610561.pbsha.ib.sockeye	benchmark (385)	FAILED	1	2023-02-07 21:25:15.309	4m 25s	3m 58s	98.3%	1.5 GB	5.1 GB	2.9 GB	3.1 GB
-390	a7/88f628	4610571.pbsha.ib.sockeye	benchmark (388)	FAILED	1	2023-02-07 21:25:31.577	4m 9s	3m 45s	100.9%	2 GB	6.7 GB	2.7 GB	3.1 GB
-431	4e/75091a	4610608.pbsha.ib.sockeye	benchmark (429)	COMPLETED	0	2023-02-07 21:27:00.393	2m 40s	2m 23s	104.8%	1 GB	3.2 GB	2.2 GB	3 GB
-304	15/88fe23	4610460.pbsha.ib.sockeye	benchmark (302)	COMPLETED	0	2023-02-07 21:20:40.465	9m 5s	8m 17s	104.0%	2 GB	6.8 GB	3 GB	3.1 GB
-455	ba/93971f	4610638.pbsha.ib.sockeye	benchmark (453)	FAILED	1	2023-02-07 21:28:13.561	1m 37s	54.8s	91.9%	188.5 MB	677.4 MB	1.8 GB	3.1 GB
-416	8e/327495	4610588.pbsha.ib.sockeye	benchmark (414)	FAILED	1	2023-02-07 21:26:12.259	3m 43s	3m 5s	96.3%	899 MB	2.9 GB	2 GB	3 GB
-466	a3/8f129a	4610649.pbsha.ib.sockeye	benchmark (464)	FAILED	1	2023-02-07 21:28:45.378	1m 10s	43s	142.1%	163.9 MB	672.9 MB	1.8 GB	3 GB
-325	b9/56a431	4610489.pbsha.ib.sockeye	benchmark (323)	FAILED	1	2023-02-07 21:22:06.285	7m 54s	7m 15s	109.1%	1.8 GB	6.3 GB	2.9 GB	3.1 GB
-401	a9/db2d27	4610574.pbsha.ib.sockeye	benchmark (399)	FAILED	1	2023-02-07 21:25:40.369	4m 20s	3m 53s	105.1%	1.6 GB	5.1 GB	2.7 GB	3.1 GB
-458	5b/b207e0	4610643.pbsha.ib.sockeye	benchmark (456)	FAILED	1	2023-02-07 21:28:30.392	1m 30s	44.7s	139.7%	260 MB	949 MB	1.8 GB	3 GB
-358	2f/826b5f	4610525.pbsha.ib.sockeye	benchmark (356)	FAILED	1	2023-02-07 21:23:50.297	6m 15s	5m 58s	106.6%	2 GB	6.7 GB	3.4 GB	3.1 GB
-378	ba/41e6fc	4610548.pbsha.ib.sockeye	benchmark (376)	COMPLETED	0	2023-02-07 21:24:31.715	5m 34s	5m 13s	102.3%	1.6 GB	5.2 GB	3 GB	3.1 GB
-389	cd/d33469	4610572.pbsha.ib.sockeye	benchmark (387)	FAILED	1	2023-02-07 21:25:35.731	4m 30s	4m 12s	97.2%	1.8 GB	6.2 GB	2.9 GB	3.1 GB
-470	c9/9efa47	4610658.pbsha.ib.sockeye	benchmark (468)	FAILED	1	2023-02-07 21:29:15.381	49.9s	27.7s	96.8%	114.9 MB	565.3 MB	1.8 GB	3 GB
-311	6f/9ece82	4610474.pbsha.ib.sockeye	benchmark (309)	COMPLETED	0	2023-02-07 21:21:25.399	8m 50s	8m 25s	100.2%	1.8 GB	5.2 GB	3.7 GB	3.1 GB
-482	3b/5064bf	4610666.pbsha.ib.sockeye	benchmark (480)	FAILED	1	2023-02-07 21:29:35.518	39.7s	26.3s	102.7%	6.7 MB	222.8 MB	1.8 GB	3 GB
-349	6b/580fe0	4610520.pbsha.ib.sockeye	benchmark (347)	COMPLETED	0	2023-02-07 21:23:36.257	6m 49s	6m 32s	107.3%	1.7 GB	5.1 GB	3.7 GB	3.1 GB
-457	7c/f91e1e	4610636.pbsha.ib.sockeye	benchmark (455)	FAILED	1	2023-02-07 21:28:12.078	2m 13s	1m 44s	107.5%	918 MB	2.9 GB	2 GB	3 GB
-477	ce/80f99b	4610664.pbsha.ib.sockeye	benchmark (475)	FAILED	1	2023-02-07 21:29:30.320	54.9s	32.8s	97.1%	6.6 MB	233.2 MB	1.7 GB	2.5 GB
-456	9b/f98572	4610640.pbsha.ib.sockeye	benchmark (454)	FAILED	1	2023-02-07 21:28:25.337	2m 5s	1m 37s	96.8%	922.3 MB	2.9 GB	2 GB	3 GB
-479	e5/f68bb6	4610671.pbsha.ib.sockeye	benchmark (477)	FAILED	1	2023-02-07 21:29:40.692	49.6s	27s	83.5%	6.7 MB	233.2 MB	1.7 GB	2.7 GB
-290	15/e73c97	4610445.pbsha.ib.sockeye	benchmark (288)	COMPLETED	0	2023-02-07 21:20:08.252	10m 32s	10m 12s	115.5%	1.9 GB	6.2 GB	3.7 GB	3.1 GB
-362	f7/9424b3	4610532.pbsha.ib.sockeye	benchmark (360)	FAILED	1	2023-02-07 21:24:01.475	6m 39s	6m 16s	106.0%	1.7 GB	5.7 GB	3.4 GB	3.1 GB
-393	88/e875be	4610562.pbsha.ib.sockeye	benchmark (391)	FAILED	1	2023-02-07 21:25:15.389	5m 25s	4m 51s	101.4%	1.9 GB	6.2 GB	2.7 GB	3.1 GB
-293	68/39b27e	4610482.pbsha.ib.sockeye	benchmark (291)	COMPLETED	0	2023-02-07 21:21:45.339	9m 5s	8m 39s	99.3%	2.1 GB	7.3 GB	3.7 GB	3.1 GB
-498	34/a610de	4610681.pbsha.ib.sockeye	benchmark (496)	FAILED	1	2023-02-07 21:30:05.455	49.8s	24.6s	105.8%	6.6 MB	233.2 MB	1.8 GB	3 GB
-287	fb/3561c5	4610446.pbsha.ib.sockeye	benchmark (285)	COMPLETED	0	2023-02-07 21:20:11.089	10m 49s	10m 31s	116.5%	2 GB	6.8 GB	3.7 GB	3.1 GB
-367	4e/5d8ef2	4610541.pbsha.ib.sockeye	benchmark (365)	FAILED	1	2023-02-07 21:24:20.520	6m 40s	6m 19s	102.8%	1.7 GB	5.2 GB	3.4 GB	3.1 GB
-395	51/13070e	4610564.pbsha.ib.sockeye	benchmark (393)	COMPLETED	0	2023-02-07 21:25:20.329	5m 40s	5m 19s	103.9%	1.6 GB	5.1 GB	3 GB	3.1 GB
-487	11/dccd6b	4610674.pbsha.ib.sockeye	benchmark (485)	FAILED	1	2023-02-07 21:29:50.646	1m 10s	43.1s	102.8%	259.6 MB	916.2 MB	1.8 GB	3 GB
-357	21/922ff0	4610526.pbsha.ib.sockeye	benchmark (355)	COMPLETED	0	2023-02-07 21:23:50.396	7m 15s	6m 51s	103.6%	1.8 GB	6.2 GB	3.7 GB	3.1 GB
-373	a6/175bd0	4610543.pbsha.ib.sockeye	benchmark (371)	COMPLETED	0	2023-02-07 21:24:25.548	6m 40s	6m 17s	105.3%	2.1 GB	7.3 GB	3 GB	3.1 GB
-489	e7/a54382	4610684.pbsha.ib.sockeye	benchmark (487)	FAILED	1	2023-02-07 21:30:15.378	49.9s	25.9s	107.1%	226.4 MB	748.9 MB	1.8 GB	3 GB
-492	93/282e0e	4610685.pbsha.ib.sockeye	benchmark (490)	FAILED	1	2023-02-07 21:30:15.467	49.8s	29.3s	90.6%	194.9 MB	677.3 MB	1.8 GB	3.1 GB
-300	88/a62a09	4610454.pbsha.ib.sockeye	benchmark (298)	COMPLETED	0	2023-02-07 21:20:30.377	10m 40s	9m 59s	113.1%	1.6 GB	5.1 GB	3.7 GB	3.1 GB
-418	ff/fc6dd1	4610598.pbsha.ib.sockeye	benchmark (416)	FAILED	1	2023-02-07 21:26:26.557	4m 49s	4m 33s	103.7%	2 GB	6.7 GB	2.9 GB	3.1 GB
-427	bc/8899aa	4610599.pbsha.ib.sockeye	benchmark (425)	FAILED	1	2023-02-07 21:26:30.295	4m 45s	4m 24s	109.4%	2 GB	6.7 GB	2.9 GB	3.1 GB
-504	77/e9c8a4	4610691.pbsha.ib.sockeye	benchmark (502)	FAILED	1	2023-02-07 21:30:30.322	54.9s	39.9s	76.4%	6.6 MB	233.2 MB	1.8 GB	3.1 GB
-321	5e/6a4ca3	4610485.pbsha.ib.sockeye	benchmark (319)	COMPLETED	0	2023-02-07 21:21:52.463	9m 38s	8m 42s	113.4%	1.7 GB	5.6 GB	3 GB	3.1 GB
-315	d4/48d6e0	4610506.pbsha.ib.sockeye	benchmark (313)	COMPLETED	0	2023-02-07 21:23:05.308	8m 25s	7m 52s	100.7%	2 GB	6.8 GB	3.7 GB	3.1 GB
-454	7e/8b7977	4610639.pbsha.ib.sockeye	benchmark (452)	FAILED	1	2023-02-07 21:28:20.336	3m 10s	2m 34s	100.2%	1 GB	3.5 GB	2 GB	3 GB
-368	de/2a919c	4610538.pbsha.ib.sockeye	benchmark (366)	COMPLETED	0	2023-02-07 21:24:16.456	7m 19s	6m 45s	96.9%	1.7 GB	5.7 GB	3 GB	3.1 GB
-443	6c/5694a9	4610615.pbsha.ib.sockeye	benchmark (441)	FAILED	1	2023-02-07 21:27:05.473	4m 30s	4m 9s	107.1%	2 GB	6.8 GB	2.7 GB	3.1 GB
-501	aa/a764d4	4610694.pbsha.ib.sockeye	benchmark (499)	FAILED	1	2023-02-07 21:30:40.347	54.9s	31.6s	92.4%	242.2 MB	904.2 MB	1.8 GB	3.1 GB
-452	38/c8ca2e	4610652.pbsha.ib.sockeye	benchmark (450)	FAILED	1	2023-02-07 21:29:00.315	2m 40s	2m 9s	97.6%	940 MB	2.9 GB	2 GB	3 GB
-370	8b/7d151e	4610540.pbsha.ib.sockeye	benchmark (368)	COMPLETED	0	2023-02-07 21:24:20.403	7m 25s	7m 8s	102.9%	1.9 GB	5.1 GB	3.7 GB	3.1 GB
-490	c7/5ff53a	4610673.pbsha.ib.sockeye	benchmark (488)	FAILED	1	2023-02-07 21:29:45.472	2m	1m 43s	105.9%	1.1 GB	3.5 GB	2 GB	3 GB
-481	fd/0e78b1	4610680.pbsha.ib.sockeye	benchmark (479)	FAILED	1	2023-02-07 21:30:05.347	1m 40s	1m 9s	101.3%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
-500	7d/920604	4610683.pbsha.ib.sockeye	benchmark (498)	FAILED	1	2023-02-07 21:30:05.695	1m 45s	54.7s	101.0%	6.7 MB	233.2 MB	1.8 GB	3 GB
-521	20/c7f5ec	4610707.pbsha.ib.sockeye	benchmark (519)	FAILED	1	2023-02-07 21:31:05.624	44.6s	26.3s	103.5%	239.1 MB	755 MB	1.8 GB	3 GB
-475	78/37b007	4610661.pbsha.ib.sockeye	benchmark (473)	FAILED	1	2023-02-07 21:29:20.574	2m 35s	2m 4s	104.9%	956.2 MB	2.9 GB	2 GB	3 GB
-478	61/6c372f	4610665.pbsha.ib.sockeye	benchmark (476)	FAILED	1	2023-02-07 21:29:30.417	2m 25s	2m 3s	102.7%	872.5 MB	2.9 GB	2 GB	3 GB
-497	7b/dd7571	4610688.pbsha.ib.sockeye	benchmark (495)	FAILED	1	2023-02-07 21:30:25.398	1m 30s	56.5s	79.5%	195.3 MB	677.1 MB	1.8 GB	3 GB
-342	ed/0c813b	4610508.pbsha.ib.sockeye	benchmark (340)	COMPLETED	0	2023-02-07 21:23:05.466	8m 55s	8m 28s	103.9%	1.9 GB	5.2 GB	3.7 GB	3.1 GB
-422	13/7995ba	4610602.pbsha.ib.sockeye	benchmark (420)	FAILED	1	2023-02-07 21:26:40.998	5m 20s	4m 41s	106.7%	1.6 GB	5.2 GB	2.9 GB	3.1 GB
-473	16/04fa4d	4610657.pbsha.ib.sockeye	benchmark (471)	FAILED	1	2023-02-07 21:29:11.247	2m 54s	2m 30s	109.8%	875.6 MB	2.6 GB	2 GB	3 GB
-437	dd/e5c461	4610624.pbsha.ib.sockeye	benchmark (435)	FAILED	1	2023-02-07 21:27:35.319	4m 35s	4m 5s	104.1%	1.9 GB	6.3 GB	2.9 GB	3.1 GB
-447	8f/b48641	4610628.pbsha.ib.sockeye	benchmark (445)	FAILED	1	2023-02-07 21:27:45.309	4m 26s	4m 9s	97.8%	1.6 GB	5.1 GB	2.7 GB	3.1 GB
-502	ae/9037fe	4610698.pbsha.ib.sockeye	benchmark (500)	FAILED	1	2023-02-07 21:30:55.321	1m 20s	50.1s	94.3%	259.4 MB	916.2 MB	1.8 GB	3 GB
-360	6c/821edb	4610529.pbsha.ib.sockeye	benchmark (358)	COMPLETED	0	2023-02-07 21:23:57.313	8m 23s	7m 38s	104.0%	2 GB	6.8 GB	3 GB	3.1 GB
-512	c0/7976cf	4610701.pbsha.ib.sockeye	benchmark (510)	FAILED	1	2023-02-07 21:31:00.490	1m 20s	52.1s	70.2%	6.6 MB	233.2 MB	1.8 GB	3 GB
-525	34/8017aa	4610715.pbsha.ib.sockeye	benchmark (523)	FAILED	1	2023-02-07 21:31:30.426	49.9s	34.8s	86.6%	220.7 MB	688.9 MB	1.8 GB	3 GB
-384	2b/e479c3	4610558.pbsha.ib.sockeye	benchmark (382)	COMPLETED	0	2023-02-07 21:25:11.180	7m 19s	6m 54s	102.9%	1.6 GB	5.2 GB	3.7 GB	3.1 GB
-453	94/05772a	4610635.pbsha.ib.sockeye	benchmark (451)	FAILED	1	2023-02-07 21:28:12.002	4m 19s	4m 1s	103.0%	1.7 GB	5.6 GB	2.7 GB	3.1 GB
-434	84/998490	4610618.pbsha.ib.sockeye	benchmark (432)	COMPLETED	0	2023-02-07 21:27:13.618	5m 27s	5m 5s	107.2%	1.6 GB	5.1 GB	3 GB	3.1 GB
-392	06/ff36ad	4610565.pbsha.ib.sockeye	benchmark (390)	COMPLETED	0	2023-02-07 21:25:20.415	7m 25s	7m 2s	105.0%	2.3 GB	7.8 GB	3.7 GB	3.1 GB
-515	94/362adb	4610704.pbsha.ib.sockeye	benchmark (513)	FAILED	1	2023-02-07 21:31:05.349	1m 40s	1m 22s	108.5%	1 GB	3.5 GB	2 GB	3 GB
-327	41/525df4	4610505.pbsha.ib.sockeye	benchmark (325)	COMPLETED	0	2023-02-07 21:22:55.389	9m 55s	9m 26s	97.8%	2 GB	6.8 GB	3.7 GB	3.1 GB
-450	79/3df530	4610634.pbsha.ib.sockeye	benchmark (448)	FAILED	1	2023-02-07 21:28:00.525	4m 50s	4m 21s	105.4%	1.5 GB	5.2 GB	2.7 GB	3.1 GB
-329	a9/4e54f0	4610494.pbsha.ib.sockeye	benchmark (327)	COMPLETED	0	2023-02-07 21:22:20.308	10m 35s	9m 55s	110.4%	1.8 GB	5.2 GB	3.7 GB	3.1 GB
-365	72/ff5dfc	4610536.pbsha.ib.sockeye	benchmark (363)	COMPLETED	0	2023-02-07 21:24:11.040	8m 49s	8m 22s	104.2%	2 GB	6.8 GB	3.7 GB	3.1 GB
-464	f7/615451	4610647.pbsha.ib.sockeye	benchmark (462)	FAILED	1	2023-02-07 21:28:40.345	4m 20s	3m 54s	108.7%	1.6 GB	5.6 GB	2.7 GB	3.1 GB
-448	6e/7045c6	4610629.pbsha.ib.sockeye	benchmark (446)	COMPLETED	0	2023-02-07 21:27:45.427	5m 20s	5m 8s	106.7%	1.6 GB	5.1 GB	3 GB	3.1 GB
-446	47/ddf896	4610630.pbsha.ib.sockeye	benchmark (444)	COMPLETED	0	2023-02-07 21:27:45.520	5m 20s	4m 59s	103.5%	1.6 GB	5.1 GB	3 GB	3.1 GB
-507	c0/1b1645	4610692.pbsha.ib.sockeye	benchmark (505)	FAILED	1	2023-02-07 21:30:30.462	2m 35s	2m 20s	104.7%	973.2 MB	3.2 GB	2 GB	3 GB
-528	f2/77a10e	4610726.pbsha.ib.sockeye	benchmark (526)	FAILED	1	2023-02-07 21:31:55.332	1m 10s	35.3s	101.4%	6.7 MB	233.2 MB	1.8 GB	3 GB
-402	c9/c73e07	4610575.pbsha.ib.sockeye	benchmark (400)	COMPLETED	0	2023-02-07 21:25:41.206	7m 29s	6m 59s	109.5%	1.8 GB	5.1 GB	3.7 GB	3.1 GB
-465	fa/79a2b4	4610678.pbsha.ib.sockeye	benchmark (463)	COMPLETED	0	2023-02-07 21:30:00.463	3m 11s	2m 34s	109.2%	1.1 GB	3.5 GB	2.2 GB	3 GB
-364	df/76c9fd	4610535.pbsha.ib.sockeye	benchmark (362)	COMPLETED	0	2023-02-07 21:24:05.460	9m 15s	8m 38s	100.9%	1.7 GB	5.7 GB	3.7 GB	3.1 GB
-400	dd/b61c2a	4610577.pbsha.ib.sockeye	benchmark (398)	COMPLETED	0	2023-02-07 21:25:51.048	7m 29s	6m 55s	102.8%	2 GB	6.7 GB	3.7 GB	3.1 GB
-413	2e/e32426	4610585.pbsha.ib.sockeye	benchmark (411)	FAILED	1	2023-02-07 21:26:05.313	7m 20s	6m 34s	101.6%	2 GB	6.8 GB	2.9 GB	3.1 GB
-467	6f/64c496	4610655.pbsha.ib.sockeye	benchmark (465)	COMPLETED	0	2023-02-07 21:29:05.412	4m 20s	3m 57s	99.5%	1.1 GB	3.5 GB	2.2 GB	3 GB
-374	99/b4d240	4610547.pbsha.ib.sockeye	benchmark (372)	COMPLETED	0	2023-02-07 21:24:31.641	8m 59s	8m 36s	98.8%	1.9 GB	6.2 GB	3.7 GB	3.1 GB
-379	5c/45b0fa	4610552.pbsha.ib.sockeye	benchmark (377)	COMPLETED	0	2023-02-07 21:25:05.437	8m 25s	7m 49s	102.4%	1.8 GB	6.3 GB	3.7 GB	3.1 GB
-449	9b/8731c7	4610632.pbsha.ib.sockeye	benchmark (447)	FAILED	1	2023-02-07 21:28:00.311	5m 30s	4m 57s	97.6%	2 GB	6.7 GB	2.7 GB	3.1 GB
-510	3a/7a8fe3	4610696.pbsha.ib.sockeye	benchmark (508)	FAILED	1	2023-02-07 21:30:40.546	2m 50s	2m 12s	104.0%	902 MB	2.6 GB	2 GB	3 GB
-440	c5/6dd267	4610622.pbsha.ib.sockeye	benchmark (438)	COMPLETED	0	2023-02-07 21:27:25.324	6m 10s	5m 45s	114.0%	1.9 GB	6.3 GB	3 GB	3.1 GB
-535	86/d96801	4610730.pbsha.ib.sockeye	benchmark (533)	FAILED	1	2023-02-07 21:32:00.358	1m 40s	55.6s	76.9%	203.4 MB	681.4 MB	1.8 GB	3.1 GB
-484	00/d3d2e2	4610667.pbsha.ib.sockeye	benchmark (482)	FAILED	1	2023-02-07 21:29:35.627	4m 20s	4m 4s	107.5%	1.9 GB	6.2 GB	2.9 GB	3.1 GB
-385	c2/c36e86	4610559.pbsha.ib.sockeye	benchmark (383)	COMPLETED	0	2023-02-07 21:25:11.292	8m 49s	8m 13s	98.0%	2 GB	6.8 GB	3.7 GB	3.1 GB
-435	c9/769225	4610609.pbsha.ib.sockeye	benchmark (433)	COMPLETED	0	2023-02-07 21:27:00.466	7m	6m 42s	106.1%	1.6 GB	5.1 GB	3.7 GB	3.1 GB
-436	7b/b5469c	4610611.pbsha.ib.sockeye	benchmark (434)	COMPLETED	0	2023-02-07 21:27:00.618	7m	6m 40s	110.9%	1.8 GB	6.2 GB	3.7 GB	3.1 GB
-441	a3/5e5d03	4610621.pbsha.ib.sockeye	benchmark (439)	FAILED	1	2023-02-07 21:27:20.417	6m 50s	6m 17s	98.8%	2 GB	6.7 GB	2.9 GB	3.1 GB
-534	00/b8bfb2	4610722.pbsha.ib.sockeye	benchmark (532)	FAILED	1	2023-02-07 21:31:45.407	2m 25s	1m 43s	101.8%	901.8 MB	2.9 GB	2 GB	3 GB
-432	13/c2df7f	4610620.pbsha.ib.sockeye	benchmark (430)	COMPLETED	0	2023-02-07 21:27:20.328	6m 56s	6m 39s	107.0%	1.7 GB	5.7 GB	3.7 GB	3.1 GB
-488	15/babd68	4610668.pbsha.ib.sockeye	benchmark (486)	FAILED	1	2023-02-07 21:29:35.746	4m 40s	4m 26s	103.0%	2 GB	6.7 GB	2.9 GB	3.1 GB
-408	e0/de11cc	4610593.pbsha.ib.sockeye	benchmark (405)	COMPLETED	0	2023-02-07 21:26:20.297	8m	7m 40s	104.6%	1.9 GB	5.7 GB	3.7 GB	3.1 GB
-445	20/cf2026	4610626.pbsha.ib.sockeye	benchmark (443)	COMPLETED	0	2023-02-07 21:27:40.445	6m 50s	6m 27s	102.8%	1.9 GB	5.2 GB	3.7 GB	3.1 GB
-424	b2/ee5bba	4610614.pbsha.ib.sockeye	benchmark (422)	COMPLETED	0	2023-02-07 21:27:05.400	7m 30s	6m 54s	99.6%	2 GB	6.8 GB	3 GB	3.1 GB
-468	99/9090fe	4610651.pbsha.ib.sockeye	benchmark (466)	COMPLETED	0	2023-02-07 21:28:55.318	5m 45s	5m 18s	97.0%	1.5 GB	5.2 GB	3 GB	3.1 GB
-480	d5/cf32a6	4610660.pbsha.ib.sockeye	benchmark (478)	COMPLETED	0	2023-02-07 21:29:20.458	5m 25s	5m 4s	108.5%	2 GB	6.8 GB	3 GB	3.1 GB
-505	76/3814c9	4610689.pbsha.ib.sockeye	benchmark (503)	FAILED	1	2023-02-07 21:30:25.469	4m 20s	3m 57s	102.1%	2 GB	6.8 GB	2.9 GB	3.1 GB
-526	a4/2bd304	4610719.pbsha.ib.sockeye	benchmark (524)	FAILED	1	2023-02-07 21:31:35.635	3m 10s	2m 27s	100.4%	995.3 MB	3.2 GB	2 GB	3 GB
-438	8b/2514e7	4610623.pbsha.ib.sockeye	benchmark (436)	COMPLETED	0	2023-02-07 21:27:30.308	7m 30s	6m 58s	97.4%	1.8 GB	6.2 GB	3 GB	3.1 GB
-493	82/fa0914	4610670.pbsha.ib.sockeye	benchmark (491)	FAILED	1	2023-02-07 21:29:40.610	5m 25s	4m 48s	103.9%	2 GB	6.7 GB	2.9 GB	3.1 GB
-494	42/42d38c	4610676.pbsha.ib.sockeye	benchmark (492)	FAILED	1	2023-02-07 21:29:55.408	5m 10s	4m 47s	104.6%	1.7 GB	5.6 GB	2.7 GB	3.1 GB
-412	f3/cd2171	4610591.pbsha.ib.sockeye	benchmark (410)	COMPLETED	0	2023-02-07 21:26:15.491	8m 55s	8m 19s	112.9%	2.1 GB	7.4 GB	3 GB	3.1 GB
-451	63/003678	4610633.pbsha.ib.sockeye	benchmark (449)	COMPLETED	0	2023-02-07 21:28:00.403	7m 10s	6m 40s	112.7%	1.7 GB	5.1 GB	3.7 GB	3.1 GB
-485	67/87ed6b	4610675.pbsha.ib.sockeye	benchmark (483)	FAILED	1	2023-02-07 21:29:55.321	5m 25s	5m 5s	101.1%	2 GB	6.7 GB	2.9 GB	3.1 GB
-429	27/f92e37	4610600.pbsha.ib.sockeye	benchmark (427)	FAILED	1	2023-02-07 21:26:30.403	8m 55s	8m 17s	110.7%	2.3 GB	7.8 GB	3.4 GB	3.1 GB
-404	b0/db86ba	4610578.pbsha.ib.sockeye	benchmark (402)	COMPLETED	0	2023-02-07 21:25:51.145	9m 39s	9m 10s	108.2%	1.8 GB	6.2 GB	3.7 GB	3.1 GB
-417	5a/b250e2	4610594.pbsha.ib.sockeye	benchmark (415)	COMPLETED	0	2023-02-07 21:26:20.400	9m 15s	8m 38s	105.6%	1.9 GB	6.2 GB	3.7 GB	3.1 GB
-463	8b/30aac9	4610645.pbsha.ib.sockeye	benchmark (461)	COMPLETED	0	2023-02-07 21:28:37.936	7m 2s	6m 37s	107.0%	2 GB	6.8 GB	3.7 GB	3.1 GB
-420	67/4e1af4	4610595.pbsha.ib.sockeye	benchmark (418)	COMPLETED	0	2023-02-07 21:26:26.292	9m 19s	8m 51s	97.0%	2 GB	6.8 GB	3.7 GB	3.1 GB
-486	fa/ebd4df	4610679.pbsha.ib.sockeye	benchmark (484)	FAILED	1	2023-02-07 21:30:00.556	5m 45s	5m 11s	96.7%	2 GB	6.8 GB	2.9 GB	3.1 GB
-509	ba/eeef43	4610697.pbsha.ib.sockeye	benchmark (507)	FAILED	1	2023-02-07 21:30:50.332	4m 55s	4m 34s	101.4%	1.9 GB	6.3 GB	2.9 GB	3.1 GB
-474	53/641f14	4610653.pbsha.ib.sockeye	benchmark (472)	COMPLETED	0	2023-02-07 21:29:00.399	6m 50s	6m 17s	103.8%	1.8 GB	6.2 GB	3 GB	3.1 GB
-391	9e/13644f	4610568.pbsha.ib.sockeye	benchmark (389)	FAILED	143	2023-02-07 21:25:25.421	10m 30s	10m 19s	104.9%	2 GB	6.8 GB	3.7 GB	3.1 GB
-430	d2/b1973b	4610604.pbsha.ib.sockeye	benchmark (428)	COMPLETED	0	2023-02-07 21:26:45.453	9m 10s	8m 36s	97.0%	2 GB	6.8 GB	3.7 GB	3.1 GB
-462	33/fb1935	4610650.pbsha.ib.sockeye	benchmark (460)	COMPLETED	0	2023-02-07 21:28:50.305	7m 10s	6m 57s	105.9%	2 GB	6.7 GB	3.7 GB	3.1 GB
-517	4a/ca6b73	4610717.pbsha.ib.sockeye	benchmark (515)	FAILED	1	2023-02-07 21:31:35.361	4m 31s	4m 9s	99.9%	1.9 GB	6.3 GB	2.9 GB	3.1 GB
-503	0d/390459	4610695.pbsha.ib.sockeye	benchmark (501)	COMPLETED	0	2023-02-07 21:30:40.465	5m 30s	5m 6s	105.6%	1.5 GB	5.1 GB	3 GB	3.1 GB
-472	02/c3e8ac	4610662.pbsha.ib.sockeye	benchmark (470)	COMPLETED	0	2023-02-07 21:29:20.661	7m	6m 38s	112.8%	1.6 GB	5.1 GB	3.7 GB	3.1 GB
-520	a0/25c814	4610702.pbsha.ib.sockeye	benchmark (518)	COMPLETED	0	2023-02-07 21:31:00.637	5m 20s	5m 1s	105.3%	1.9 GB	6.2 GB	3 GB	3.1 GB
-476	24/9c9724	4610656.pbsha.ib.sockeye	benchmark (474)	COMPLETED	0	2023-02-07 21:29:11.150	7m 24s	7m 1s	112.3%	2.1 GB	7.3 GB	3 GB	3.1 GB
-524	83/6c6cdf	4610712.pbsha.ib.sockeye	benchmark (522)	FAILED	1	2023-02-07 21:31:25.330	5m 15s	4m 40s	102.3%	2 GB	6.7 GB	2.7 GB	3.1 GB
-514	99/096ffd	4610699.pbsha.ib.sockeye	benchmark (512)	COMPLETED	0	2023-02-07 21:31:00.328	5m 45s	5m 19s	101.6%	1.5 GB	5.2 GB	3 GB	3.1 GB
-483	9b/dd4cf6	4610669.pbsha.ib.sockeye	benchmark (481)	COMPLETED	0	2023-02-07 21:29:36.026	7m 14s	6m 51s	106.8%	2 GB	6.8 GB	3.7 GB	3.1 GB
-414	dd/a773e4	4610589.pbsha.ib.sockeye	benchmark (412)	COMPLETED	0	2023-02-07 21:26:15.302	10m 55s	10m 18s	117.7%	1.8 GB	6.3 GB	3.7 GB	3.1 GB
-459	e0/1f158d	4610637.pbsha.ib.sockeye	benchmark (457)	COMPLETED	0	2023-02-07 21:28:13.456	8m 57s	8m 19s	97.0%	1.9 GB	6.3 GB	3.7 GB	3.1 GB
-518	86/870b39	4610706.pbsha.ib.sockeye	benchmark (516)	FAILED	1	2023-02-07 21:31:05.549	6m 11s	5m 54s	102.6%	2 GB	6.8 GB	3.4 GB	3.1 GB
-415	a6/ce4667	4610590.pbsha.ib.sockeye	benchmark (413)	COMPLETED	0	2023-02-07 21:26:15.384	11m 15s	10m 38s	106.2%	2.1 GB	7.3 GB	3.7 GB	3.1 GB
-508	fe/819782	4610700.pbsha.ib.sockeye	benchmark (506)	FAILED	1	2023-02-07 21:31:00.408	6m 35s	6m 13s	105.6%	1.9 GB	5.6 GB	3.4 GB	3.1 GB
-460	3c/33dff0	4610642.pbsha.ib.sockeye	benchmark (458)	COMPLETED	0	2023-02-07 21:28:30.312	9m 20s	8m 48s	103.8%	1.8 GB	5.2 GB	3.7 GB	3.1 GB
-471	cd/7b7529	4610654.pbsha.ib.sockeye	benchmark (469)	COMPLETED	0	2023-02-07 21:29:05.340	8m 55s	8m 31s	103.1%	1.9 GB	6.3 GB	3.7 GB	3.1 GB
-499	40/1672cf	4610682.pbsha.ib.sockeye	benchmark (497)	COMPLETED	0	2023-02-07 21:30:05.548	8m 5s	7m 22s	96.7%	1.8 GB	6.8 GB	3 GB	3.1 GB
-527	d5/ad6b89	4610718.pbsha.ib.sockeye	benchmark (525)	COMPLETED	0	2023-02-07 21:31:35.493	6m 45s	6m 23s	107.6%	1.9 GB	6.3 GB	3.7 GB	3.1 GB
-522	66/dcdad3	4610709.pbsha.ib.sockeye	benchmark (520)	COMPLETED	0	2023-02-07 21:31:15.329	7m 10s	6m 50s	104.0%	1.9 GB	5.1 GB	3.7 GB	3.1 GB
-513	6c/9dfff8	4610716.pbsha.ib.sockeye	benchmark (511)	FAILED	1	2023-02-07 21:31:30.531	7m	6m 47s	100.0%	1.8 GB	5.2 GB	3.4 GB	3.1 GB
-469	9f/70c699	4610659.pbsha.ib.sockeye	benchmark (467)	COMPLETED	0	2023-02-07 21:29:20.367	9m 15s	8m 51s	102.7%	1.8 GB	5.2 GB	3.7 GB	3.1 GB
-529	d4/55d400	4610720.pbsha.ib.sockeye	benchmark (527)	COMPLETED	0	2023-02-07 21:31:40.336	7m	6m 42s	100.2%	1.9 GB	5.7 GB	3.7 GB	3.1 GB
-511	f7/90df94	4610708.pbsha.ib.sockeye	benchmark (509)	COMPLETED	0	2023-02-07 21:31:10.404	7m 45s	7m 17s	107.2%	1.5 GB	5.1 GB	3.7 GB	3.1 GB
-533	3a/5eee7c	4610721.pbsha.ib.sockeye	benchmark (531)	COMPLETED	0	2023-02-07 21:31:45.328	7m 10s	6m 48s	98.5%	1.8 GB	5.2 GB	3.7 GB	3.1 GB
-491	19/dffa34	4610677.pbsha.ib.sockeye	benchmark (489)	COMPLETED	0	2023-02-07 21:30:00.368	9m	8m 17s	101.8%	2 GB	6.8 GB	3.7 GB	3.1 GB
-495	54/ead39d	4610687.pbsha.ib.sockeye	benchmark (493)	COMPLETED	0	2023-02-07 21:30:25.311	8m 35s	8m 2s	97.2%	2 GB	6.8 GB	3.7 GB	3.1 GB
-496	14/26f8d3	4610672.pbsha.ib.sockeye	benchmark (494)	COMPLETED	0	2023-02-07 21:29:40.812	9m 29s	8m 51s	103.7%	1.9 GB	6.3 GB	3.7 GB	3.1 GB
-537	28/6d9805	4610725.pbsha.ib.sockeye	benchmark (535)	COMPLETED	0	2023-02-07 21:31:50.412	7m 30s	6m 56s	98.0%	1.9 GB	6.3 GB	3.7 GB	3.1 GB
-530	7d/0b6e38	4610724.pbsha.ib.sockeye	benchmark (528)	COMPLETED	0	2023-02-07 21:31:50.325	7m 40s	7m 3s	102.7%	1.9 GB	5.7 GB	3.7 GB	3.1 GB
-516	98/96bc42	4610710.pbsha.ib.sockeye	benchmark (514)	COMPLETED	0	2023-02-07 21:31:15.408	8m 20s	7m 50s	105.1%	2 GB	5.2 GB	3.7 GB	3.1 GB
-532	3d/ddb3c8	4610728.pbsha.ib.sockeye	benchmark (530)	COMPLETED	0	2023-02-07 21:31:55.532	7m 55s	7m 17s	99.1%	1.9 GB	5.1 GB	3.7 GB	3.1 GB
-506	ee/5d361f	4610731.pbsha.ib.sockeye	benchmark (504)	FAILED	1	2023-02-07 21:32:02.437	7m 53s	7m 14s	100.1%	1.9 GB	6.2 GB	3.4 GB	3.1 GB
-523	a3/791733	4610705.pbsha.ib.sockeye	benchmark (521)	COMPLETED	0	2023-02-07 21:31:05.429	8m 55s	8m 12s	99.6%	1.9 GB	6.3 GB	3.7 GB	3.1 GB
-519	1e/6376dd	4610714.pbsha.ib.sockeye	benchmark (517)	COMPLETED	0	2023-02-07 21:31:30.348	8m 40s	8m 2s	100.0%	1.8 GB	5.2 GB	3.7 GB	3.1 GB
-536	c7/0930a8	4610727.pbsha.ib.sockeye	benchmark (534)	COMPLETED	0	2023-02-07 21:31:55.447	8m 21s	7m 41s	111.2%	1.8 GB	6.3 GB	3.7 GB	3.1 GB
-531	cb/d73c0a	4610723.pbsha.ib.sockeye	benchmark (529)	COMPLETED	0	2023-02-07 21:31:45.487	8m 50s	8m 7s	100.5%	1.8 GB	6.2 GB	3.7 GB	3.1 GB
-538	b9/3b5376	4610762.pbsha.ib.sockeye	aggregate	COMPLETED	0	2023-02-07 21:40:35.495	34.8s	9s	40.2%	78.8 MB	4.4 GB	9.7 MB	15.1 KB
-539	09/b0e015	4610765.pbsha.ib.sockeye	plot	COMPLETED	0	2023-02-07 21:41:10.415	24.9s	7.8s	53.6%	111.2 MB	379.6 MB	12.1 MB	36.7 KB
+2	28/d0edf5	4610872.pbsha.ib.sockeye	list_commits	COMPLETED	0	2023-02-07 21:44:13.497	14.4s	296ms	0.0%	1.6 MB	110.8 MB	2.9 MB	3.1 MB
+9	57/dd08ef	4610873.pbsha.ib.sockeye	benchmark (7)	FAILED	1	2023-02-07 21:44:28.446	49.7s	33.8s	95.2%	210.9 MB	681.4 MB	1.8 GB	3 GB
+47	04/7459b8	4610912.pbsha.ib.sockeye	benchmark (45)	FAILED	1	2023-02-07 21:44:32.242	46.1s	28.3s	97.3%	6.6 MB	233.2 MB	1.8 GB	3 GB
+60	c8/058391	4610924.pbsha.ib.sockeye	benchmark (58)	FAILED	1	2023-02-07 21:44:33.395	44.9s	27.1s	96.9%	76.2 MB	549.6 MB	1.8 GB	3.1 GB
+15	4c/f754a2	4610885.pbsha.ib.sockeye	benchmark (13)	FAILED	1	2023-02-07 21:44:29.737	53.2s	29.3s	96.1%	259.5 MB	916.2 MB	1.8 GB	3 GB
+52	c6/dcf47b	4610915.pbsha.ib.sockeye	benchmark (50)	FAILED	1	2023-02-07 21:44:32.494	50.4s	34s	94.0%	6.6 MB	233.2 MB	1.8 GB	3.1 GB
+56	f7/be90f6	4610932.pbsha.ib.sockeye	benchmark (54)	FAILED	1	2023-02-07 21:44:34.475	48.5s	30s	101.1%	6.6 MB	233.2 MB	1.8 GB	3 GB
+22	c2/1c8558	4610895.pbsha.ib.sockeye	benchmark (20)	FAILED	1	2023-02-07 21:44:30.687	58.1s	39.2s	105.5%	188.5 MB	677.4 MB	1.8 GB	3 GB
+20	e8/10c755	4610896.pbsha.ib.sockeye	benchmark (18)	FAILED	1	2023-02-07 21:44:30.772	58.1s	39.2s	93.7%	188.5 MB	677.4 MB	1.8 GB	3 GB
+35	11/50941a	4610900.pbsha.ib.sockeye	benchmark (33)	FAILED	1	2023-02-07 21:44:31.172	57.7s	36.5s	105.9%	6.7 MB	233.2 MB	1.8 GB	3 GB
+38	06/a3e4d0	4610904.pbsha.ib.sockeye	benchmark (36)	FAILED	1	2023-02-07 21:44:31.546	57.3s	36.5s	118.6%	6.6 MB	233.2 MB	1.8 GB	3 GB
+39	5d/dae024	4610908.pbsha.ib.sockeye	benchmark (37)	FAILED	1	2023-02-07 21:44:31.908	57s	38.5s	93.9%	6.7 MB	233.2 MB	1.8 GB	3.1 GB
+61	e5/c85a22	4610942.pbsha.ib.sockeye	benchmark (59)	FAILED	1	2023-02-07 21:44:35.660	53.2s	33.3s	104.0%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
+82	94/33b6fe	4610948.pbsha.ib.sockeye	benchmark (80)	FAILED	1	2023-02-07 21:44:39.440	49.4s	30.4s	100.7%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
+30	eb/6deea3	4610899.pbsha.ib.sockeye	benchmark (28)	FAILED	1	2023-02-07 21:44:31.054	1m 2s	41.1s	82.5%	6.7 MB	233.2 MB	1.8 GB	3 GB
+67	d8/96f99e	4610936.pbsha.ib.sockeye	benchmark (65)	FAILED	1	2023-02-07 21:44:35.116	57.8s	29.5s	103.5%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
+21	30/d7e506	4610887.pbsha.ib.sockeye	benchmark (19)	FAILED	1	2023-02-07 21:44:29.909	1m 8s	42.1s	99.5%	259.3 MB	916.2 MB	1.8 GB	3.1 GB
+36	bb/27c727	4610906.pbsha.ib.sockeye	benchmark (34)	FAILED	1	2023-02-07 21:44:31.731	1m 6s	46.9s	105.9%	197.3 MB	677.1 MB	1.8 GB	3 GB
+55	0d/0a9248	4610931.pbsha.ib.sockeye	benchmark (53)	FAILED	1	2023-02-07 21:44:34.346	1m 4s	42.6s	94.7%	508.6 MB	1.8 GB	1.8 GB	3 GB
+64	b2/65d9d1	4610935.pbsha.ib.sockeye	benchmark (62)	FAILED	1	2023-02-07 21:44:35.016	1m 3s	39.6s	100.2%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
+103	33/df4802	4610974.pbsha.ib.sockeye	benchmark (101)	FAILED	1	2023-02-07 21:44:42.124	55.9s	35s	84.1%	259.5 MB	916.2 MB	1.8 GB	3 GB
+66	98/450149	4610927.pbsha.ib.sockeye	benchmark (64)	FAILED	1	2023-02-07 21:44:34.011	1m 9s	49.9s	101.9%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
+59	95/c66c1e	4610928.pbsha.ib.sockeye	benchmark (57)	FAILED	1	2023-02-07 21:44:34.095	1m 9s	47.1s	102.0%	227.7 MB	748.9 MB	1.8 GB	3 GB
+94	16/c97983	4610964.pbsha.ib.sockeye	benchmark (92)	FAILED	1	2023-02-07 21:44:40.889	1m 2s	39.9s	91.3%	291.4 MB	983.6 MB	1.8 GB	3.1 GB
+96	6b/301fd1	4610965.pbsha.ib.sockeye	benchmark (94)	FAILED	1	2023-02-07 21:44:40.976	1m 2s	40.2s	115.7%	6.7 MB	233.2 MB	1.8 GB	3 GB
+97	7a/06c85d	4610966.pbsha.ib.sockeye	benchmark (95)	FAILED	1	2023-02-07 21:44:41.186	1m 2s	39.7s	77.7%	196.2 MB	677.4 MB	1.8 GB	3.1 GB
+77	26/db7618	4610957.pbsha.ib.sockeye	benchmark (75)	FAILED	1	2023-02-07 21:44:40.253	1m 8s	48.8s	94.4%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
+98	0f/e237b6	4610970.pbsha.ib.sockeye	benchmark (96)	FAILED	1	2023-02-07 21:44:41.604	1m 6s	42.4s	102.2%	259.4 MB	916.2 MB	1.8 GB	3 GB
+12	14/446474	4610874.pbsha.ib.sockeye	benchmark (10)	FAILED	1	2023-02-07 21:44:28.538	1m 44s	1m 28s	98.8%	1 GB	3.5 GB	2 GB	3 GB
+16	1b/74a264	4610911.pbsha.ib.sockeye	benchmark (14)	FAILED	1	2023-02-07 21:44:32.160	1m 41s	1m 25s	100.7%	1 GB	3.5 GB	2 GB	3 GB
+106	09/8da28d	4610983.pbsha.ib.sockeye	benchmark (104)	FAILED	1	2023-02-07 21:45:23.158	49.8s	29s	97.5%	6.6 MB	233.2 MB	1.8 GB	3 GB
+10	de/4c3906	4610883.pbsha.ib.sockeye	benchmark (8)	FAILED	1	2023-02-07 21:44:29.563	1m 48s	1m 23s	103.5%	953.9 MB	2.9 GB	2 GB	3 GB
+13	f3/9f1bfd	4610876.pbsha.ib.sockeye	benchmark (11)	FAILED	1	2023-02-07 21:44:28.947	1m 54s	1m 32s	102.5%	1 GB	3.5 GB	2 GB	3 GB
+11	fb/30a89c	4610879.pbsha.ib.sockeye	benchmark (9)	FAILED	1	2023-02-07 21:44:29.218	1m 54s	1m 34s	102.1%	931.4 MB	3 GB	2 GB	3 GB
+44	76/d38e54	4610922.pbsha.ib.sockeye	benchmark (42)	FAILED	1	2023-02-07 21:44:33.170	1m 50s	1m 33s	100.8%	900.1 MB	2.9 GB	2 GB	3 GB
+108	82/fb1c40	4610989.pbsha.ib.sockeye	benchmark (106)	FAILED	1	2023-02-07 21:45:29.221	53.7s	26.1s	89.6%	153.3 MB	663.1 MB	1.8 GB	3.1 GB
+90	1c/7fcc62	4610953.pbsha.ib.sockeye	benchmark (88)	FAILED	1	2023-02-07 21:44:39.908	1m 49s	1m 30s	105.5%	931.3 MB	2.9 GB	2 GB	3 GB
+99	c0/ad3272	4610979.pbsha.ib.sockeye	benchmark (97)	FAILED	1	2023-02-07 21:45:22.646	1m 6s	32.5s	87.6%	6.6 MB	233.2 MB	1.7 GB	2.8 GB
+125	85/5b4e51	4611002.pbsha.ib.sockeye	benchmark (123)	FAILED	1	2023-02-07 21:45:43.329	45.4s	28s	103.4%	6.6 MB	233.2 MB	1.8 GB	3 GB
+128	88/da4dbe	4611004.pbsha.ib.sockeye	benchmark (126)	FAILED	1	2023-02-07 21:45:43.489	45.3s	24.5s	92.9%	259.4 MB	916.2 MB	1.8 GB	3.1 GB
+6	9a/e5717b	4610875.pbsha.ib.sockeye	benchmark (4)	FAILED	1	2023-02-07 21:44:28.822	2m 4s	1m 42s	101.9%	900.3 MB	2.9 GB	2 GB	3 GB
+24	d3/ad5495	4610901.pbsha.ib.sockeye	benchmark (22)	FAILED	1	2023-02-07 21:44:31.260	2m 2s	1m 43s	100.7%	1.1 GB	3.2 GB	2 GB	3 GB
+69	e8/3a58e7	4610933.pbsha.ib.sockeye	benchmark (67)	FAILED	1	2023-02-07 21:44:34.555	1m 58s	1m 45s	94.9%	930.7 MB	3 GB	2 GB	3 GB
+87	2f/a52219	4610955.pbsha.ib.sockeye	benchmark (85)	FAILED	1	2023-02-07 21:44:40.056	1m 53s	1m 38s	111.2%	1.1 GB	3.5 GB	2 GB	3 GB
+119	22/76fd73	4610993.pbsha.ib.sockeye	benchmark (117)	FAILED	1	2023-02-07 21:45:33.026	59.9s	33.6s	91.7%	6.6 MB	233.2 MB	1.8 GB	2.8 GB
+3	c7/e43379	4610881.pbsha.ib.sockeye	benchmark (1)	FAILED	1	2023-02-07 21:44:29.398	2m 9s	1m 48s	100.0%	895 MB	3 GB	2 GB	3 GB
+27	df/b4f668	4610892.pbsha.ib.sockeye	benchmark (25)	FAILED	1	2023-02-07 21:44:30.376	2m 8s	1m 44s	99.0%	982.7 MB	2.9 GB	2.1 GB	3 GB
+32	54/2e3548	4610905.pbsha.ib.sockeye	benchmark (30)	FAILED	1	2023-02-07 21:44:31.649	2m 6s	1m 45s	119.2%	1 GB	3.5 GB	2 GB	3 GB
+122	dc/8604fe	4610997.pbsha.ib.sockeye	benchmark (120)	FAILED	1	2023-02-07 21:45:38.231	59.7s	27.2s	102.0%	6.7 MB	233.2 MB	1.8 GB	3 GB
+118	af/f1d9ce	4610998.pbsha.ib.sockeye	benchmark (116)	FAILED	1	2023-02-07 21:45:38.324	59.6s	28.1s	96.9%	210.8 MB	681.4 MB	1.8 GB	3.1 GB
+46	e0/33cde5	4610913.pbsha.ib.sockeye	benchmark (44)	FAILED	1	2023-02-07 21:44:32.321	2m 11s	1m 49s	97.0%	918 MB	2.9 GB	2.1 GB	3 GB
+53	88/f9f3f0	4610917.pbsha.ib.sockeye	benchmark (51)	FAILED	1	2023-02-07 21:44:32.699	2m 10s	1m 48s	103.5%	922.9 MB	2.9 GB	2 GB	3 GB
+127	57/f5eb55	4611003.pbsha.ib.sockeye	benchmark (125)	FAILED	1	2023-02-07 21:45:43.409	59.6s	30.4s	92.6%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
+137	1b/26797b	4611005.pbsha.ib.sockeye	benchmark (135)	FAILED	1	2023-02-07 21:45:48.155	59.8s	30.8s	105.8%	6.6 MB	222.8 MB	1.8 GB	3 GB
+81	12/ff813f	4610958.pbsha.ib.sockeye	benchmark (79)	FAILED	1	2023-02-07 21:44:40.338	2m 13s	1m 51s	104.1%	1000.4 MB	3.5 GB	2 GB	3 GB
+91	15/7efb87	4610963.pbsha.ib.sockeye	benchmark (89)	FAILED	1	2023-02-07 21:44:40.803	2m 17s	1m 55s	106.3%	975.9 MB	3.2 GB	2.1 GB	3 GB
+93	8d/0d301a	4610967.pbsha.ib.sockeye	benchmark (91)	FAILED	1	2023-02-07 21:44:41.287	2m 17s	1m 56s	104.0%	852.7 MB	2.9 GB	2.1 GB	3 GB
+133	40/3407b6	4611014.pbsha.ib.sockeye	benchmark (131)	FAILED	1	2023-02-07 21:46:23.195	44.7s	29.4s	91.4%	6.6 MB	233.2 MB	1.8 GB	3.1 GB
+104	7f/110b12	4610981.pbsha.ib.sockeye	benchmark (102)	FAILED	1	2023-02-07 21:45:22.803	1m 50s	1m 28s	102.9%	847.4 MB	2.9 GB	2 GB	3 GB
+123	46/037365	4611008.pbsha.ib.sockeye	benchmark (121)	FAILED	1	2023-02-07 21:46:13.050	59.9s	41.2s	100.3%	211 MB	681.4 MB	1.8 GB	3 GB
+126	f1/48e003	4611016.pbsha.ib.sockeye	benchmark (124)	FAILED	1	2023-02-07 21:46:28.843	49.2s	28s	96.6%	6.7 MB	233.2 MB	1.8 GB	3 GB
+147	05/86536f	4611019.pbsha.ib.sockeye	benchmark (145)	FAILED	1	2023-02-07 21:46:29.160	48.9s	31.3s	92.6%	6.6 MB	233.2 MB	1.8 GB	3 GB
+129	89/2f1edf	4611001.pbsha.ib.sockeye	benchmark (127)	FAILED	1	2023-02-07 21:45:43.190	1m 40s	1m 21s	104.4%	850.3 MB	2.9 GB	2 GB	3 GB
+138	fa/35b124	4611027.pbsha.ib.sockeye	benchmark (136)	FAILED	1	2023-02-07 21:46:38.124	44.8s	26.3s	108.1%	196 MB	677.4 MB	1.8 GB	3 GB
+105	de/023b9f	4610975.pbsha.ib.sockeye	benchmark (103)	COMPLETED	0	2023-02-07 21:44:42.470	2m 46s	2m 22s	104.5%	971.5 MB	3.2 GB	2.2 GB	3 GB
+49	fa/913d53	4610914.pbsha.ib.sockeye	benchmark (47)	COMPLETED	0	2023-02-07 21:44:32.412	3m 1s	2m 41s	97.9%	1002.3 MB	3.2 GB	2.2 GB	3 GB
+153	b5/77f9cb	4611024.pbsha.ib.sockeye	benchmark (151)	FAILED	1	2023-02-07 21:46:33.442	59.5s	28.7s	95.7%	6.6 MB	233.2 MB	1.8 GB	3 GB
+109	6b/840caa	4610994.pbsha.ib.sockeye	benchmark (107)	FAILED	1	2023-02-07 21:45:33.108	2m 10s	1m 35s	103.5%	937.7 MB	2.9 GB	2 GB	3 GB
+134	26/df58f6	4611006.pbsha.ib.sockeye	benchmark (132)	FAILED	1	2023-02-07 21:45:48.251	1m 55s	1m 29s	85.0%	876.9 MB	2.9 GB	2 GB	3 GB
+4	f4/21e4f3	4610880.pbsha.ib.sockeye	benchmark (2)	COMPLETED	0	2023-02-07 21:44:29.303	3m 19s	2m 54s	96.7%	1003.9 MB	3.2 GB	2.2 GB	3 GB
+164	d9/d494ef	4611046.pbsha.ib.sockeye	benchmark (162)	FAILED	1	2023-02-07 21:47:23.029	54.9s	29.2s	92.7%	12.6 MB	236 MB	1.8 GB	3 GB
+135	36/d11dac	4611026.pbsha.ib.sockeye	benchmark (133)	FAILED	1	2023-02-07 21:46:33.655	1m 55s	1m 35s	99.4%	950.5 MB	3.2 GB	2 GB	3 GB
+141	0e/5417c2	4611018.pbsha.ib.sockeye	benchmark (139)	FAILED	1	2023-02-07 21:46:29.049	2m 4s	1m 43s	106.2%	931.4 MB	2.9 GB	2 GB	3 GB
+139	f6/831bcf	4611022.pbsha.ib.sockeye	benchmark (137)	FAILED	1	2023-02-07 21:46:33.305	2m	1m 40s	105.0%	950.5 MB	2.9 GB	2 GB	3 GB
+161	da/748ac4	4611044.pbsha.ib.sockeye	benchmark (159)	FAILED	1	2023-02-07 21:47:18.240	1m 15s	36.8s	102.4%	259.4 MB	916.2 MB	1.8 GB	3 GB
+25	91/0d3f4b	4610894.pbsha.ib.sockeye	benchmark (23)	FAILED	1	2023-02-07 21:44:30.554	4m 7s	3m 49s	103.8%	1.5 GB	5.2 GB	2.9 GB	3.1 GB
+19	f8/7b2b61	4610890.pbsha.ib.sockeye	benchmark (17)	FAILED	1	2023-02-07 21:44:30.182	4m 13s	3m 54s	101.0%	1.9 GB	6.2 GB	2.9 GB	3.1 GB
+43	47/cb1de1	4610923.pbsha.ib.sockeye	benchmark (41)	FAILED	1	2023-02-07 21:44:33.312	4m 15s	3m 54s	101.3%	2 GB	6.8 GB	2.7 GB	3.1 GB
+17	ea/11a7c1	4610888.pbsha.ib.sockeye	benchmark (16)	FAILED	1	2023-02-07 21:44:30.003	4m 23s	4m 5s	108.7%	2 GB	6.7 GB	2.9 GB	3.1 GB
+33	de/a54bd8	4610898.pbsha.ib.sockeye	benchmark (31)	FAILED	1	2023-02-07 21:44:30.971	4m 22s	3m 59s	99.0%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
+163	c8/1e4573	4611036.pbsha.ib.sockeye	benchmark (161)	FAILED	1	2023-02-07 21:46:53.017	2m	1m 33s	103.6%	973.1 MB	3.5 GB	2 GB	3 GB
+14	24/eb84fb	4610877.pbsha.ib.sockeye	benchmark (12)	FAILED	1	2023-02-07 21:44:29.031	4m 29s	4m 11s	97.3%	2 GB	6.7 GB	2.9 GB	3.1 GB
+78	06/920b6b	4610949.pbsha.ib.sockeye	benchmark (76)	FAILED	1	2023-02-07 21:44:39.530	4m 18s	3m 58s	104.2%	1.5 GB	5.2 GB	2.7 GB	3.1 GB
+117	b0/c7b1f8	4610991.pbsha.ib.sockeye	benchmark (115)	COMPLETED	0	2023-02-07 21:45:29.389	3m 29s	2m 54s	102.7%	1 GB	3.2 GB	2.2 GB	3 GB
+168	e0/9ac30d	4611058.pbsha.ib.sockeye	benchmark (166)	FAILED	1	2023-02-07 21:48:18.064	44.9s	24.4s	95.9%	6.6 MB	233.2 MB	1.7 GB	2.8 GB
+70	61/6799bb	4610934.pbsha.ib.sockeye	benchmark (68)	FAILED	1	2023-02-07 21:44:34.677	4m 33s	4m 15s	98.8%	1.9 GB	6.3 GB	2.9 GB	3.1 GB
+83	23/7502f4	4610960.pbsha.ib.sockeye	benchmark (81)	FAILED	1	2023-02-07 21:44:40.527	4m 27s	4m 11s	101.6%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
+92	78/a523d5	4610969.pbsha.ib.sockeye	benchmark (90)	FAILED	1	2023-02-07 21:44:41.510	4m 26s	4m 6s	102.7%	2 GB	6.8 GB	2.9 GB	3.1 GB
+68	a0/2525ad	4610940.pbsha.ib.sockeye	benchmark (66)	FAILED	1	2023-02-07 21:44:35.474	4m 37s	4m 13s	105.7%	1.7 GB	5.7 GB	2.9 GB	3.1 GB
+169	11/b798e7	4611048.pbsha.ib.sockeye	benchmark (167)	FAILED	1	2023-02-07 21:47:28.915	1m 44s	1m 31s	104.7%	963.6 MB	2.9 GB	2 GB	3 GB
+37	a3/02210e	4610903.pbsha.ib.sockeye	benchmark (35)	FAILED	1	2023-02-07 21:44:31.464	4m 46s	4m 24s	105.4%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
+74	61/fc49e1	4610946.pbsha.ib.sockeye	benchmark (72)	FAILED	1	2023-02-07 21:44:39.285	4m 39s	4m 15s	102.7%	1.9 GB	6.7 GB	2.9 GB	3.1 GB
+31	96/ebc270	4610893.pbsha.ib.sockeye	benchmark (29)	FAILED	1	2023-02-07 21:44:30.464	4m 52s	4m 35s	108.3%	1.7 GB	5.6 GB	2.8 GB	3.1 GB
+72	08/715ac9	4610956.pbsha.ib.sockeye	benchmark (70)	FAILED	1	2023-02-07 21:44:40.153	4m 43s	4m 24s	100.2%	1.8 GB	6.1 GB	2.9 GB	3.1 GB
+40	90/d36e55	4610907.pbsha.ib.sockeye	benchmark (38)	FAILED	1	2023-02-07 21:44:31.817	4m 57s	4m 36s	107.5%	1.6 GB	5.2 GB	2.9 GB	3.1 GB
+89	12/8528cc	4610962.pbsha.ib.sockeye	benchmark (87)	FAILED	1	2023-02-07 21:44:40.706	4m 48s	4m 25s	115.7%	1.6 GB	5.2 GB	2.9 GB	3.1 GB
+28	2a/2c7d23	4610889.pbsha.ib.sockeye	benchmark (26)	FAILED	1	2023-02-07 21:44:30.102	5m 3s	4m 44s	97.6%	1.6 GB	5.1 GB	2.8 GB	3.1 GB
+42	a0/dad991	4610918.pbsha.ib.sockeye	benchmark (40)	FAILED	1	2023-02-07 21:44:32.787	5m	4m 43s	99.6%	1.9 GB	6.2 GB	2.9 GB	3.1 GB
+175	0a/231927	4611066.pbsha.ib.sockeye	benchmark (173)	FAILED	1	2023-02-07 21:48:48.142	44.9s	24.5s	94.2%	259.6 MB	916.2 MB	1.8 GB	3.1 GB
+188	ee/d607b8	4611071.pbsha.ib.sockeye	benchmark (186)	FAILED	1	2023-02-07 21:48:59.972	48s	28s	100.6%	122.9 MB	565.3 MB	1.8 GB	3 GB
+8	95/6756fa	4610882.pbsha.ib.sockeye	benchmark (6)	COMPLETED	0	2023-02-07 21:44:29.481	5m 23s	5m 5s	103.0%	1.5 GB	5.1 GB	3 GB	3.1 GB
+194	f4/205116	4611076.pbsha.ib.sockeye	benchmark (192)	FAILED	1	2023-02-07 21:49:08.212	44.8s	23.9s	103.6%	6.6 MB	916.2 MB	1.8 GB	3 GB
+121	0a/b2910d	4610992.pbsha.ib.sockeye	benchmark (119)	FAILED	1	2023-02-07 21:45:29.468	4m 28s	4m 4s	104.2%	1.8 GB	6.3 GB	2.9 GB	3.1 GB
+62	a3/f5978a	4610926.pbsha.ib.sockeye	benchmark (60)	COMPLETED	0	2023-02-07 21:44:33.588	5m 29s	5m 11s	102.5%	1.9 GB	6.3 GB	3 GB	3.1 GB
+107	40/92a304	4610987.pbsha.ib.sockeye	benchmark (105)	FAILED	1	2023-02-07 21:45:29.052	4m 34s	3m 59s	105.5%	1.6 GB	5.1 GB	2.7 GB	3.1 GB
+73	d9/964161	4610943.pbsha.ib.sockeye	benchmark (71)	COMPLETED	0	2023-02-07 21:44:35.735	5m 32s	5m 11s	107.0%	1.6 GB	5.2 GB	3 GB	3.1 GB
+197	86/4f7715	4611082.pbsha.ib.sockeye	benchmark (195)	FAILED	1	2023-02-07 21:49:23.095	44.9s	27s	100.1%	6.7 MB	233.2 MB	1.8 GB	3 GB
+26	be/c660dc	4610902.pbsha.ib.sockeye	benchmark (24)	COMPLETED	0	2023-02-07 21:44:31.350	5m 42s	5m 20s	101.4%	1.6 GB	5.1 GB	3 GB	3.1 GB
+54	9e/7e880f	4610941.pbsha.ib.sockeye	benchmark (52)	COMPLETED	0	2023-02-07 21:44:35.567	5m 37s	5m 9s	106.4%	1.9 GB	6.2 GB	3 GB	3.1 GB
+80	ef/e05fdf	4610944.pbsha.ib.sockeye	benchmark (78)	COMPLETED	0	2023-02-07 21:44:35.821	5m 37s	5m 13s	100.0%	2 GB	6.8 GB	3 GB	3.1 GB
+79	9b/1748d4	4610945.pbsha.ib.sockeye	benchmark (77)	COMPLETED	0	2023-02-07 21:44:39.003	5m 34s	5m 14s	106.3%	1.9 GB	6.2 GB	3 GB	3.1 GB
+75	54/5e375c	4610959.pbsha.ib.sockeye	benchmark (73)	COMPLETED	0	2023-02-07 21:44:40.425	5m 33s	5m 12s	97.2%	2 GB	6.8 GB	3 GB	3.1 GB
+100	76/2d033e	4610972.pbsha.ib.sockeye	benchmark (98)	COMPLETED	0	2023-02-07 21:44:41.890	5m 31s	5m 11s	109.8%	2 GB	6.8 GB	3 GB	3.1 GB
+45	7b/99d50e	4610919.pbsha.ib.sockeye	benchmark (43)	COMPLETED	0	2023-02-07 21:44:32.886	5m 45s	5m 29s	102.8%	1.9 GB	6.3 GB	3 GB	3.1 GB
+50	59/b3fabe	4610921.pbsha.ib.sockeye	benchmark (48)	COMPLETED	0	2023-02-07 21:44:33.074	5m 45s	5m 27s	101.8%	1.9 GB	6.8 GB	3 GB	3.1 GB
+112	ca/aa79d1	4610982.pbsha.ib.sockeye	benchmark (110)	FAILED	1	2023-02-07 21:45:23.016	4m 55s	4m 33s	99.6%	1.6 GB	5.1 GB	2.8 GB	3.1 GB
+182	42/18b873	4611086.pbsha.ib.sockeye	benchmark (180)	FAILED	1	2023-02-07 21:49:33.140	44.8s	27.5s	99.4%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
+65	74/6efbfd	4610929.pbsha.ib.sockeye	benchmark (63)	COMPLETED	0	2023-02-07 21:44:34.245	5m 49s	5m 27s	103.1%	1.7 GB	5.7 GB	3 GB	3.1 GB
+63	c2/72fe7e	4610937.pbsha.ib.sockeye	benchmark (61)	COMPLETED	0	2023-02-07 21:44:35.192	5m 54s	5m 29s	103.5%	2.1 GB	7.3 GB	3 GB	3.1 GB
+120	98/cf1e91	4610996.pbsha.ib.sockeye	benchmark (118)	FAILED	1	2023-02-07 21:45:38.151	4m 51s	4m 22s	96.7%	1.8 GB	6.3 GB	2.9 GB	3.1 GB
+51	49/2cf89d	4610916.pbsha.ib.sockeye	benchmark (49)	COMPLETED	0	2023-02-07 21:44:32.577	6m 5s	5m 44s	99.5%	1.6 GB	5.1 GB	3 GB	3.1 GB
+136	8f/86c85e	4611021.pbsha.ib.sockeye	benchmark (134)	FAILED	1	2023-02-07 21:46:33.174	4m 5s	3m 47s	103.1%	1.5 GB	5.1 GB	2.5 GB	3 GB
+206	57/2aa5f6	4611089.pbsha.ib.sockeye	benchmark (204)	FAILED	1	2023-02-07 21:49:48.061	49.9s	33s	105.8%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
+85	e4/d0ccb2	4610950.pbsha.ib.sockeye	benchmark (83)	COMPLETED	0	2023-02-07 21:44:39.641	6m 3s	5m 43s	102.8%	1.5 GB	5.2 GB	3 GB	3.1 GB
+143	d5/9e0f07	4611028.pbsha.ib.sockeye	benchmark (141)	FAILED	1	2023-02-07 21:46:38.224	4m 10s	3m 53s	108.4%	1.7 GB	5.7 GB	2.9 GB	3.1 GB
+186	26/8f74ac	4611069.pbsha.ib.sockeye	benchmark (184)	FAILED	1	2023-02-07 21:48:53.207	1m 55s	1m 38s	106.1%	1.1 GB	3.5 GB	2 GB	3 GB
+205	78/df2968	4611093.pbsha.ib.sockeye	benchmark (203)	FAILED	1	2023-02-07 21:49:58.082	49.9s	24.9s	101.8%	6.6 MB	233.2 MB	1.8 GB	3 GB
+130	b4/07a7c1	4611012.pbsha.ib.sockeye	benchmark (128)	FAILED	1	2023-02-07 21:46:23.029	4m 30s	4m	95.4%	1.7 GB	5.6 GB	2.7 GB	3.1 GB
+131	d9/e84164	4611015.pbsha.ib.sockeye	benchmark (129)	FAILED	1	2023-02-07 21:46:23.281	4m 30s	4m 14s	105.6%	2 GB	6.8 GB	2.9 GB	3.1 GB
+211	a4/b1b944	4611095.pbsha.ib.sockeye	benchmark (209)	FAILED	1	2023-02-07 21:50:03.192	49.8s	28.9s	104.3%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
+208	e6/8c665e	4611097.pbsha.ib.sockeye	benchmark (206)	FAILED	1	2023-02-07 21:50:08.045	44.9s	24.7s	94.4%	259.6 MB	916.2 MB	1.8 GB	3.1 GB
+193	c0/e4a1f6	4611078.pbsha.ib.sockeye	benchmark (191)	FAILED	1	2023-02-07 21:49:13.247	1m 50s	1m 30s	105.0%	1003.1 MB	3 GB	2 GB	3 GB
+210	2a/f8b62e	4611100.pbsha.ib.sockeye	benchmark (208)	FAILED	1	2023-02-07 21:50:13.206	49.8s	23.9s	105.9%	6.6 MB	233.2 MB	1.8 GB	2.8 GB
+214	2c/4ac489	4611103.pbsha.ib.sockeye	benchmark (212)	FAILED	1	2023-02-07 21:50:13.435	49.5s	31.2s	101.2%	211.5 MB	681.4 MB	1.8 GB	3 GB
+102	2a/e5d786	4610973.pbsha.ib.sockeye	benchmark (100)	FAILED	1	2023-02-07 21:44:41.973	6m 26s	6m 9s	100.9%	2 GB	6.3 GB	3.4 GB	3.1 GB
+145	1a/94d3ee	4611025.pbsha.ib.sockeye	benchmark (143)	FAILED	1	2023-02-07 21:46:33.537	4m 34s	4m 7s	101.8%	1.5 GB	5.1 GB	2.7 GB	3.1 GB
+213	4d/d2fdcf	4611101.pbsha.ib.sockeye	benchmark (211)	FAILED	1	2023-02-07 21:50:13.278	54.7s	40s	107.9%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
+116	1c/2820b5	4610995.pbsha.ib.sockeye	benchmark (114)	COMPLETED	0	2023-02-07 21:45:38.027	5m 35s	5m 17s	101.4%	1.7 GB	5.7 GB	3 GB	3.1 GB
+115	21/bc227f	4610999.pbsha.ib.sockeye	benchmark (113)	COMPLETED	0	2023-02-07 21:45:38.446	5m 35s	5m 4s	108.8%	2 GB	6.8 GB	3 GB	3.1 GB
+190	42/90d377	4611079.pbsha.ib.sockeye	benchmark (188)	FAILED	1	2023-02-07 21:49:13.322	2m	1m 37s	105.0%	995 MB	3.3 GB	2.1 GB	3 GB
+146	6b/770788	4611010.pbsha.ib.sockeye	benchmark (144)	FAILED	1	2023-02-07 21:46:13.312	5m 5s	4m 50s	97.8%	1.9 GB	6.3 GB	2.9 GB	3.1 GB
+189	88/1c090c	4611074.pbsha.ib.sockeye	benchmark (187)	FAILED	1	2023-02-07 21:49:08.039	2m 10s	1m 47s	100.8%	931.4 MB	2.9 GB	2 GB	3 GB
+231	5f/c48438	4611113.pbsha.ib.sockeye	benchmark (229)	FAILED	1	2023-02-07 21:50:38.218	39.8s	24.3s	129.8%	6.6 MB	233.2 MB	1.8 GB	3 GB
+219	98/6f38a0	4611114.pbsha.ib.sockeye	benchmark (217)	FAILED	1	2023-02-07 21:50:38.289	39.7s	27.7s	102.9%	197.3 MB	677.1 MB	1.8 GB	3 GB
+34	9d/d796d7	4610897.pbsha.ib.sockeye	benchmark (32)	COMPLETED	0	2023-02-07 21:44:30.893	6m 52s	6m 29s	98.1%	1.6 GB	5.2 GB	3.7 GB	3.1 GB
+84	4d/7638df	4610951.pbsha.ib.sockeye	benchmark (82)	FAILED	1	2023-02-07 21:44:39.729	6m 43s	6m 23s	104.4%	2 GB	6.8 GB	3.4 GB	3.1 GB
+150	e7/245086	4611039.pbsha.ib.sockeye	benchmark (148)	FAILED	1	2023-02-07 21:46:58.454	4m 25s	3m 51s	105.7%	2 GB	6.7 GB	2.9 GB	3.1 GB
+221	23/63d207	4611115.pbsha.ib.sockeye	benchmark (219)	FAILED	1	2023-02-07 21:50:43.076	39.9s	24.4s	98.3%	6.6 MB	233.2 MB	1.8 GB	2.8 GB
+162	cc/73331b	4611061.pbsha.ib.sockeye	benchmark (160)	COMPLETED	0	2023-02-07 21:48:33.069	2m 56s	2m 33s	104.6%	970.9 MB	3.2 GB	2.2 GB	3 GB
+235	04/2063db	4611117.pbsha.ib.sockeye	benchmark (233)	FAILED	1	2023-02-07 21:50:48.166	40.6s	28.9s	103.8%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
+23	3d/22f891	4610891.pbsha.ib.sockeye	benchmark (21)	COMPLETED	0	2023-02-07 21:44:30.259	7m 3s	6m 42s	102.6%	2 GB	6.8 GB	3.7 GB	3.1 GB
+113	d4/7d0ef2	4610990.pbsha.ib.sockeye	benchmark (111)	COMPLETED	0	2023-02-07 21:45:29.307	6m 4s	5m 31s	97.4%	1.5 GB	5.2 GB	3 GB	3.1 GB
+178	ea/8b4bbf	4611063.pbsha.ib.sockeye	benchmark (176)	COMPLETED	0	2023-02-07 21:48:33.267	3m	2m 42s	107.3%	1 GB	3.7 GB	2.2 GB	3 GB
+58	3c/7a2c65	4610925.pbsha.ib.sockeye	benchmark (56)	COMPLETED	0	2023-02-07 21:44:33.509	7m 4s	6m 43s	101.8%	1.9 GB	5.2 GB	3.7 GB	3.1 GB
+88	11/07584f	4610971.pbsha.ib.sockeye	benchmark (86)	COMPLETED	0	2023-02-07 21:44:41.765	6m 56s	6m 40s	102.0%	1.6 GB	5.1 GB	3.7 GB	3.1 GB
+155	50/701ac0	4611035.pbsha.ib.sockeye	benchmark (153)	FAILED	1	2023-02-07 21:46:48.023	4m 50s	4m 12s	105.1%	1.6 GB	5.2 GB	2.7 GB	3.1 GB
+167	76/b857a8	4611047.pbsha.ib.sockeye	benchmark (165)	FAILED	1	2023-02-07 21:47:23.109	4m 15s	3m 56s	103.2%	1.7 GB	5.7 GB	2.7 GB	3.1 GB
+226	b4/05bace	4611121.pbsha.ib.sockeye	benchmark (224)	FAILED	1	2023-02-07 21:50:53.214	44.8s	26.9s	106.2%	6.7 MB	233.2 MB	1.8 GB	3 GB
+209	c3/dffcf8	4611090.pbsha.ib.sockeye	benchmark (207)	FAILED	1	2023-02-07 21:49:53.067	1m 50s	1m 30s	102.8%	945.5 MB	3 GB	2 GB	3 GB
+5	7e/05c0a5	4610884.pbsha.ib.sockeye	benchmark (3)	COMPLETED	0	2023-02-07 21:44:29.646	7m 18s	6m 56s	100.9%	1.6 GB	5.2 GB	3.7 GB	3.1 GB
+57	19/216657	4610939.pbsha.ib.sockeye	benchmark (55)	COMPLETED	0	2023-02-07 21:44:35.392	7m 13s	6m 48s	105.2%	1.9 GB	6.3 GB	3.7 GB	3.1 GB
+227	c0/15cfbf	4611125.pbsha.ib.sockeye	benchmark (225)	FAILED	1	2023-02-07 21:51:03.228	44.8s	28.6s	104.8%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
+76	0a/b5b5cb	4610952.pbsha.ib.sockeye	benchmark (74)	COMPLETED	0	2023-02-07 21:44:39.814	7m 13s	6m 55s	97.8%	1.8 GB	5.1 GB	3.7 GB	3.1 GB
+124	73/3709ae	4611000.pbsha.ib.sockeye	benchmark (122)	COMPLETED	0	2023-02-07 21:45:43.011	6m 10s	5m 44s	100.3%	1.6 GB	5.3 GB	3 GB	3.1 GB
+173	9b/45b548	4611050.pbsha.ib.sockeye	benchmark (171)	FAILED	1	2023-02-07 21:47:33.156	4m 20s	4m 4s	108.3%	2 GB	6.8 GB	2.7 GB	3.1 GB
+18	84/fe70ce	4610886.pbsha.ib.sockeye	benchmark (15)	COMPLETED	0	2023-02-07 21:44:29.820	7m 28s	7m 9s	105.5%	1.6 GB	5.1 GB	3.7 GB	3.1 GB
+71	89/527e94	4610938.pbsha.ib.sockeye	benchmark (69)	COMPLETED	0	2023-02-07 21:44:35.280	7m 23s	6m 58s	105.4%	1.8 GB	5.1 GB	3.7 GB	3.1 GB
+159	24/c5ad0b	4611042.pbsha.ib.sockeye	benchmark (157)	FAILED	1	2023-02-07 21:47:13.145	4m 45s	4m 8s	103.7%	1.6 GB	5.2 GB	2.9 GB	3.1 GB
+48	0a/01d76a	4610920.pbsha.ib.sockeye	benchmark (46)	COMPLETED	0	2023-02-07 21:44:32.986	7m 30s	7m 7s	102.3%	1.9 GB	6.2 GB	3.7 GB	3.1 GB
+86	d2/51c448	4610961.pbsha.ib.sockeye	benchmark (84)	COMPLETED	0	2023-02-07 21:44:40.620	7m 22s	7m 4s	118.2%	2 GB	6.7 GB	3.7 GB	3.1 GB
+174	ce/bc712c	4611054.pbsha.ib.sockeye	benchmark (172)	FAILED	1	2023-02-07 21:47:43.280	4m 20s	3m 56s	104.0%	1.5 GB	5.1 GB	2.9 GB	3.1 GB
+238	ea/33e575	4611127.pbsha.ib.sockeye	benchmark (236)	FAILED	1	2023-02-07 21:51:08.217	54.8s	30.6s	86.2%	6.7 MB	233.2 MB	1.8 GB	3.1 GB
+95	0d/42742a	4610968.pbsha.ib.sockeye	benchmark (93)	COMPLETED	0	2023-02-07 21:44:41.410	7m 27s	7m 9s	100.7%	1.6 GB	5.2 GB	3.7 GB	3.1 GB
+201	32/339b4b	4611091.pbsha.ib.sockeye	benchmark (199)	FAILED	1	2023-02-07 21:49:53.164	2m 15s	1m 51s	93.5%	924.9 MB	3 GB	2 GB	3 GB
+250	21/e182da	4611136.pbsha.ib.sockeye	benchmark (248)	FAILED	1	2023-02-07 21:51:18.324	49.7s	32.2s	108.4%	229.4 MB	688.9 MB	1.8 GB	3 GB
+7	65/68e46a	4610878.pbsha.ib.sockeye	benchmark (5)	COMPLETED	0	2023-02-07 21:44:29.125	7m 44s	7m 24s	105.5%	2 GB	6.8 GB	3.7 GB	3.1 GB
+171	0c/c19f05	4611055.pbsha.ib.sockeye	benchmark (169)	FAILED	1	2023-02-07 21:47:48.046	4m 25s	3m 59s	97.2%	1.5 GB	5.2 GB	2.9 GB	3.1 GB
+220	e4/2c7780	4611111.pbsha.ib.sockeye	benchmark (218)	FAILED	1	2023-02-07 21:50:28.962	1m 49s	1m 30s	104.9%	1.1 GB	3.5 GB	2 GB	3 GB
+101	1d/5b4174	4610980.pbsha.ib.sockeye	benchmark (99)	COMPLETED	0	2023-02-07 21:45:22.726	7m	6m 37s	112.7%	1.8 GB	5.7 GB	3.7 GB	3.1 GB
+170	48/8ef61a	4611049.pbsha.ib.sockeye	benchmark (168)	FAILED	1	2023-02-07 21:47:33.072	4m 50s	4m 31s	100.0%	1.7 GB	5.6 GB	2.8 GB	3.1 GB
+223	71/7a2a7c	4611110.pbsha.ib.sockeye	benchmark (221)	FAILED	1	2023-02-07 21:50:28.885	1m 54s	1m 33s	105.3%	1 GB	3.5 GB	2 GB	3 GB
+256	89/482edd	4611145.pbsha.ib.sockeye	benchmark (254)	FAILED	1	2023-02-07 21:51:35.974	47s	30.8s	107.2%	6.7 MB	233.2 MB	1.8 GB	3 GB
+257	fb/47727f	4611152.pbsha.ib.sockeye	benchmark (255)	FAILED	1	2023-02-07 21:51:38.489	44.5s	28s	102.2%	6.6 MB	233.2 MB	1.8 GB	3 GB
+165	64/899201	4611040.pbsha.ib.sockeye	benchmark (163)	COMPLETED	0	2023-02-07 21:47:09.091	5m 20s	5m 2s	109.4%	1.6 GB	5.2 GB	3 GB	3.1 GB
+255	7a/22c307	4611156.pbsha.ib.sockeye	benchmark (253)	FAILED	1	2023-02-07 21:51:48.414	40.4s	26.1s	105.3%	227.5 MB	747.2 MB	1.8 GB	3 GB
+110	12/0b0d30	4610984.pbsha.ib.sockeye	benchmark (108)	COMPLETED	0	2023-02-07 21:45:23.349	7m 10s	6m 46s	107.6%	1.9 GB	6.8 GB	3.7 GB	3.1 GB
+111	f0/89a7b1	4610988.pbsha.ib.sockeye	benchmark (109)	COMPLETED	0	2023-02-07 21:45:29.140	7m 9s	6m 49s	101.0%	1.9 GB	5.1 GB	3.7 GB	3.1 GB
+176	33/5dc65a	4611059.pbsha.ib.sockeye	benchmark (174)	FAILED	1	2023-02-07 21:48:28.844	4m 9s	3m 57s	103.5%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
+181	6e/89e11c	4611065.pbsha.ib.sockeye	benchmark (179)	FAILED	1	2023-02-07 21:48:43.051	3m 55s	3m 34s	105.0%	2 GB	6.7 GB	2.7 GB	3.1 GB
+151	a6/d41a9f	4611031.pbsha.ib.sockeye	benchmark (149)	COMPLETED	0	2023-02-07 21:46:38.483	6m 4s	5m 48s	103.2%	1.9 GB	6.2 GB	3 GB	3.1 GB
+154	f4/6e270a	4611041.pbsha.ib.sockeye	benchmark (152)	COMPLETED	0	2023-02-07 21:47:13.054	5m 30s	5m 11s	105.9%	1.7 GB	5.6 GB	3 GB	3.1 GB
+268	d0/ef467b	4611162.pbsha.ib.sockeye	benchmark (266)	FAILED	1	2023-02-07 21:51:58.230	44.8s	26s	109.4%	231.1 MB	749.1 MB	1.8 GB	3 GB
+29	bf/b234a4	4610909.pbsha.ib.sockeye	benchmark (27)	COMPLETED	0	2023-02-07 21:44:31.993	8m 16s	7m 57s	97.2%	2 GB	6.8 GB	3.7 GB	3.1 GB
+41	e1/ec6fd2	4610910.pbsha.ib.sockeye	benchmark (39)	COMPLETED	0	2023-02-07 21:44:32.083	8m 16s	7m 53s	100.5%	1.9 GB	5.2 GB	3.7 GB	3.1 GB
+148	aa/ddcce5	4611062.pbsha.ib.sockeye	benchmark (146)	FAILED	1	2023-02-07 21:48:33.144	4m 15s	3m 58s	106.1%	1.5 GB	5.2 GB	2.9 GB	3.1 GB
+273	83/463b18	4611161.pbsha.ib.sockeye	benchmark (271)	FAILED	1	2023-02-07 21:51:58.149	49.8s	30.2s	105.6%	212.8 MB	681.4 MB	1.8 GB	3 GB
+272	8d/eb60bd	4611160.pbsha.ib.sockeye	benchmark (270)	FAILED	1	2023-02-07 21:51:58.055	54.9s	30s	93.5%	277.5 MB	979.2 MB	1.8 GB	3 GB
+264	7c/295ea7	4611163.pbsha.ib.sockeye	benchmark (262)	FAILED	1	2023-02-07 21:52:03.116	54.9s	25s	102.9%	259.7 MB	916.2 MB	1.8 GB	3 GB
+270	35/2f61c5	4611165.pbsha.ib.sockeye	benchmark (268)	FAILED	1	2023-02-07 21:52:03.306	1m 5s	31.5s	103.9%	210.8 MB	681.4 MB	1.8 GB	3 GB
+280	77/03e632	4611169.pbsha.ib.sockeye	benchmark (278)	FAILED	1	2023-02-07 21:52:08.297	59.7s	41.3s	106.4%	6.6 MB	233.2 MB	1.8 GB	3 GB
+241	fb/a91aea	4611138.pbsha.ib.sockeye	benchmark (239)	FAILED	1	2023-02-07 21:51:23.178	1m 50s	1m 31s	101.8%	1.1 GB	3.5 GB	1.9 GB	3 GB
+269	7b/1af841	4611166.pbsha.ib.sockeye	benchmark (267)	FAILED	1	2023-02-07 21:52:03.424	1m 10s	32.7s	97.2%	203.6 MB	681.4 MB	1.8 GB	3 GB
+274	0d/5c539b	4611167.pbsha.ib.sockeye	benchmark (272)	FAILED	1	2023-02-07 21:52:08.090	1m 5s	36.2s	104.5%	217.1 MB	746 MB	1.8 GB	3 GB
+152	9b/b9949b	4611029.pbsha.ib.sockeye	benchmark (150)	COMPLETED	0	2023-02-07 21:46:38.309	6m 45s	6m 29s	105.5%	1.9 GB	6.2 GB	3.7 GB	3.1 GB
+228	be/8d0ec9	4611126.pbsha.ib.sockeye	benchmark (226)	FAILED	1	2023-02-07 21:51:08.087	2m 15s	1m 48s	107.3%	939.8 MB	2.9 GB	2.1 GB	3 GB
+288	12/005c70	4611177.pbsha.ib.sockeye	benchmark (286)	FAILED	1	2023-02-07 21:52:23.576	59.4s	29.4s	88.3%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
+166	e7/0a88b0	4611043.pbsha.ib.sockeye	benchmark (164)	COMPLETED	0	2023-02-07 21:47:18.159	6m 11s	5m 29s	97.6%	1.5 GB	5.1 GB	3 GB	3.1 GB
+177	4d/7f9791	4611070.pbsha.ib.sockeye	benchmark (175)	FAILED	1	2023-02-07 21:48:59.880	4m 29s	4m 4s	102.4%	1.5 GB	5.2 GB	2.9 GB	3.1 GB
+258	02/bacf83	4611141.pbsha.ib.sockeye	benchmark (256)	FAILED	1	2023-02-07 21:51:28.852	2m	1m 42s	105.7%	991.6 MB	3.5 GB	2 GB	3 GB
+198	f0/bce277	4611084.pbsha.ib.sockeye	benchmark (196)	FAILED	1	2023-02-07 21:49:28.915	4m 9s	3m 55s	106.7%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
+149	fa/39abf4	4611030.pbsha.ib.sockeye	benchmark (147)	COMPLETED	0	2023-02-07 21:46:38.402	7m 5s	6m 42s	97.6%	2 GB	6.8 GB	3 GB	3.1 GB
+158	b7/885434	4611034.pbsha.ib.sockeye	benchmark (156)	COMPLETED	0	2023-02-07 21:46:43.251	7m	6m 41s	105.6%	1.8 GB	6.8 GB	3.7 GB	3.1 GB
+179	38/32d438	4611064.pbsha.ib.sockeye	benchmark (177)	FAILED	1	2023-02-07 21:48:38.025	5m 5s	4m 35s	111.3%	1.9 GB	6.2 GB	2.9 GB	3.1 GB
+254	f2/d9a01a	4611148.pbsha.ib.sockeye	benchmark (252)	FAILED	1	2023-02-07 21:51:38.127	2m 5s	1m 47s	97.1%	994.2 MB	3.2 GB	2 GB	3 GB
+271	7b/3eae08	4611159.pbsha.ib.sockeye	benchmark (269)	FAILED	1	2023-02-07 21:51:53.422	1m 50s	1m 25s	102.1%	927.6 MB	2.9 GB	2 GB	3 GB
+114	f7/b1f624	4610986.pbsha.ib.sockeye	benchmark (112)	COMPLETED	0	2023-02-07 21:45:28.946	8m 19s	7m 43s	106.8%	1.9 GB	5.1 GB	3.7 GB	3.1 GB
+287	f3/36ce35	4611180.pbsha.ib.sockeye	benchmark (285)	FAILED	1	2023-02-07 21:52:33.060	1m 16s	38.3s	95.8%	6.6 MB	228.3 MB	1.8 GB	3 GB
+157	64/b0e9a7	4611032.pbsha.ib.sockeye	benchmark (155)	COMPLETED	0	2023-02-07 21:46:43.083	7m 10s	6m 54s	107.3%	1.8 GB	5.1 GB	3.7 GB	3.1 GB
+192	f6/a18f33	4611085.pbsha.ib.sockeye	benchmark (190)	COMPLETED	0	2023-02-07 21:49:28.999	4m 34s	4m 17s	102.7%	1.7 GB	4.7 GB	2.9 GB	3 GB
+300	58/7be526	4611193.pbsha.ib.sockeye	benchmark (298)	FAILED	1	2023-02-07 21:52:58.073	1m 5s	35.7s	104.7%	259.4 MB	916.2 MB	1.8 GB	3 GB
+142	76/df8c82	4611009.pbsha.ib.sockeye	benchmark (140)	COMPLETED	0	2023-02-07 21:46:13.132	7m 55s	7m 33s	102.3%	1.7 GB	5.7 GB	3.7 GB	3.1 GB
+140	30/072306	4611017.pbsha.ib.sockeye	benchmark (138)	COMPLETED	0	2023-02-07 21:46:28.958	7m 39s	7m 18s	105.1%	1.8 GB	5.1 GB	3.7 GB	3.1 GB
+180	b3/6710f7	4611068.pbsha.ib.sockeye	benchmark (178)	COMPLETED	0	2023-02-07 21:48:53.133	5m 15s	5m 1s	105.2%	2 GB	6.7 GB	2.9 GB	3.1 GB
+144	71/6385d7	4611011.pbsha.ib.sockeye	benchmark (142)	COMPLETED	0	2023-02-07 21:46:18.070	7m 55s	7m 39s	106.5%	1.9 GB	5.2 GB	3.7 GB	3.1 GB
+132	b8/9a5755	4611013.pbsha.ib.sockeye	benchmark (130)	COMPLETED	0	2023-02-07 21:46:23.115	7m 55s	7m 35s	106.8%	2.1 GB	7.3 GB	3.7 GB	3.1 GB
+278	8d/ed473b	4611170.pbsha.ib.sockeye	benchmark (276)	FAILED	1	2023-02-07 21:52:13.102	2m 5s	1m 47s	101.8%	888.8 MB	2.9 GB	2.1 GB	3 GB
+283	30/85190a	4611175.pbsha.ib.sockeye	benchmark (281)	FAILED	1	2023-02-07 21:52:23.376	1m 55s	1m 34s	113.0%	899.9 MB	2.9 GB	2 GB	3 GB
+311	2c/df851b	4611203.pbsha.ib.sockeye	benchmark (309)	FAILED	1	2023-02-07 21:53:28.844	49.2s	28.1s	103.9%	154.4 MB	672.4 MB	1.8 GB	3 GB
+185	13/6ad308	4611075.pbsha.ib.sockeye	benchmark (183)	COMPLETED	0	2023-02-07 21:49:08.131	5m 15s	4m 57s	104.6%	1.6 GB	5.1 GB	3 GB	3.1 GB
+295	96/127028	4611181.pbsha.ib.sockeye	benchmark (293)	FAILED	1	2023-02-07 21:52:38.073	1m 51s	1m 27s	96.3%	1.1 GB	4 GB	3 GB	3 GB
+313	10/3700d7	4611210.pbsha.ib.sockeye	benchmark (311)	FAILED	1	2023-02-07 21:53:43.351	45.6s	26.9s	95.6%	6.6 MB	233.2 MB	1.8 GB	3 GB
+160	cf/81530c	4611038.pbsha.ib.sockeye	benchmark (158)	COMPLETED	0	2023-02-07 21:46:58.334	7m 35s	7m 13s	105.1%	1.7 GB	5.1 GB	3.7 GB	3.1 GB
+215	db/f880ad	4611106.pbsha.ib.sockeye	benchmark (213)	FAILED	1	2023-02-07 21:50:18.151	4m 25s	4m 4s	103.2%	1.9 GB	6.2 GB	2.9 GB	3.1 GB
+286	ad/2ccbb8	4611185.pbsha.ib.sockeye	benchmark (284)	FAILED	1	2023-02-07 21:52:43.151	2m	1m 38s	104.5%	940 MB	2.9 GB	2 GB	3 GB
+298	fa/ca184e	4611191.pbsha.ib.sockeye	benchmark (296)	FAILED	1	2023-02-07 21:52:53.170	1m 50s	1m 24s	93.2%	986 MB	2.6 GB	2 GB	3 GB
+318	04/ac00b1	4611216.pbsha.ib.sockeye	benchmark (316)	FAILED	1	2023-02-07 21:53:53.686	49.3s	26.7s	104.7%	6.6 MB	233.2 MB	1.8 GB	3 GB
+216	6b/a5bb5c	4611107.pbsha.ib.sockeye	benchmark (214)	FAILED	1	2023-02-07 21:50:18.258	4m 38s	4m 13s	102.4%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
+319	b0/5d94f5	4611218.pbsha.ib.sockeye	benchmark (317)	FAILED	1	2023-02-07 21:54:03.113	53.4s	27.1s	100.4%	6.6 MB	233.2 MB	1.8 GB	3 GB
+199	e8/c0808b	4611088.pbsha.ib.sockeye	benchmark (197)	COMPLETED	0	2023-02-07 21:49:33.332	5m 33s	5m 12s	106.4%	1.7 GB	5.7 GB	3 GB	3.1 GB
+303	d8/a4acf1	4611201.pbsha.ib.sockeye	benchmark (301)	FAILED	1	2023-02-07 21:53:23.243	1m 43s	1m 19s	97.9%	982.5 MB	2.9 GB	2 GB	3 GB
+156	3a/32b37a	4611033.pbsha.ib.sockeye	benchmark (154)	COMPLETED	0	2023-02-07 21:46:43.167	8m 25s	8m 2s	105.5%	1.7 GB	5.6 GB	3.7 GB	3.1 GB
+277	5f/e7767d	4611174.pbsha.ib.sockeye	benchmark (275)	FAILED	1	2023-02-07 21:52:23.233	2m 50s	2m 16s	103.2%	1.1 GB	3.5 GB	2 GB	3 GB
+312	9d/3d1889	4611204.pbsha.ib.sockeye	benchmark (310)	FAILED	1	2023-02-07 21:53:28.940	1m 46s	1m 27s	102.3%	954.7 MB	2.9 GB	2 GB	3 GB
+331	d7/fe0fcd	4611231.pbsha.ib.sockeye	benchmark (329)	FAILED	1	2023-02-07 21:54:33.095	43.6s	27.7s	105.4%	197.3 MB	677.1 MB	1.8 GB	3 GB
+204	57/ca078e	4611087.pbsha.ib.sockeye	benchmark (202)	COMPLETED	0	2023-02-07 21:49:33.220	5m 45s	5m 25s	107.1%	1.6 GB	5.2 GB	3 GB	3.1 GB
+279	b5/21904b	4611172.pbsha.ib.sockeye	benchmark (277)	FAILED	1	2023-02-07 21:52:18.061	3m	2m 37s	98.9%	925.5 MB	2.9 GB	2.1 GB	3 GB
+306	b3/09c0f9	4611200.pbsha.ib.sockeye	benchmark (304)	FAILED	1	2023-02-07 21:53:23.159	1m 55s	1m 33s	107.1%	1.1 GB	3.5 GB	2 GB	3 GB
+322	93/a68038	4611220.pbsha.ib.sockeye	benchmark (320)	FAILED	1	2023-02-07 21:54:08.248	1m 21s	42.1s	90.0%	6.6 MB	222.8 MB	1.8 GB	3 GB
+184	17/04152c	4611067.pbsha.ib.sockeye	benchmark (182)	COMPLETED	0	2023-02-07 21:48:53.055	6m 40s	6m 25s	104.9%	2 GB	6.8 GB	3.7 GB	3.1 GB
+234	3c/c02965	4611118.pbsha.ib.sockeye	benchmark (232)	FAILED	1	2023-02-07 21:50:48.253	4m 45s	4m 28s	100.6%	2 GB	6.7 GB	2.9 GB	3.1 GB
+212	ba/69953c	4611098.pbsha.ib.sockeye	benchmark (210)	COMPLETED	0	2023-02-07 21:50:08.137	5m 35s	5m 13s	107.4%	2 GB	6.7 GB	3 GB	3.1 GB
+242	97/6f7c0a	4611133.pbsha.ib.sockeye	benchmark (240)	FAILED	1	2023-02-07 21:51:18.073	4m 25s	4m 9s	106.8%	2 GB	6.7 GB	2.9 GB	3.1 GB
+317	12/b0552e	4611207.pbsha.ib.sockeye	benchmark (315)	FAILED	1	2023-02-07 21:53:38.106	2m 5s	1m 39s	104.6%	1 GB	3.5 GB	2 GB	3 GB
+172	18/702e3a	4611053.pbsha.ib.sockeye	benchmark (170)	COMPLETED	0	2023-02-07 21:47:43.176	8m 10s	7m 48s	99.2%	1.9 GB	5.1 GB	3.7 GB	3.1 GB
+218	fa/4b7272	4611105.pbsha.ib.sockeye	benchmark (216)	COMPLETED	0	2023-02-07 21:50:18.075	5m 35s	5m 19s	105.7%	1.6 GB	5.1 GB	3 GB	3.1 GB
+347	4c/ba8ab8	4611238.pbsha.ib.sockeye	benchmark (345)	FAILED	1	2023-02-07 21:55:06.518	56.5s	29.9s	106.8%	6.6 MB	233.2 MB	1.8 GB	3 GB
+337	19/10b2ca	4611239.pbsha.ib.sockeye	benchmark (335)	FAILED	1	2023-02-07 21:55:06.608	56.4s	38.1s	99.1%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
+339	8f/f82bfe	4611241.pbsha.ib.sockeye	benchmark (337)	FAILED	1	2023-02-07 21:55:13.096	49.9s	25.3s	102.8%	269.9 MB	977.2 MB	1.8 GB	3 GB
+187	ea/3f6ab1	4611073.pbsha.ib.sockeye	benchmark (185)	COMPLETED	0	2023-02-07 21:49:03.022	7m 5s	6m 50s	115.6%	1.8 GB	6.2 GB	3.7 GB	3.1 GB
+191	38/a0938f	4611080.pbsha.ib.sockeye	benchmark (189)	COMPLETED	0	2023-02-07 21:49:18.279	6m 55s	6m 31s	106.7%	1.7 GB	5.7 GB	3.7 GB	3.1 GB
+222	49/972ab6	4611109.pbsha.ib.sockeye	benchmark (220)	COMPLETED	0	2023-02-07 21:50:23.360	5m 50s	5m 28s	97.3%	2 GB	6.8 GB	3 GB	3.1 GB
+354	dc/15c7ce	4611242.pbsha.ib.sockeye	benchmark (352)	FAILED	1	2023-02-07 21:55:15.326	57.7s	33.8s	87.7%	6.6 MB	233.2 MB	1.7 GB	2.6 GB
+183	5f/16491f	4611072.pbsha.ib.sockeye	benchmark (181)	COMPLETED	0	2023-02-07 21:49:00.048	7m 18s	6m 52s	102.3%	1.8 GB	6.3 GB	3.7 GB	3.1 GB
+267	9a/673c9e	4611157.pbsha.ib.sockeye	benchmark (265)	FAILED	1	2023-02-07 21:51:53.155	4m 25s	4m 4s	99.6%	1.6 GB	5.2 GB	2.9 GB	3.1 GB
+351	0b/fb0f71	4611246.pbsha.ib.sockeye	benchmark (349)	FAILED	1	2023-02-07 21:55:20.712	57.3s	34.5s	101.6%	6.7 MB	233.2 MB	1.8 GB	3 GB
+345	53/0c51ba	4611251.pbsha.ib.sockeye	benchmark (343)	FAILED	1	2023-02-07 21:55:43.091	39.9s	23.1s	103.6%	6.6 MB	233.2 MB	1.8 GB	2.8 GB
+253	ad/5c19c7	4611149.pbsha.ib.sockeye	benchmark (251)	FAILED	1	2023-02-07 21:51:38.217	4m 51s	4m 34s	103.4%	2 GB	6.7 GB	2.9 GB	3.1 GB
+338	c1/71dd7d	4611253.pbsha.ib.sockeye	benchmark (336)	FAILED	1	2023-02-07 21:55:43.279	45.5s	27.5s	96.3%	6.7 MB	233.2 MB	1.8 GB	3.1 GB
+207	3d/8ad822	4611099.pbsha.ib.sockeye	benchmark (205)	FAILED	1	2023-02-07 21:50:13.120	6m 25s	6m 4s	102.1%	2 GB	6.8 GB	3.4 GB	3.1 GB
+196	da/1f4696	4611081.pbsha.ib.sockeye	benchmark (194)	COMPLETED	0	2023-02-07 21:49:18.507	7m 24s	7m 3s	104.3%	1.8 GB	5.2 GB	3.7 GB	3.1 GB
+224	3e/cdc4b5	4611120.pbsha.ib.sockeye	benchmark (222)	COMPLETED	0	2023-02-07 21:50:53.130	5m 50s	5m 31s	104.1%	2 GB	6.8 GB	3 GB	3.1 GB
+237	72/c8a315	4611131.pbsha.ib.sockeye	benchmark (235)	COMPLETED	0	2023-02-07 21:51:13.204	5m 30s	5m 5s	108.8%	1.6 GB	5.1 GB	3 GB	3.1 GB
+266	9f/989111	4611164.pbsha.ib.sockeye	benchmark (264)	FAILED	1	2023-02-07 21:52:03.208	4m 40s	3m 58s	105.5%	1.6 GB	5.2 GB	2.9 GB	3.1 GB
+291	6c/0a11b4	4611179.pbsha.ib.sockeye	benchmark (289)	FAILED	1	2023-02-07 21:52:29.048	4m 14s	3m 56s	99.1%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
+293	4c/68fa50	4611182.pbsha.ib.sockeye	benchmark (291)	FAILED	1	2023-02-07 21:52:38.150	4m 5s	3m 47s	107.1%	1.5 GB	5.1 GB	2.9 GB	3.1 GB
+240	66/1a5252	4611128.pbsha.ib.sockeye	benchmark (238)	COMPLETED	0	2023-02-07 21:51:08.293	5m 40s	5m 18s	106.6%	2 GB	6.8 GB	3 GB	3.1 GB
+284	3e/7774ba	4611176.pbsha.ib.sockeye	benchmark (282)	FAILED	1	2023-02-07 21:52:23.492	4m 25s	4m	105.5%	1.7 GB	5.6 GB	2.9 GB	3.1 GB
+344	eb/a00515	4611256.pbsha.ib.sockeye	benchmark (342)	FAILED	1	2023-02-07 21:56:03.099	45.2s	25.3s	104.8%	249 MB	909.5 MB	1.8 GB	3 GB
+350	70/b11050	4611243.pbsha.ib.sockeye	benchmark (348)	FAILED	1	2023-02-07 21:55:16.746	1m 36s	1m 21s	108.1%	897.2 MB	2.9 GB	2 GB	3 GB
+342	eb/4d095c	4611245.pbsha.ib.sockeye	benchmark (340)	FAILED	1	2023-02-07 21:55:20.375	1m 38s	1m 23s	105.7%	1.1 GB	3.5 GB	2 GB	3 GB
+362	8e/10b423	4611263.pbsha.ib.sockeye	benchmark (360)	FAILED	1	2023-02-07 21:56:13.282	44.7s	24.4s	103.4%	6.6 MB	916.2 MB	1.8 GB	3 GB
+202	4d/80a6e0	4611094.pbsha.ib.sockeye	benchmark (200)	COMPLETED	0	2023-02-07 21:50:03.101	7m	6m 39s	103.4%	1.8 GB	5.2 GB	3.7 GB	3.1 GB
+296	c8/8e52f7	4611189.pbsha.ib.sockeye	benchmark (294)	FAILED	1	2023-02-07 21:52:48.361	4m 20s	4m 1s	102.4%	1.8 GB	6.2 GB	2.9 GB	3.1 GB
+368	41/6bcfc0	4611262.pbsha.ib.sockeye	benchmark (366)	FAILED	1	2023-02-07 21:56:13.141	54.9s	36.7s	106.7%	211.6 MB	681.4 MB	1.8 GB	3 GB
+203	3f/5214e2	4611108.pbsha.ib.sockeye	benchmark (201)	COMPLETED	0	2023-02-07 21:50:18.332	7m	6m 44s	104.0%	1.9 GB	5.2 GB	3.7 GB	3.1 GB
+265	6e/534367	4611153.pbsha.ib.sockeye	benchmark (263)	COMPLETED	0	2023-02-07 21:51:43.049	5m 35s	5m 23s	106.3%	1.6 GB	5.2 GB	3 GB	3.1 GB
+281	f8/fa1cac	4611173.pbsha.ib.sockeye	benchmark (279)	FAILED	1	2023-02-07 21:52:23.112	4m 55s	4m 32s	95.5%	2 GB	6.7 GB	2.7 GB	3.1 GB
+200	66/965a71	4611102.pbsha.ib.sockeye	benchmark (198)	COMPLETED	0	2023-02-07 21:50:13.352	7m 10s	6m 53s	107.5%	1.8 GB	5.2 GB	3.7 GB	3.1 GB
+233	be/4220cc	4611116.pbsha.ib.sockeye	benchmark (231)	COMPLETED	0	2023-02-07 21:50:48.068	6m 41s	6m 24s	108.0%	1.9 GB	6.8 GB	3.7 GB	3.1 GB
+260	9a/d80b59	4611151.pbsha.ib.sockeye	benchmark (258)	COMPLETED	0	2023-02-07 21:51:38.418	5m 50s	5m 28s	105.6%	2 GB	6.8 GB	3 GB	3.1 GB
+275	38/dafc50	4611171.pbsha.ib.sockeye	benchmark (273)	FAILED	1	2023-02-07 21:52:13.192	5m 16s	4m 55s	102.5%	1.9 GB	6.3 GB	2.9 GB	3.1 GB
+289	ff/1f0859	4611186.pbsha.ib.sockeye	benchmark (287)	FAILED	1	2023-02-07 21:52:43.271	4m 45s	4m 29s	106.1%	1.7 GB	5.7 GB	2.8 GB	3.1 GB
+376	06/69ea82	4611273.pbsha.ib.sockeye	benchmark (374)	FAILED	1	2023-02-07 21:56:43.081	45.7s	25.2s	105.4%	259.6 MB	916.2 MB	1.8 GB	3 GB
+217	25/755b5e	4611104.pbsha.ib.sockeye	benchmark (215)	COMPLETED	0	2023-02-07 21:50:13.510	7m 19s	7m	106.3%	1.6 GB	5.3 GB	3.7 GB	3.1 GB
+290	59/5b7fb9	4611178.pbsha.ib.sockeye	benchmark (288)	FAILED	1	2023-02-07 21:52:28.951	5m 4s	4m 35s	108.2%	1.6 GB	5.6 GB	2.9 GB	3.1 GB
+377	25/32817c	4611275.pbsha.ib.sockeye	benchmark (375)	FAILED	1	2023-02-07 21:56:43.299	49.7s	32.1s	89.9%	6.7 MB	233.2 MB	1.8 GB	3.1 GB
+229	11/a3656f	4611112.pbsha.ib.sockeye	benchmark (227)	FAILED	1	2023-02-07 21:50:38.035	7m	6m 47s	102.6%	1.6 GB	5.1 GB	3.7 GB	3.1 GB
+304	87/d1a297	4611199.pbsha.ib.sockeye	benchmark (302)	FAILED	1	2023-02-07 21:53:23.071	4m 15s	3m 49s	101.1%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
+388	96/ac97bb	4611282.pbsha.ib.sockeye	benchmark (386)	FAILED	1	2023-02-07 21:56:53.090	44.9s	26.5s	104.0%	6.6 MB	233.2 MB	1.8 GB	3 GB
+355	36/cb54a0	4611248.pbsha.ib.sockeye	benchmark (353)	FAILED	1	2023-02-07 21:55:29.066	2m 14s	1m 45s	102.9%	947.1 MB	2.9 GB	2 GB	3 GB
+380	19/a40ba7	4611283.pbsha.ib.sockeye	benchmark (378)	FAILED	1	2023-02-07 21:56:58.093	44.9s	25.9s	93.7%	213.7 MB	681.7 MB	1.8 GB	3 GB
+360	fa/16827f	4611259.pbsha.ib.sockeye	benchmark (358)	FAILED	1	2023-02-07 21:56:08.081	1m 40s	1m 22s	107.1%	973.7 MB	3 GB	2 GB	3 GB
+195	d4/efbddb	4611083.pbsha.ib.sockeye	benchmark (193)	COMPLETED	0	2023-02-07 21:49:23.172	8m 30s	8m 16s	102.2%	1.9 GB	5.2 GB	3.7 GB	3.1 GB
+299	d7/3689c7	4611197.pbsha.ib.sockeye	benchmark (297)	FAILED	1	2023-02-07 21:53:13.254	4m 40s	4m 17s	107.4%	1.7 GB	5.7 GB	2.9 GB	3.1 GB
+309	aa/e55265	4611198.pbsha.ib.sockeye	benchmark (307)	FAILED	1	2023-02-07 21:53:13.384	4m 40s	4m 17s	106.6%	2 GB	6.7 GB	2.9 GB	3.1 GB
+282	b5/63316d	4611187.pbsha.ib.sockeye	benchmark (280)	FAILED	1	2023-02-07 21:52:48.117	5m 10s	4m 46s	107.9%	2 GB	6.7 GB	2.9 GB	3.1 GB
+358	00/a922d2	4611258.pbsha.ib.sockeye	benchmark (356)	FAILED	1	2023-02-07 21:56:03.293	1m 55s	1m 35s	108.5%	1.2 GB	4 GB	2 GB	3 GB
+225	dc/11a7fe	4611123.pbsha.ib.sockeye	benchmark (223)	COMPLETED	0	2023-02-07 21:51:03.087	7m 5s	6m 50s	114.0%	1.9 GB	6.2 GB	3.7 GB	3.1 GB
+230	99/fc31c8	4611129.pbsha.ib.sockeye	benchmark (228)	COMPLETED	0	2023-02-07 21:51:13.050	6m 55s	6m 41s	104.9%	1.7 GB	5.7 GB	3.7 GB	3.1 GB
+396	ad/6724c4	4611295.pbsha.ib.sockeye	benchmark (394)	FAILED	1	2023-02-07 21:57:29.148	38.9s	23.2s	106.9%	6.6 MB	233.2 MB	1.8 GB	2.8 GB
+239	39/e669e9	4611124.pbsha.ib.sockeye	benchmark (237)	COMPLETED	0	2023-02-07 21:51:03.157	7m 10s	6m 53s	104.8%	2 GB	6.8 GB	3.7 GB	3.1 GB
+243	1c/1fd326	4611134.pbsha.ib.sockeye	benchmark (241)	COMPLETED	0	2023-02-07 21:51:18.164	6m 55s	6m 42s	104.8%	1.9 GB	5.1 GB	3.7 GB	3.1 GB
+247	b6/287a22	4611139.pbsha.ib.sockeye	benchmark (245)	COMPLETED	0	2023-02-07 21:51:23.261	6m 50s	6m 32s	98.5%	1.9 GB	5.2 GB	3.7 GB	3.1 GB
+398	3c/b1c7fb	4611296.pbsha.ib.sockeye	benchmark (396)	FAILED	1	2023-02-07 21:57:29.228	43.8s	24.2s	104.0%	6.6 MB	233.2 MB	1.8 GB	3 GB
+232	b5/0a6bc2	4611122.pbsha.ib.sockeye	benchmark (230)	COMPLETED	0	2023-02-07 21:50:53.297	7m 25s	7m 6s	105.8%	1.6 GB	5.1 GB	3.7 GB	3.1 GB
+259	cc/099e99	4611154.pbsha.ib.sockeye	benchmark (257)	FAILED	1	2023-02-07 21:51:48.062	6m 35s	6m 18s	108.3%	1.7 GB	5.7 GB	3.4 GB	3.1 GB
+285	1d/013ee6	4611184.pbsha.ib.sockeye	benchmark (283)	COMPLETED	0	2023-02-07 21:52:43.071	5m 40s	5m 23s	102.3%	1.9 GB	6.3 GB	3 GB	3.1 GB
+324	1a/05f260	4611214.pbsha.ib.sockeye	benchmark (322)	FAILED	1	2023-02-07 21:53:49.185	4m 34s	4m 16s	105.9%	1.7 GB	5.2 GB	2.9 GB	3.1 GB
+369	15/8a94ec	4611301.pbsha.ib.sockeye	benchmark (367)	FAILED	1	2023-02-07 21:57:38.219	44.8s	25.6s	106.3%	259.4 MB	916.2 MB	1.8 GB	3 GB
+236	3a/0aba3b	4611119.pbsha.ib.sockeye	benchmark (234)	COMPLETED	0	2023-02-07 21:50:53.047	7m 35s	7m 3s	97.6%	1.6 GB	5.1 GB	3.7 GB	3.1 GB
+363	89/a7f353	4611269.pbsha.ib.sockeye	benchmark (361)	FAILED	1	2023-02-07 21:56:23.083	2m 6s	1m 43s	95.4%	1 GB	3.5 GB	2 GB	3 GB
+382	94/062f23	4611279.pbsha.ib.sockeye	benchmark (380)	FAILED	1	2023-02-07 21:56:48.373	1m 41s	1m 21s	99.5%	872.1 MB	2.9 GB	2 GB	3 GB
+246	ff/4baa20	4611130.pbsha.ib.sockeye	benchmark (244)	COMPLETED	0	2023-02-07 21:51:13.134	7m 25s	7m 5s	105.8%	1.8 GB	5.2 GB	3.7 GB	3.1 GB
+251	c6/dbae35	4611135.pbsha.ib.sockeye	benchmark (249)	COMPLETED	0	2023-02-07 21:51:18.241	7m 25s	7m 7s	101.2%	2.3 GB	7.4 GB	3.7 GB	3.1 GB
+245	b6/f6a389	4611142.pbsha.ib.sockeye	benchmark (243)	COMPLETED	0	2023-02-07 21:51:28.929	7m 14s	6m 55s	100.5%	2 GB	6.8 GB	3.7 GB	3.1 GB
+325	25/e8a66b	4611221.pbsha.ib.sockeye	benchmark (323)	FAILED	1	2023-02-07 21:54:08.329	4m 35s	4m 10s	104.6%	1.5 GB	5.1 GB	2.9 GB	3.1 GB
+249	71/357541	4611143.pbsha.ib.sockeye	benchmark (247)	COMPLETED	0	2023-02-07 21:51:33.045	7m 15s	6m 53s	107.2%	2 GB	6.8 GB	3.7 GB	3.1 GB
+263	bb/c326af	4611158.pbsha.ib.sockeye	benchmark (261)	COMPLETED	0	2023-02-07 21:51:53.242	6m 55s	6m 36s	106.3%	1.9 GB	5.1 GB	3.7 GB	3.1 GB
+248	ba/1785ee	4611137.pbsha.ib.sockeye	benchmark (246)	COMPLETED	0	2023-02-07 21:51:23.092	7m 30s	7m 15s	107.1%	2 GB	6.8 GB	3.7 GB	3.1 GB
+261	7e/b9350e	4611155.pbsha.ib.sockeye	benchmark (259)	FAILED	1	2023-02-07 21:51:48.305	7m 5s	6m 52s	106.4%	1.8 GB	5.1 GB	3.7 GB	3.1 GB
+308	ed/eb599a	4611213.pbsha.ib.sockeye	benchmark (306)	FAILED	1	2023-02-07 21:53:49.107	5m 5s	4m 35s	105.6%	1.6 GB	5.2 GB	2.9 GB	3.1 GB
+340	6e/639fde	4611233.pbsha.ib.sockeye	benchmark (338)	FAILED	1	2023-02-07 21:54:43.160	4m 10s	3m 48s	107.6%	2 GB	6.7 GB	2.7 GB	3.1 GB
+386	51/01730d	4611284.pbsha.ib.sockeye	benchmark (384)	FAILED	1	2023-02-07 21:56:58.188	1m 55s	1m 36s	100.9%	923.1 MB	2.9 GB	2 GB	3 GB
+390	f3/eda65b	4611286.pbsha.ib.sockeye	benchmark (388)	FAILED	1	2023-02-07 21:57:08.136	1m 46s	1m 30s	107.0%	1 GB	3.5 GB	2 GB	3 GB
+402	4c/b2b89d	4611306.pbsha.ib.sockeye	benchmark (400)	FAILED	1	2023-02-07 21:57:54.149	59.5s	36.9s	94.0%	241.4 MB	896.4 MB	1.8 GB	3 GB
+252	f1/fdd3f8	4611144.pbsha.ib.sockeye	benchmark (250)	COMPLETED	0	2023-02-07 21:51:33.126	7m 25s	7m 4s	103.7%	1.8 GB	5.1 GB	3.7 GB	3.1 GB
+262	db/cfaab3	4611150.pbsha.ib.sockeye	benchmark (260)	COMPLETED	0	2023-02-07 21:51:38.346	7m 25s	7m 1s	105.3%	1.6 GB	5.1 GB	3.7 GB	3.1 GB
+357	b2/7b62b4	4611288.pbsha.ib.sockeye	benchmark (355)	FAILED	1	2023-02-07 21:57:18.138	1m 45s	1m 23s	97.6%	949.2 MB	2.9 GB	2 GB	3 GB
+408	c5/633685	4611315.pbsha.ib.sockeye	benchmark (406)	FAILED	1	2023-02-07 21:58:13.212	50.2s	34.1s	101.0%	6.7 MB	233.2 MB	1.8 GB	3 GB
+244	dd/3ea617	4611140.pbsha.ib.sockeye	benchmark (242)	COMPLETED	0	2023-02-07 21:51:23.388	7m 45s	7m 22s	103.5%	2 GB	6.8 GB	3.7 GB	3.1 GB
+276	5d/d11104	4611168.pbsha.ib.sockeye	benchmark (274)	COMPLETED	0	2023-02-07 21:52:08.178	7m	6m 38s	104.1%	2 GB	6.8 GB	3.7 GB	3.1 GB
+381	d4/a2bfce	4611285.pbsha.ib.sockeye	benchmark (379)	FAILED	1	2023-02-07 21:57:03.086	2m 5s	1m 47s	109.4%	982.4 MB	2.9 GB	2 GB	3 GB
+413	29/584efe	4611321.pbsha.ib.sockeye	benchmark (411)	FAILED	1	2023-02-07 21:58:23.169	44.9s	29.1s	98.1%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
+422	6d/aeab20	4611322.pbsha.ib.sockeye	benchmark (420)	FAILED	1	2023-02-07 21:58:23.269	44.8s	26.8s	109.2%	6.6 MB	233.2 MB	1.7 GB	2.7 GB
+335	bb/c799b5	4611232.pbsha.ib.sockeye	benchmark (333)	FAILED	1	2023-02-07 21:54:43.076	4m 30s	4m 9s	104.6%	1.5 GB	5.2 GB	2.9 GB	3.1 GB
+343	1d/86b23e	4611234.pbsha.ib.sockeye	benchmark (341)	FAILED	1	2023-02-07 21:54:43.255	4m 30s	4m 7s	99.6%	1.8 GB	6.2 GB	2.9 GB	3.1 GB
+375	e9/c2752c	4611264.pbsha.ib.sockeye	benchmark (373)	COMPLETED	0	2023-02-07 21:56:13.371	3m	2m 35s	104.0%	1001.1 MB	3.3 GB	2.2 GB	3 GB
+297	38/6ba38a	4611190.pbsha.ib.sockeye	benchmark (295)	FAILED	1	2023-02-07 21:52:48.451	6m 30s	6m 4s	107.4%	2 GB	6.8 GB	3.4 GB	3.1 GB
+330	5e/c1bd21	4611228.pbsha.ib.sockeye	benchmark (328)	FAILED	1	2023-02-07 21:54:23.316	4m 55s	4m 37s	104.4%	1.5 GB	5.2 GB	2.8 GB	3.1 GB
+426	a4/26aad2	4611324.pbsha.ib.sockeye	benchmark (424)	FAILED	1	2023-02-07 21:58:28.160	49.9s	25.5s	92.7%	211.6 MB	681.4 MB	1.8 GB	3.1 GB
+395	d9/49f67d	4611294.pbsha.ib.sockeye	benchmark (393)	FAILED	1	2023-02-07 21:57:29.031	1m 54s	1m 37s	94.9%	1 GB	3.5 GB	2 GB	3 GB
+320	26/b3c60d	4611219.pbsha.ib.sockeye	benchmark (318)	COMPLETED	0	2023-02-07 21:54:03.209	5m 26s	5m 7s	103.1%	1.6 GB	5.1 GB	3 GB	3.1 GB
+332	75/1e0bc8	4611230.pbsha.ib.sockeye	benchmark (330)	FAILED	1	2023-02-07 21:54:29.082	5m	4m 36s	99.0%	1.6 GB	5.2 GB	2.8 GB	3.1 GB
+397	90/11748a	4611299.pbsha.ib.sockeye	benchmark (395)	FAILED	1	2023-02-07 21:57:33.347	1m 55s	1m 44s	101.6%	931.6 MB	3 GB	2 GB	3 GB
+403	fb/1aef09	4611302.pbsha.ib.sockeye	benchmark (401)	FAILED	1	2023-02-07 21:57:38.335	1m 50s	1m 39s	112.1%	1004.2 MB	3.5 GB	2 GB	3 GB
+323	b7/5069cf	4611224.pbsha.ib.sockeye	benchmark (321)	FAILED	1	2023-02-07 21:54:18.124	5m 15s	4m 56s	97.0%	1.5 GB	5.2 GB	2.9 GB	3.1 GB
+328	35/60269e	4611237.pbsha.ib.sockeye	benchmark (326)	FAILED	1	2023-02-07 21:54:56.638	4m 36s	4m 16s	96.2%	1.5 GB	5.2 GB	2.9 GB	3.1 GB
+427	b9/cac2d2	4611331.pbsha.ib.sockeye	benchmark (425)	FAILED	1	2023-02-07 21:58:48.103	44.9s	26.9s	96.6%	6.7 MB	233.2 MB	1.8 GB	3 GB
+348	06/3c092f	4611240.pbsha.ib.sockeye	benchmark (346)	FAILED	1	2023-02-07 21:55:08.100	4m 30s	4m 6s	104.0%	1.6 GB	5.2 GB	2.9 GB	3.1 GB
+321	6b/e462fd	4611222.pbsha.ib.sockeye	benchmark (319)	COMPLETED	0	2023-02-07 21:54:08.438	5m 35s	5m 15s	108.0%	1.5 GB	5.1 GB	3 GB	3.1 GB
+333	98/ab33b2	4611229.pbsha.ib.sockeye	benchmark (331)	FAILED	1	2023-02-07 21:54:28.925	5m 19s	4m 53s	100.6%	1.7 GB	5.6 GB	2.9 GB	3.1 GB
+404	79/e43dfd	4611304.pbsha.ib.sockeye	benchmark (402)	FAILED	1	2023-02-07 21:57:43.202	2m 10s	1m 56s	103.2%	991.2 MB	2.9 GB	2 GB	3 GB
+434	4d/7a9677	4611346.pbsha.ib.sockeye	benchmark (432)	FAILED	1	2023-02-07 21:59:10.484	42.5s	29.3s	105.0%	6.6 MB	233.2 MB	1.8 GB	3 GB
+301	77/7e1080	4611194.pbsha.ib.sockeye	benchmark (299)	COMPLETED	0	2023-02-07 21:53:08.083	6m 55s	6m 36s	107.6%	2 GB	6.8 GB	3.7 GB	3.1 GB
+416	db/0e2122	4611316.pbsha.ib.sockeye	benchmark (414)	FAILED	1	2023-02-07 21:58:13.297	1m 50s	1m 28s	105.7%	1004.9 MB	3 GB	2 GB	3 GB
+443	36/1dc124	4611345.pbsha.ib.sockeye	benchmark (441)	FAILED	1	2023-02-07 21:59:10.390	52.6s	32.9s	105.8%	6.6 MB	233.2 MB	1.8 GB	3 GB
+302	65/b6d908	4611195.pbsha.ib.sockeye	benchmark (300)	COMPLETED	0	2023-02-07 21:53:08.164	7m	6m 43s	107.8%	2.1 GB	6.8 GB	3.7 GB	3.1 GB
+406	92/1b4279	4611318.pbsha.ib.sockeye	benchmark (404)	FAILED	1	2023-02-07 21:58:13.496	1m 55s	1m 34s	113.3%	893 MB	2.9 GB	2 GB	3 GB
+444	a6/04ab53	4611347.pbsha.ib.sockeye	benchmark (442)	FAILED	1	2023-02-07 21:59:10.566	57.5s	39.7s	77.7%	6.7 MB	233.2 MB	1.8 GB	3.1 GB
+292	34/517fc6	4611183.pbsha.ib.sockeye	benchmark (290)	COMPLETED	0	2023-02-07 21:52:38.235	7m 35s	7m 5s	100.5%	1.6 GB	5.1 GB	3.7 GB	3.1 GB
+305	10/84d58d	4611208.pbsha.ib.sockeye	benchmark (303)	COMPLETED	0	2023-02-07 21:53:43.160	6m 35s	6m 19s	102.0%	2 GB	6.8 GB	3 GB	3.1 GB
+425	55/4891cd	4611323.pbsha.ib.sockeye	benchmark (423)	FAILED	1	2023-02-07 21:58:23.337	1m 55s	1m 35s	103.2%	983.8 MB	2.9 GB	2 GB	3 GB
+457	fa/b5f84f	4611357.pbsha.ib.sockeye	benchmark (455)	FAILED	1	2023-02-07 21:59:28.933	49.1s	25.9s	104.1%	235.7 MB	748.9 MB	1.8 GB	3 GB
+410	37/d8a07b	4611309.pbsha.ib.sockeye	benchmark (408)	FAILED	1	2023-02-07 21:57:58.092	2m 35s	2m 8s	100.5%	1010.3 MB	3.2 GB	2 GB	3 GB
+310	bc/2e585b	4611205.pbsha.ib.sockeye	benchmark (308)	COMPLETED	0	2023-02-07 21:53:29.026	7m 9s	6m 54s	107.9%	1.8 GB	5.2 GB	3.7 GB	3.1 GB
+315	2f/9a36ac	4611209.pbsha.ib.sockeye	benchmark (313)	COMPLETED	0	2023-02-07 21:53:43.276	6m 55s	6m 39s	108.0%	1.6 GB	5.1 GB	3.7 GB	3.1 GB
+336	ec/784a75	4611235.pbsha.ib.sockeye	benchmark (334)	COMPLETED	0	2023-02-07 21:54:43.335	5m 55s	5m 31s	109.5%	2 GB	6.8 GB	3 GB	3.1 GB
+314	84/e15a0a	4611211.pbsha.ib.sockeye	benchmark (312)	COMPLETED	0	2023-02-07 21:53:43.428	7m	6m 38s	103.0%	1.8 GB	5.1 GB	3.7 GB	3.1 GB
+372	bf/18a577	4611277.pbsha.ib.sockeye	benchmark (370)	FAILED	1	2023-02-07 21:56:43.529	4m	3m 48s	104.2%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
+430	35/4c6388	4611332.pbsha.ib.sockeye	benchmark (428)	FAILED	1	2023-02-07 21:58:48.202	1m 55s	1m 36s	106.9%	1.1 GB	3.5 GB	2 GB	3 GB
+455	9b/d24998	4611354.pbsha.ib.sockeye	benchmark (453)	FAILED	1	2023-02-07 21:59:18.271	1m 25s	1m 8s	86.2%	12.4 MB	235.8 MB	1.8 GB	3.1 GB
+346	8b/3a2328	4611254.pbsha.ib.sockeye	benchmark (344)	FAILED	1	2023-02-07 21:55:53.096	4m 55s	4m 30s	102.0%	1.7 GB	5.6 GB	2.7 GB	3.1 GB
+438	89/2ad21d	4611341.pbsha.ib.sockeye	benchmark (436)	FAILED	1	2023-02-07 21:59:03.494	1m 50s	1m 23s	106.2%	900.7 MB	3 GB	2 GB	3 GB
+316	d8/cb0bc9	4611212.pbsha.ib.sockeye	benchmark (314)	COMPLETED	0	2023-02-07 21:53:43.525	7m 14s	7m 1s	131.7%	1.9 GB	6.8 GB	3.7 GB	3.1 GB
+359	91/f8d188	4611249.pbsha.ib.sockeye	benchmark (357)	COMPLETED	0	2023-02-07 21:55:33.735	5m 24s	5m 7s	102.6%	1.6 GB	5.1 GB	3 GB	3.1 GB
+460	98/e5bba1	4611374.pbsha.ib.sockeye	benchmark (458)	FAILED	1	2023-02-07 22:00:08.281	49.7s	30s	105.8%	252.2 MB	916.2 MB	1.8 GB	3 GB
+353	68/566df0	4611257.pbsha.ib.sockeye	benchmark (351)	FAILED	1	2023-02-07 21:56:03.195	5m	4m 33s	97.2%	1.7 GB	5.6 GB	2.9 GB	3.1 GB
+466	f1/90c049	4611372.pbsha.ib.sockeye	benchmark (464)	FAILED	1	2023-02-07 22:00:08.132	54.9s	30.9s	106.7%	6.6 MB	233.2 MB	1.8 GB	2.8 GB
+470	8e/ece61d	4611375.pbsha.ib.sockeye	benchmark (468)	FAILED	1	2023-02-07 22:00:14.009	49s	24.8s	105.9%	259.6 MB	916.2 MB	1.8 GB	3 GB
+477	e4/273e25	4611377.pbsha.ib.sockeye	benchmark (475)	FAILED	1	2023-02-07 22:00:18.184	44.9s	29.4s	91.5%	6.6 MB	222.8 MB	1.8 GB	2.9 GB
+294	06/85bc88	4611188.pbsha.ib.sockeye	benchmark (292)	COMPLETED	0	2023-02-07 21:52:48.199	8m 25s	8m 4s	105.5%	2 GB	6.8 GB	3.7 GB	3.1 GB
+307	c7/5aa5e0	4611196.pbsha.ib.sockeye	benchmark (305)	COMPLETED	0	2023-02-07 21:53:13.102	8m	7m 38s	102.9%	2.2 GB	7.3 GB	3.7 GB	3.1 GB
+456	3c/eadc75	4611352.pbsha.ib.sockeye	benchmark (454)	FAILED	1	2023-02-07 21:59:18.084	1m 55s	1m 41s	106.2%	1.1 GB	3.5 GB	2 GB	3 GB
+451	6a/8c2943	4611359.pbsha.ib.sockeye	benchmark (449)	FAILED	1	2023-02-07 21:59:29.120	1m 49s	1m 30s	101.4%	927.6 MB	2.9 GB	2 GB	3 GB
+352	56/0fbf76	4611252.pbsha.ib.sockeye	benchmark (350)	COMPLETED	0	2023-02-07 21:55:43.190	5m 40s	5m 18s	105.4%	1.6 GB	5.7 GB	3 GB	3.1 GB
+389	20/22677e	4611290.pbsha.ib.sockeye	benchmark (387)	FAILED	1	2023-02-07 21:57:18.326	4m 5s	3m 46s	105.1%	1.7 GB	5.7 GB	2.7 GB	3.1 GB
+481	08/1179f5	4611381.pbsha.ib.sockeye	benchmark (479)	FAILED	1	2023-02-07 22:00:38.247	44.8s	27.4s	110.4%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
+407	79/6b517a	4611307.pbsha.ib.sockeye	benchmark (405)	COMPLETED	0	2023-02-07 21:57:54.221	3m 35s	3m 10s	98.1%	1 GB	3.7 GB	2.2 GB	3 GB
+420	25/7d94b9	4611330.pbsha.ib.sockeye	benchmark (418)	COMPLETED	0	2023-02-07 21:58:43.311	2m 45s	2m 28s	103.9%	985.9 MB	3.2 GB	2.2 GB	3 GB
+327	b7/35acbc	4611223.pbsha.ib.sockeye	benchmark (325)	COMPLETED	0	2023-02-07 21:54:13.062	7m 20s	6m 59s	101.7%	1.6 GB	5.7 GB	3.7 GB	3.1 GB
+326	05/6e50d5	4611225.pbsha.ib.sockeye	benchmark (324)	COMPLETED	0	2023-02-07 21:54:18.246	7m 25s	6m 51s	99.8%	1.8 GB	5.1 GB	3.7 GB	3.1 GB
+383	f2/5679f5	4611287.pbsha.ib.sockeye	benchmark (381)	FAILED	1	2023-02-07 21:57:08.223	4m 35s	4m 14s	104.1%	1.6 GB	5.2 GB	2.9 GB	3.1 GB
+479	47/e7c15f	4611388.pbsha.ib.sockeye	benchmark (477)	FAILED	1	2023-02-07 22:00:53.129	49.9s	26.3s	99.0%	259.6 MB	916.2 MB	1.8 GB	3.1 GB
+454	0e/0301cc	4611353.pbsha.ib.sockeye	benchmark (452)	FAILED	1	2023-02-07 21:59:18.185	2m 30s	2m 13s	89.6%	938 MB	3.1 GB	2 GB	3 GB
+484	e0/d82913	4611390.pbsha.ib.sockeye	benchmark (482)	FAILED	1	2023-02-07 22:00:58.205	49.8s	27.8s	107.2%	6.6 MB	233.2 MB	1.8 GB	3 GB
+492	8a/671203	4611393.pbsha.ib.sockeye	benchmark (490)	FAILED	1	2023-02-07 22:01:03.218	44.8s	24.4s	95.0%	6.6 MB	233.2 MB	1.8 GB	3.1 GB
+349	00/296c3a	4611244.pbsha.ib.sockeye	benchmark (347)	COMPLETED	0	2023-02-07 21:55:18.175	6m 35s	6m 16s	103.4%	1.8 GB	5.7 GB	3.7 GB	3.1 GB
+370	83/9cca9a	4611278.pbsha.ib.sockeye	benchmark (368)	COMPLETED	0	2023-02-07 21:56:43.613	5m 9s	4m 53s	102.5%	1.6 GB	5.1 GB	3 GB	3.1 GB
+497	ab/e2b258	4611394.pbsha.ib.sockeye	benchmark (495)	FAILED	1	2023-02-07 22:01:03.295	49.7s	31.6s	108.2%	269.9 MB	979.3 MB	1.8 GB	3 GB
+334	25/85a71c	4611227.pbsha.ib.sockeye	benchmark (332)	FAILED	1	2023-02-07 21:54:18.406	7m 40s	7m 8s	99.9%	1.6 GB	5.2 GB	3.4 GB	3.1 GB
+387	4e/2564bb	4611297.pbsha.ib.sockeye	benchmark (385)	FAILED	1	2023-02-07 21:57:33.128	4m 25s	4m 5s	106.2%	2 GB	6.8 GB	2.9 GB	3.1 GB
+432	a0/dccdf0	4611335.pbsha.ib.sockeye	benchmark (430)	COMPLETED	0	2023-02-07 21:58:54.039	3m 4s	2m 42s	98.7%	1 GB	3.7 GB	2.2 GB	3 GB
+489	50/064c4a	4611398.pbsha.ib.sockeye	benchmark (487)	FAILED	1	2023-02-07 22:01:13.276	44.8s	25.9s	105.8%	233.2 MB	747 MB	1.8 GB	3 GB
+341	ef/d7791d	4611236.pbsha.ib.sockeye	benchmark (339)	COMPLETED	0	2023-02-07 21:54:56.560	7m 6s	6m 48s	97.2%	2 GB	6.8 GB	3.7 GB	3.1 GB
+496	32/7ed36c	4611399.pbsha.ib.sockeye	benchmark (494)	FAILED	1	2023-02-07 22:01:13.362	49.7s	29.4s	100.2%	265.7 MB	979.5 MB	1.8 GB	3 GB
+329	31/cf3cf6	4611226.pbsha.ib.sockeye	benchmark (327)	COMPLETED	0	2023-02-07 21:54:18.326	7m 50s	7m 22s	97.5%	2.3 GB	7.8 GB	3.7 GB	3.1 GB
+486	e1/19b536	4611403.pbsha.ib.sockeye	benchmark (484)	FAILED	1	2023-02-07 22:01:23.331	44.7s	28s	105.5%	6.7 MB	233.2 MB	1.8 GB	3 GB
+502	f2/f42e8d	4611405.pbsha.ib.sockeye	benchmark (500)	FAILED	1	2023-02-07 22:01:28.945	44.1s	28.4s	99.6%	6.6 MB	233.2 MB	1.8 GB	2.9 GB
+374	ad/701ec3	4611274.pbsha.ib.sockeye	benchmark (372)	COMPLETED	0	2023-02-07 21:56:43.167	5m 35s	5m 13s	102.2%	1.7 GB	5.7 GB	3 GB	3.1 GB
+478	c2/1952ff	4611380.pbsha.ib.sockeye	benchmark (476)	FAILED	1	2023-02-07 22:00:38.168	1m 40s	1m 21s	107.8%	962.2 MB	3.4 GB	2 GB	3 GB
+356	f9/28e840	4611250.pbsha.ib.sockeye	benchmark (354)	FAILED	1	2023-02-07 21:55:33.852	6m 49s	6m 34s	108.4%	2 GB	6.8 GB	3.4 GB	3.1 GB
+378	bc/002fe5	4611276.pbsha.ib.sockeye	benchmark (376)	COMPLETED	0	2023-02-07 21:56:43.386	5m 40s	5m 22s	98.2%	2 GB	6.8 GB	3 GB	3.1 GB
+400	d0/d76f4c	4611303.pbsha.ib.sockeye	benchmark (398)	FAILED	1	2023-02-07 21:57:43.102	4m 46s	4m 24s	106.3%	2 GB	6.7 GB	2.7 GB	3.1 GB
+461	2b/414fd0	4611373.pbsha.ib.sockeye	benchmark (459)	FAILED	1	2023-02-07 22:00:08.208	2m 21s	1m 46s	103.0%	917 MB	2.9 GB	2 GB	3 GB
+504	3f/b6427e	4611400.pbsha.ib.sockeye	benchmark (502)	FAILED	1	2023-02-07 22:01:18.114	1m 11s	33.6s	92.7%	6.7 MB	233.2 MB	1.8 GB	3.1 GB
+500	c5/885f15	4611414.pbsha.ib.sockeye	benchmark (498)	FAILED	1	2023-02-07 22:01:53.123	39.9s	23.5s	105.0%	6.6 MB	233.2 MB	1.7 GB	2.7 GB
+391	2f/323124	4611292.pbsha.ib.sockeye	benchmark (389)	FAILED	1	2023-02-07 21:57:28.873	5m 9s	4m 38s	100.5%	2 GB	6.8 GB	2.7 GB	3.1 GB
+475	b8/93ae1d	4611379.pbsha.ib.sockeye	benchmark (473)	FAILED	1	2023-02-07 22:00:33.265	2m 5s	1m 42s	107.7%	962.7 MB	2.9 GB	2 GB	3 GB
+472	28/6bec4c	4611386.pbsha.ib.sockeye	benchmark (470)	FAILED	1	2023-02-07 22:00:43.401	1m 55s	1m 37s	105.7%	1 GB	3.5 GB	2 GB	3 GB
+467	3a/5cd006	4611369.pbsha.ib.sockeye	benchmark (465)	COMPLETED	0	2023-02-07 22:00:03.164	2m 45s	2m 29s	106.8%	1001.3 MB	3.2 GB	2.2 GB	3 GB
+418	32/5b4258	4611320.pbsha.ib.sockeye	benchmark (416)	FAILED	1	2023-02-07 21:58:23.091	4m 30s	4m 6s	108.4%	1.5 GB	5.1 GB	2.9 GB	3.1 GB
+465	d7/dd6afd	4611362.pbsha.ib.sockeye	benchmark (463)	COMPLETED	0	2023-02-07 21:59:33.387	3m 25s	2m 50s	97.1%	1014.5 MB	3.2 GB	2.2 GB	3 GB
+501	c7/344ed6	4611420.pbsha.ib.sockeye	benchmark (499)	FAILED	1	2023-02-07 22:01:58.607	1m 4s	39.2s	78.5%	196.2 MB	677.4 MB	1.8 GB	3.1 GB
+361	2f/6bf6f4	4611255.pbsha.ib.sockeye	benchmark (359)	COMPLETED	0	2023-02-07 21:55:53.218	7m 15s	6m 54s	100.1%	1.6 GB	5.1 GB	3.7 GB	3.1 GB
+373	e8/edd96d	4611267.pbsha.ib.sockeye	benchmark (371)	COMPLETED	0	2023-02-07 21:56:18.180	6m 50s	6m 30s	107.8%	1.6 GB	5.1 GB	3.7 GB	3.1 GB
+511	12/8998d1	4611423.pbsha.ib.sockeye	benchmark (509)	FAILED	1	2023-02-07 22:02:08.151	1m 5s	34.6s	104.3%	259.4 MB	916.2 MB	1.8 GB	3 GB
+521	89/0774d4	4611425.pbsha.ib.sockeye	benchmark (519)	FAILED	1	2023-02-07 22:02:13.178	59.9s	45.1s	106.7%	265.3 MB	971.6 MB	1.8 GB	3 GB
+525	a2/b751e1	4611428.pbsha.ib.sockeye	benchmark (523)	FAILED	1	2023-02-07 22:02:23.108	49.9s	29.5s	98.9%	230.5 MB	688.9 MB	1.8 GB	3 GB
+441	ef/399b5c	4611343.pbsha.ib.sockeye	benchmark (439)	FAILED	1	2023-02-07 21:59:03.943	4m 14s	3m 58s	102.8%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
+442	22/094203	4611350.pbsha.ib.sockeye	benchmark (440)	FAILED	1	2023-02-07 21:59:13.280	4m 5s	3m 43s	105.9%	1.5 GB	5.1 GB	2.7 GB	3.1 GB
+528	f7/a5d5e4	4611434.pbsha.ib.sockeye	benchmark (526)	FAILED	1	2023-02-07 22:02:38.105	40s	28.2s	105.1%	6.7 MB	233.2 MB	1.8 GB	3 GB
+412	b8/bb2194	4611313.pbsha.ib.sockeye	benchmark (410)	FAILED	1	2023-02-07 21:58:08.220	5m 15s	4m 53s	97.8%	2 GB	6.7 GB	2.9 GB	3.1 GB
+436	bd/a29248	4611337.pbsha.ib.sockeye	benchmark (434)	FAILED	1	2023-02-07 21:58:54.202	4m 29s	4m 8s	107.5%	1.5 GB	5.1 GB	2.9 GB	3.1 GB
+364	62/86ac0f	4611270.pbsha.ib.sockeye	benchmark (362)	COMPLETED	0	2023-02-07 21:56:29.798	6m 59s	6m 40s	97.3%	2 GB	6.3 GB	3.7 GB	3.1 GB
+421	7e/ed48de	4611327.pbsha.ib.sockeye	benchmark (419)	FAILED	1	2023-02-07 21:58:38.101	4m 51s	4m 28s	102.1%	2 GB	6.7 GB	2.9 GB	3.1 GB
+424	2f/ed26bd	4611329.pbsha.ib.sockeye	benchmark (422)	FAILED	1	2023-02-07 21:58:43.210	4m 50s	4m 30s	100.8%	1.8 GB	6.3 GB	2.9 GB	3.1 GB
+366	bd/5126f6	4611268.pbsha.ib.sockeye	benchmark (364)	FAILED	1	2023-02-07 21:56:18.263	7m 20s	7m	102.7%	1.8 GB	6.2 GB	3.4 GB	3.1 GB
+393	0b/101171	4611291.pbsha.ib.sockeye	benchmark (391)	COMPLETED	0	2023-02-07 21:57:23.094	6m 15s	5m 42s	110.2%	1.6 GB	5.1 GB	3 GB	3.1 GB
+452	fd/603992	4611355.pbsha.ib.sockeye	benchmark (450)	FAILED	1	2023-02-07 21:59:23.128	4m 15s	3m 55s	103.9%	1.5 GB	5.2 GB	2.7 GB	3.1 GB
+508	24/a57704	4611409.pbsha.ib.sockeye	benchmark (506)	FAILED	1	2023-02-07 22:01:43.185	1m 55s	1m 35s	106.7%	938.7 MB	3 GB	2 GB	3 GB
+490	b2/0f1498	4611395.pbsha.ib.sockeye	benchmark (488)	FAILED	1	2023-02-07 22:01:03.385	2m 40s	2m 9s	101.5%	1 GB	3.5 GB	2.1 GB	3 GB
+510	4d/7b349f	4611410.pbsha.ib.sockeye	benchmark (508)	FAILED	1	2023-02-07 22:01:43.261	2m	1m 44s	103.2%	1 GB	2.9 GB	2.1 GB	3 GB
+379	26/1c968d	4611281.pbsha.ib.sockeye	benchmark (377)	COMPLETED	0	2023-02-07 21:56:48.566	6m 59s	6m 40s	107.5%	1.9 GB	6.2 GB	3.7 GB	3.1 GB
+463	dd/87f310	4611364.pbsha.ib.sockeye	benchmark (461)	FAILED	1	2023-02-07 21:59:44.069	4m 9s	3m 52s	106.5%	1.7 GB	5.6 GB	2.7 GB	3.1 GB
+367	56/a28502	4611266.pbsha.ib.sockeye	benchmark (365)	FAILED	1	2023-02-07 21:56:18.091	7m 40s	7m 19s	104.3%	2.1 GB	7.3 GB	3.4 GB	3.1 GB
+371	b7/bfc4fb	4611271.pbsha.ib.sockeye	benchmark (369)	COMPLETED	0	2023-02-07 21:56:37.796	7m 30s	7m 11s	106.2%	1.8 GB	6.2 GB	3.7 GB	3.1 GB
+365	1c/f8be74	4611272.pbsha.ib.sockeye	benchmark (363)	COMPLETED	0	2023-02-07 21:56:38.085	7m 30s	7m 17s	104.0%	1.7 GB	5.1 GB	3.7 GB	3.1 GB
+514	b3/081688	4611422.pbsha.ib.sockeye	benchmark (512)	FAILED	1	2023-02-07 22:02:03.225	2m 5s	1m 43s	99.6%	1 GB	3.5 GB	2 GB	3 GB
+537	3b/4eebce	4611443.pbsha.ib.sockeye	benchmark (535)	FAILED	1	2023-02-07 22:03:13.133	54.9s	38.6s	77.6%	6.6 MB	222.8 MB	1.8 GB	3.1 GB
+384	53/ea1a16	4611280.pbsha.ib.sockeye	benchmark (382)	COMPLETED	0	2023-02-07 21:56:48.456	7m 25s	7m 4s	99.4%	1.8 GB	5.1 GB	3.7 GB	3.1 GB
+401	55/b6b8db	4611300.pbsha.ib.sockeye	benchmark (399)	COMPLETED	0	2023-02-07 21:57:38.132	6m 35s	6m 22s	106.3%	1.8 GB	5.7 GB	3.7 GB	3.1 GB
+526	f0/50455a	4611429.pbsha.ib.sockeye	benchmark (524)	FAILED	1	2023-02-07 22:02:23.180	1m 50s	1m 30s	104.7%	983 MB	2.9 GB	2 GB	3 GB
+450	5e/e626f0	4611358.pbsha.ib.sockeye	benchmark (448)	FAILED	1	2023-02-07 21:59:29.020	4m 49s	4m 31s	100.7%	2 GB	6.7 GB	2.7 GB	3.1 GB
+449	32/e15ee9	4611360.pbsha.ib.sockeye	benchmark (447)	FAILED	1	2023-02-07 21:59:33.146	4m 45s	4m 15s	96.3%	1.5 GB	5.2 GB	2.7 GB	3.1 GB
+423	c2/141514	4611328.pbsha.ib.sockeye	benchmark (421)	COMPLETED	0	2023-02-07 21:58:43.095	5m 40s	5m 22s	97.2%	1.5 GB	5.1 GB	3 GB	3.1 GB
+527	06/d7b968	4611432.pbsha.ib.sockeye	benchmark (525)	FAILED	1	2023-02-07 22:02:29.077	1m 54s	1m 34s	108.8%	1 GB	3.5 GB	2 GB	3 GB
+392	98/fb5ecc	4611293.pbsha.ib.sockeye	benchmark (390)	COMPLETED	0	2023-02-07 21:57:28.950	7m	6m 39s	99.6%	1.7 GB	5.7 GB	3.7 GB	3.1 GB
+394	92/f885a7	4611298.pbsha.ib.sockeye	benchmark (392)	COMPLETED	0	2023-02-07 21:57:33.219	6m 56s	6m 45s	101.9%	1.6 GB	5.1 GB	3.7 GB	3.1 GB
+439	40/c3ebb3	4611338.pbsha.ib.sockeye	benchmark (437)	COMPLETED	0	2023-02-07 21:58:54.273	5m 35s	5m 11s	102.4%	1.6 GB	5.1 GB	3 GB	3.1 GB
+435	e3/3b7b8f	4611340.pbsha.ib.sockeye	benchmark (433)	COMPLETED	0	2023-02-07 21:58:58.089	5m 31s	5m 12s	105.6%	1.5 GB	5.1 GB	3 GB	3.1 GB
+385	5b/10fb79	4611289.pbsha.ib.sockeye	benchmark (383)	COMPLETED	0	2023-02-07 21:57:18.240	7m 15s	6m 57s	104.0%	1.8 GB	5.2 GB	3.7 GB	3.1 GB
+440	01/611119	4611339.pbsha.ib.sockeye	benchmark (438)	COMPLETED	0	2023-02-07 21:58:54.342	5m 54s	5m 34s	97.0%	1.8 GB	6.3 GB	3 GB	3.1 GB
+446	6d/de5eb9	4611348.pbsha.ib.sockeye	benchmark (444)	FAILED	1	2023-02-07 21:59:10.637	5m 42s	5m 26s	103.2%	2 GB	6.7 GB	2.7 GB	3.1 GB
+447	2e/558ecf	4611349.pbsha.ib.sockeye	benchmark (445)	COMPLETED	0	2023-02-07 21:59:13.180	5m 40s	5m 14s	104.8%	1.5 GB	5.2 GB	3 GB	3.1 GB
+482	0a/8b4e15	4611382.pbsha.ib.sockeye	benchmark (480)	FAILED	1	2023-02-07 22:00:38.339	4m 15s	3m 56s	101.9%	2 GB	6.8 GB	2.9 GB	3.1 GB
+411	8c/e0c04d	4611308.pbsha.ib.sockeye	benchmark (409)	COMPLETED	0	2023-02-07 21:57:54.342	7m 4s	6m 41s	98.4%	2 GB	6.8 GB	3 GB	3.1 GB
+414	e8/999ee2	4611312.pbsha.ib.sockeye	benchmark (412)	COMPLETED	0	2023-02-07 21:58:08.106	6m 50s	6m 34s	104.5%	1.9 GB	5.1 GB	3.7 GB	3.1 GB
+493	b3/b09daa	4611392.pbsha.ib.sockeye	benchmark (491)	FAILED	1	2023-02-07 22:01:03.142	3m 55s	3m 41s	104.1%	1.5 GB	5.1 GB	2.7 GB	3.1 GB
+405	4e/a8f2bd	4611305.pbsha.ib.sockeye	benchmark (403)	COMPLETED	0	2023-02-07 21:57:48.117	7m 15s	6m 54s	105.1%	1.5 GB	5.3 GB	3.7 GB	3.1 GB
+417	4d/17a886	4611317.pbsha.ib.sockeye	benchmark (415)	COMPLETED	0	2023-02-07 21:58:13.378	6m 50s	6m 33s	108.1%	2 GB	6.8 GB	3.7 GB	3.1 GB
+483	82/0bf217	4611387.pbsha.ib.sockeye	benchmark (481)	FAILED	1	2023-02-07 22:00:48.112	4m 20s	4m 1s	111.5%	2 GB	6.8 GB	2.9 GB	3.1 GB
+488	66/307879	4611385.pbsha.ib.sockeye	benchmark (486)	FAILED	1	2023-02-07 22:00:43.322	4m 35s	4m 13s	103.2%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
+448	62/f4cd38	4611363.pbsha.ib.sockeye	benchmark (446)	COMPLETED	0	2023-02-07 21:59:38.148	5m 45s	5m 13s	105.9%	1.5 GB	5.1 GB	3 GB	3.1 GB
+415	8f/bf259b	4611319.pbsha.ib.sockeye	benchmark (413)	COMPLETED	0	2023-02-07 21:58:18.128	7m 11s	6m 54s	104.3%	1.8 GB	5.2 GB	3.7 GB	3.1 GB
+419	07/c815fc	4611326.pbsha.ib.sockeye	benchmark (417)	COMPLETED	0	2023-02-07 21:58:29.152	7m	6m 41s	107.4%	1.6 GB	5.2 GB	3.7 GB	3.1 GB
+429	c7/97fef4	4611325.pbsha.ib.sockeye	benchmark (427)	COMPLETED	0	2023-02-07 21:58:29.071	7m 4s	6m 46s	107.6%	1.9 GB	5.7 GB	3.7 GB	3.1 GB
+428	90/d23370	4611334.pbsha.ib.sockeye	benchmark (426)	FAILED	1	2023-02-07 21:58:53.946	6m 44s	6m 23s	104.2%	1.8 GB	5.2 GB	3.4 GB	3.1 GB
+409	dd/959d23	4611310.pbsha.ib.sockeye	benchmark (407)	COMPLETED	0	2023-02-07 21:57:58.164	7m 50s	7m 26s	97.3%	1.9 GB	6.3 GB	3.7 GB	3.1 GB
+473	9d/ff9907	4611371.pbsha.ib.sockeye	benchmark (471)	COMPLETED	0	2023-02-07 22:00:03.380	5m 45s	5m 16s	104.5%	2 GB	6.8 GB	3 GB	3.1 GB
+506	60/513c36	4611407.pbsha.ib.sockeye	benchmark (504)	FAILED	1	2023-02-07 22:01:33.122	4m 20s	3m 59s	105.9%	1.7 GB	5.6 GB	2.9 GB	3.1 GB
+468	4c/6ca7e0	4611365.pbsha.ib.sockeye	benchmark (466)	COMPLETED	0	2023-02-07 21:59:48.117	6m 10s	5m 41s	100.9%	2 GB	6.7 GB	3 GB	3.1 GB
+433	29/920242	4611336.pbsha.ib.sockeye	benchmark (431)	COMPLETED	0	2023-02-07 21:58:54.128	7m 9s	6m 40s	108.1%	1.9 GB	6.3 GB	3.7 GB	3.1 GB
+485	4c/16d20b	4611402.pbsha.ib.sockeye	benchmark (483)	FAILED	1	2023-02-07 22:01:23.245	4m 40s	4m 7s	103.9%	1.8 GB	6.3 GB	2.9 GB	3.1 GB
+399	9d/cf2b46	4611314.pbsha.ib.sockeye	benchmark (397)	COMPLETED	0	2023-02-07 21:58:08.307	8m	7m 43s	100.0%	1.8 GB	5.1 GB	3.7 GB	3.1 GB
+431	72/715510	4611333.pbsha.ib.sockeye	benchmark (429)	COMPLETED	0	2023-02-07 21:58:53.101	7m 25s	7m 5s	100.2%	1.6 GB	5.2 GB	3.7 GB	3.1 GB
+458	e6/67b85c	4611361.pbsha.ib.sockeye	benchmark (456)	COMPLETED	0	2023-02-07 21:59:33.303	6m 45s	6m 26s	107.7%	2.1 GB	6.8 GB	3.7 GB	3.1 GB
+480	9c/4f5d15	4611384.pbsha.ib.sockeye	benchmark (478)	COMPLETED	0	2023-02-07 22:00:43.233	5m 46s	5m 27s	102.4%	2 GB	6.8 GB	3 GB	3.1 GB
+453	f8/40a7cd	4611351.pbsha.ib.sockeye	benchmark (451)	COMPLETED	0	2023-02-07 21:59:13.369	7m 25s	7m 1s	105.2%	1.9 GB	5.1 GB	3.7 GB	3.1 GB
+519	f6/cbea62	4611424.pbsha.ib.sockeye	benchmark (517)	FAILED	1	2023-02-07 22:02:08.261	4m 30s	4m 8s	113.8%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
+437	02/7c2750	4611344.pbsha.ib.sockeye	benchmark (435)	COMPLETED	0	2023-02-07 21:59:08.127	7m 35s	7m 18s	104.1%	1.9 GB	6.2 GB	3.7 GB	3.1 GB
+459	7c/68ea89	4611356.pbsha.ib.sockeye	benchmark (457)	COMPLETED	0	2023-02-07 21:59:28.853	7m 19s	7m 2s	104.6%	1.9 GB	6.2 GB	3.7 GB	3.1 GB
+464	ec/3dccf9	4611366.pbsha.ib.sockeye	benchmark (462)	COMPLETED	0	2023-02-07 21:59:53.118	6m 55s	6m 35s	104.4%	1.6 GB	5.1 GB	3.7 GB	3.1 GB
+498	56/ad9ec8	4611408.pbsha.ib.sockeye	benchmark (496)	FAILED	1	2023-02-07 22:01:43.108	5m 5s	4m 45s	98.1%	2 GB	6.7 GB	2.9 GB	3.1 GB
+509	2f/b336e2	4611417.pbsha.ib.sockeye	benchmark (507)	FAILED	1	2023-02-07 22:01:58.147	4m 55s	4m 30s	103.0%	1.6 GB	5.1 GB	2.9 GB	3.1 GB
+476	7a/36852c	4611378.pbsha.ib.sockeye	benchmark (474)	COMPLETED	0	2023-02-07 22:00:18.259	6m 40s	6m 10s	110.1%	2.1 GB	7.3 GB	3 GB	3.1 GB
+471	6e/bf163b	4611376.pbsha.ib.sockeye	benchmark (469)	COMPLETED	0	2023-02-07 22:00:18.112	6m 50s	6m 31s	103.1%	1.9 GB	5.1 GB	3.7 GB	3.1 GB
+524	a5/b1509a	4611442.pbsha.ib.sockeye	benchmark (522)	FAILED	1	2023-02-07 22:03:08.215	4m	3m 39s	111.2%	2 GB	6.8 GB	2.7 GB	3.1 GB
+513	d5/18f666	4611411.pbsha.ib.sockeye	benchmark (511)	COMPLETED	0	2023-02-07 22:01:48.182	5m 25s	5m 3s	106.0%	1.8 GB	6.2 GB	3 GB	3.1 GB
+445	4e/515af0	4611342.pbsha.ib.sockeye	benchmark (443)	COMPLETED	0	2023-02-07 21:59:03.859	8m 14s	7m 44s	103.3%	2 GB	6.7 GB	3.7 GB	3.1 GB
+503	2b/4e4ffe	4611413.pbsha.ib.sockeye	benchmark (501)	COMPLETED	0	2023-02-07 22:01:48.424	5m 30s	5m 10s	97.1%	1.7 GB	5.6 GB	3 GB	3.1 GB
+499	a8/40d26d	4611415.pbsha.ib.sockeye	benchmark (497)	COMPLETED	0	2023-02-07 22:01:53.212	5m 45s	5m 15s	107.0%	1.8 GB	6.3 GB	3 GB	3.1 GB
+518	1e/b91294	4611426.pbsha.ib.sockeye	benchmark (516)	COMPLETED	0	2023-02-07 22:02:18.119	5m 20s	5m	104.2%	1.7 GB	5.6 GB	3 GB	3.1 GB
+462	08/65d250	4611370.pbsha.ib.sockeye	benchmark (460)	COMPLETED	0	2023-02-07 22:00:03.258	7m 40s	7m 17s	103.8%	1.9 GB	5.6 GB	3.7 GB	3.1 GB
+494	16/83042b	4611391.pbsha.ib.sockeye	benchmark (492)	COMPLETED	0	2023-02-07 22:00:58.298	6m 55s	6m 33s	113.1%	1.8 GB	6.2 GB	3.7 GB	3.1 GB
+491	1f/a95564	4611397.pbsha.ib.sockeye	benchmark (489)	COMPLETED	0	2023-02-07 22:01:13.159	6m 50s	6m 32s	106.1%	2 GB	6.8 GB	3.7 GB	3.1 GB
+505	99/4944e4	4611401.pbsha.ib.sockeye	benchmark (503)	FAILED	1	2023-02-07 22:01:23.167	6m 45s	6m 27s	101.6%	1.9 GB	6.3 GB	3.4 GB	3.1 GB
+495	6e/35dd7d	4611404.pbsha.ib.sockeye	benchmark (493)	COMPLETED	0	2023-02-07 22:01:28.854	6m 54s	6m 36s	104.5%	1.7 GB	5.7 GB	3.7 GB	3.1 GB
+469	9e/16e1df	4611367.pbsha.ib.sockeye	benchmark (467)	COMPLETED	0	2023-02-07 21:59:53.228	8m 40s	8m 9s	106.8%	2.1 GB	7.3 GB	3.7 GB	3.1 GB
+515	a3/861490	4611412.pbsha.ib.sockeye	benchmark (513)	COMPLETED	0	2023-02-07 22:01:48.350	6m 45s	6m 28s	116.2%	2 GB	6.8 GB	3.7 GB	3.1 GB
+512	29/ad268f	4611421.pbsha.ib.sockeye	benchmark (510)	FAILED	1	2023-02-07 22:02:03.134	6m 45s	6m 20s	101.4%	1.9 GB	5 GB	3.4 GB	3.1 GB
+507	4a/cfc8ce	4611419.pbsha.ib.sockeye	benchmark (505)	FAILED	1	2023-02-07 22:01:58.521	7m	6m 33s	100.7%	2 GB	6.8 GB	3.4 GB	3.1 GB
+520	12/a45118	4611427.pbsha.ib.sockeye	benchmark (518)	FAILED	1	2023-02-07 22:02:18.228	6m 40s	6m 19s	102.1%	1.8 GB	5.1 GB	3.4 GB	3.1 GB
+487	56/0d300a	4611389.pbsha.ib.sockeye	benchmark (485)	COMPLETED	0	2023-02-07 22:00:58.118	8m 10s	7m 46s	112.6%	2 GB	6.8 GB	3.7 GB	3.1 GB
+531	5e/d7cfc9	4611431.pbsha.ib.sockeye	benchmark (529)	COMPLETED	0	2023-02-07 22:02:28.970	6m 49s	6m 34s	109.7%	2 GB	6.8 GB	3.7 GB	3.1 GB
+523	e6/1f2af3	4611430.pbsha.ib.sockeye	benchmark (521)	COMPLETED	0	2023-02-07 22:02:28.896	6m 54s	6m 36s	105.0%	1.9 GB	6.2 GB	3.7 GB	3.1 GB
+516	b6/2c2d54	4611416.pbsha.ib.sockeye	benchmark (514)	COMPLETED	0	2023-02-07 22:01:53.297	7m 40s	7m 8s	104.1%	1.9 GB	5.7 GB	3.7 GB	3.1 GB
+474	cd/5017a2	4611383.pbsha.ib.sockeye	benchmark (472)	COMPLETED	0	2023-02-07 22:00:43.137	9m	8m 13s	99.6%	2 GB	6.8 GB	3.7 GB	3.1 GB
+535	bb/d65d15	4611436.pbsha.ib.sockeye	benchmark (533)	COMPLETED	0	2023-02-07 22:02:38.282	7m 5s	6m 43s	105.4%	1.7 GB	5.7 GB	3.7 GB	3.1 GB
+517	a5/ad3118	4611418.pbsha.ib.sockeye	benchmark (515)	COMPLETED	0	2023-02-07 22:01:58.411	7m 50s	7m 28s	108.1%	1.9 GB	5.2 GB	3.7 GB	3.1 GB
+529	be/404736	4611440.pbsha.ib.sockeye	benchmark (527)	COMPLETED	0	2023-02-07 22:03:03.261	6m 45s	6m 30s	105.9%	1.8 GB	5.1 GB	3.7 GB	3.1 GB
+536	34/e1523d	4611439.pbsha.ib.sockeye	benchmark (534)	COMPLETED	0	2023-02-07 22:02:58.204	6m 55s	6m 33s	104.5%	1.7 GB	5.7 GB	3.7 GB	3.1 GB
+530	82/f70fa3	4611433.pbsha.ib.sockeye	benchmark (528)	COMPLETED	0	2023-02-07 22:02:33.115	7m 30s	7m 11s	97.2%	1.9 GB	5.1 GB	3.7 GB	3.1 GB
+522	b7/cf76b1	4611435.pbsha.ib.sockeye	benchmark (520)	COMPLETED	0	2023-02-07 22:02:38.200	7m 25s	7m 10s	106.8%	2 GB	5.7 GB	3.7 GB	3.1 GB
+533	16/c0a1d9	4611441.pbsha.ib.sockeye	benchmark (531)	COMPLETED	0	2023-02-07 22:03:08.145	7m	6m 38s	105.7%	1.8 GB	5.7 GB	3.7 GB	3.1 GB
+532	9f/5a7f4c	4611437.pbsha.ib.sockeye	benchmark (530)	COMPLETED	0	2023-02-07 22:02:48.139	7m 30s	7m 15s	99.8%	1.8 GB	6.2 GB	3.7 GB	3.1 GB
+534	83/395503	4611438.pbsha.ib.sockeye	benchmark (532)	COMPLETED	0	2023-02-07 22:02:53.160	7m 30s	7m 4s	97.9%	1.9 GB	5.2 GB	3.7 GB	3.1 GB
+538	d2/7c85f3	4611469.pbsha.ib.sockeye	aggregate	COMPLETED	0	2023-02-07 22:10:23.342	29.7s	9.8s	37.3%	77.2 MB	4.4 GB	9.7 MB	13.5 KB
+539	bc/593146	4611472.pbsha.ib.sockeye	plot	COMPLETED	0	2023-02-07 22:10:53.213	19.9s	5.5s	48.9%	45.3 MB	248.5 MB	5.8 MB	442 B
