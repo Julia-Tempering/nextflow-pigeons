@@ -23,7 +23,7 @@ data %>%
   ggplot(aes(x = date, y = time_per_expl, colour = in_master)) +
     scale_y_log10() +
     scale_x_datetime(labels = date_format("%Y-%m-%d")) +
-    ylab("Time (s) for using Pigeons stmt") + 
+    ylab("Time (s) to load package") + 
     xlab("Commit date") +
     geom_point()  + 
     theme_bw()
@@ -40,6 +40,7 @@ data %>%
 ggsave("allocations-by-commit.pdf", width = 5, height = 5)
 
 data %>%
+  filter(n_rounds > 0) %>%
   ggplot(aes(x = n_rounds, y = bytes, colour = date)) +
     ylab("Allocations (bytes)") + 
     xlab("Round") +
